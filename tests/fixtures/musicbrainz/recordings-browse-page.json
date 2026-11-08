@@ -1,0 +1,417 @@
+{
+ "recording-offset": 0,
+ "recording-count": 12,
+ "recordings": [
+  {
+   "video": false,
+   "first-release-date": "1997-05-21",
+   "disambiguation": "",
+   "id": "4a7fea2e-545b-4c63-bc9a-9943cc3a29d7",
+   "relations": [
+    {
+     "attribute-ids": {},
+     "attributes": [],
+     "source-credit": "",
+     "target-credit": "",
+     "attribute-values": {},
+     "type": "conductor",
+     "ended": true,
+     "artist": {
+      "disambiguation": "",
+      "id": "32111fcd-2338-472a-892b-4b329549e3ba",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB",
+      "sort-name": "Ingman, Nick",
+      "name": "Nick Ingman",
+      "type": "Person"
+     },
+     "end": "1997-03",
+     "begin": "1996-07",
+     "target-type": "artist",
+     "type-id": "234670ce-5f22-4fd0-921b-ef1662695c5d",
+     "direction": "backward"
+    },
+    {
+     "artist": {
+      "type": "Person",
+      "name": "Nigel Godrich",
+      "sort-name": "Godrich, Nigel",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB",
+      "disambiguation": "English record producer",
+      "id": "52de022d-5401-427f-8301-ff1b8be11a7a"
+     },
+     "ended": false,
+     "type": "editor",
+     "attribute-values": {},
+     "target-credit": "",
+     "source-credit": "",
+     "attribute-ids": {},
+     "attributes": [],
+     "direction": "backward",
+     "type-id": "40dff87a-e475-4aa6-b615-9935b564d756",
+     "target-type": "artist",
+     "end": null,
+     "begin": null
+    },
+    {
+     "target-credit": "",
+     "source-credit": "",
+     "attributes": [
+      "assistant"
+     ],
+     "attribute-ids": {
+      "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+     },
+     "artist": {
+      "type": "Person",
+      "name": "Jon Bailey",
+      "id": "ecb6f2a6-32ba-4057-b7af-4ca1b35aeb9e",
+      "disambiguation": "engineer",
+      "country": "GB",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "sort-name": "Bailey, Jon"
+     },
+     "ended": false,
+     "type": "engineer",
+     "attribute-values": {},
+     "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+     "end": null,
+     "begin": null,
+     "target-type": "artist",
+     "direction": "backward"
+    },
+    {
+     "source-credit": "",
+     "attribute-ids": {
+      "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+     },
+     "attributes": [
+      "assistant"
+     ],
+     "target-credit": "",
+     "type": "engineer",
+     "attribute-values": {},
+     "artist": {
+      "type": "Person",
+      "name": "Gerard Navarro",
+      "id": "b796507a-7c0f-41fb-b877-1e68c650568d",
+      "disambiguation": "engineer",
+      "sort-name": "Navarro, Gerard",
+      "country": "GB",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+     },
+     "ended": false,
+     "begin": null,
+     "end": null,
+     "target-type": "artist",
+     "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+     "direction": "backward"
+    },
+    {
+     "attribute-ids": {
+      "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+     },
+     "attributes": [
+      "assistant"
+     ],
+     "source-credit": "",
+     "target-credit": "",
+     "attribute-values": {},
+     "type": "engineer",
+     "ended": false,
+     "artist": {
+      "name": "Chris Scard",
+      "type": "Person",
+      "disambiguation": "",
+      "id": "a77fa7aa-44b1-48a6-8f68-450e80fbc87f",
+      "sort-name": "Scard, Chris",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB"
+     },
+     "end": null,
+     "begin": null,
+     "target-type": "artist",
+     "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+     "direction": "backward"
+    }
+   ],
+   "title": "Airbag",
+   "length": 284400
+  },
+  {
+   "length": 230640,
+   "relations": [
+    {
+     "source-credit": "",
+     "attributes": [],
+     "attribute-ids": {},
+     "target-credit": "",
+     "type": "conductor",
+     "attribute-values": {},
+     "artist": {
+      "disambiguation": "",
+      "id": "32111fcd-2338-472a-892b-4b329549e3ba",
+      "sort-name": "Ingman, Nick",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB",
+      "name": "Nick Ingman",
+      "type": "Person"
+     },
+     "ended": true,
+     "target-type": "artist",
+     "begin": "1996-07",
+     "end": "1997-03",
+     "type-id": "234670ce-5f22-4fd0-921b-ef1662695c5d",
+     "direction": "backward"
+    },
+    {
+     "target-credit": "",
+     "source-credit": "",
+     "attribute-ids": {},
+     "attributes": [],
+     "artist": {
+      "sort-name": "Godrich, Nigel",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB",
+      "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+      "disambiguation": "English record producer",
+      "name": "Nigel Godrich",
+      "type": "Person"
+     },
+     "ended": false,
+     "type": "editor",
+     "attribute-values": {},
+     "type-id": "40dff87a-e475-4aa6-b615-9935b564d756",
+     "target-type": "artist",
+     "begin": null,
+     "end": null,
+     "direction": "backward"
+    },
+    {
+     "end": null,
+     "begin": null,
+     "target-type": "artist",
+     "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+     "direction": "backward",
+     "attribute-ids": {
+      "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+     },
+     "attributes": [
+      "assistant"
+     ],
+     "source-credit": "",
+     "target-credit": "",
+     "attribute-values": {},
+     "type": "engineer",
+     "ended": false,
+     "artist": {
+      "type": "Person",
+      "name": "Jon Bailey",
+      "id": "ecb6f2a6-32ba-4057-b7af-4ca1b35aeb9e",
+      "disambiguation": "engineer",
+      "country": "GB",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "sort-name": "Bailey, Jon"
+     }
+    },
+    {
+     "attribute-values": {},
+     "type": "engineer",
+     "ended": false,
+     "artist": {
+      "type": "Person",
+      "name": "Gerard Navarro",
+      "sort-name": "Navarro, Gerard",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB",
+      "id": "b796507a-7c0f-41fb-b877-1e68c650568d",
+      "disambiguation": "engineer"
+     },
+     "attribute-ids": {
+      "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+     },
+     "attributes": [
+      "assistant"
+     ],
+     "source-credit": "",
+     "target-credit": "",
+     "direction": "backward",
+     "end": null,
+     "begin": null,
+     "target-type": "artist",
+     "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907"
+    },
+    {
+     "end": null,
+     "begin": null,
+     "target-type": "artist",
+     "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+     "direction": "backward",
+     "source-credit": "",
+     "attributes": [
+      "assistant"
+     ],
+     "attribute-ids": {
+      "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+     },
+     "target-credit": "",
+     "type": "engineer",
+     "attribute-values": {},
+     "artist": {
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB",
+      "sort-name": "Scard, Chris",
+      "id": "a77fa7aa-44b1-48a6-8f68-450e80fbc87f",
+      "disambiguation": "",
+      "type": "Person",
+      "name": "Chris Scard"
+     },
+     "ended": false
+    }
+   ],
+   "title": "Electioneering",
+   "id": "ba0a796c-bd1f-4d4b-85a8-918f217a204a",
+   "disambiguation": "",
+   "first-release-date": "1997-05-21",
+   "video": false
+  },
+  {
+   "first-release-date": "1997-05-21",
+   "video": false,
+   "length": 285200,
+   "relations": [
+    {
+     "direction": "backward",
+     "begin": "1996-07",
+     "end": "1997-03",
+     "target-type": "artist",
+     "type-id": "234670ce-5f22-4fd0-921b-ef1662695c5d",
+     "type": "conductor",
+     "attribute-values": {},
+     "artist": {
+      "sort-name": "Ingman, Nick",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB",
+      "id": "32111fcd-2338-472a-892b-4b329549e3ba",
+      "disambiguation": "",
+      "name": "Nick Ingman",
+      "type": "Person"
+     },
+     "ended": true,
+     "source-credit": "",
+     "attribute-ids": {},
+     "attributes": [],
+     "target-credit": ""
+    },
+    {
+     "target-type": "artist",
+     "end": null,
+     "begin": null,
+     "type-id": "40dff87a-e475-4aa6-b615-9935b564d756",
+     "direction": "backward",
+     "attributes": [],
+     "attribute-ids": {},
+     "source-credit": "",
+     "target-credit": "",
+     "attribute-values": {},
+     "type": "editor",
+     "ended": false,
+     "artist": {
+      "name": "Nigel Godrich",
+      "type": "Person",
+      "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+      "disambiguation": "English record producer",
+      "country": "GB",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "sort-name": "Godrich, Nigel"
+     }
+    },
+    {
+     "direction": "backward",
+     "end": null,
+     "begin": null,
+     "target-type": "artist",
+     "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+     "type": "engineer",
+     "attribute-values": {},
+     "artist": {
+      "id": "ecb6f2a6-32ba-4057-b7af-4ca1b35aeb9e",
+      "disambiguation": "engineer",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB",
+      "sort-name": "Bailey, Jon",
+      "type": "Person",
+      "name": "Jon Bailey"
+     },
+     "ended": false,
+     "source-credit": "",
+     "attribute-ids": {
+      "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+     },
+     "attributes": [
+      "assistant"
+     ],
+     "target-credit": ""
+    },
+    {
+     "target-credit": "",
+     "source-credit": "",
+     "attributes": [
+      "assistant"
+     ],
+     "attribute-ids": {
+      "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+     },
+     "artist": {
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "country": "GB",
+      "sort-name": "Navarro, Gerard",
+      "disambiguation": "engineer",
+      "id": "b796507a-7c0f-41fb-b877-1e68c650568d",
+      "type": "Person",
+      "name": "Gerard Navarro"
+     },
+     "ended": false,
+     "type": "engineer",
+     "attribute-values": {},
+     "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+     "target-type": "artist",
+     "begin": null,
+     "end": null,
+     "direction": "backward"
+    },
+    {
+     "end": null,
+     "begin": null,
+     "target-type": "artist",
+     "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+     "direction": "backward",
+     "source-credit": "",
+     "attributes": [
+      "assistant"
+     ],
+     "attribute-ids": {
+      "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+     },
+     "target-credit": "",
+     "type": "engineer",
+     "attribute-values": {},
+     "artist": {
+      "name": "Chris Scard",
+      "type": "Person",
+      "disambiguation": "",
+      "id": "a77fa7aa-44b1-48a6-8f68-450e80fbc87f",
+      "sort-name": "Scard, Chris",
+      "country": "GB",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+     },
+     "ended": false
+    }
+   ],
+   "title": "Climbing Up the Walls",
+   "id": "c7225576-001e-423c-adc1-58f0985dcb27",
+   "disambiguation": ""
+  }
+ ]
+}

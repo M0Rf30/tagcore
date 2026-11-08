@@ -1,0 +1,3443 @@
+{
+ "artist-credit": [
+  {
+   "name": "Radiohead",
+   "artist": {
+    "name": "Radiohead",
+    "type": "Group",
+    "genres": [
+     {
+      "disambiguation": "",
+      "name": "alternative rock",
+      "count": 43,
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+     },
+     {
+      "name": "ambient pop",
+      "disambiguation": "",
+      "id": "2cdcecfe-3e7c-4055-ab34-78eceabe4d9b",
+      "count": 1
+     },
+     {
+      "name": "art pop",
+      "disambiguation": "",
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "count": 3
+     },
+     {
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "count": 30,
+      "disambiguation": "",
+      "name": "art rock"
+     }
+    ],
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "sort-name": "Radiohead",
+    "tags": [
+     {
+      "count": 2,
+      "name": "alternative"
+     },
+     {
+      "name": "alternative rock",
+      "count": 43
+     },
+     {
+      "name": "alternative rock music",
+      "count": 2
+     },
+     {
+      "count": 1,
+      "name": "ambient pop"
+     }
+    ],
+    "disambiguation": "",
+    "country": "GB",
+    "aliases": [
+     {
+      "locale": null,
+      "end": null,
+      "begin": null,
+      "name": "Radio Head",
+      "type": "Search hint",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "ended": false,
+      "sort-name": "Radio Head",
+      "primary": null
+     },
+     {
+      "primary": true,
+      "sort-name": "Radiohead",
+      "type": "Artist name",
+      "name": "Radiohead",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "locale": "en",
+      "end": null,
+      "begin": null
+     },
+     {
+      "type": "Search hint",
+      "name": "Radiohead & Thom Yorke",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "ended": false,
+      "primary": null,
+      "sort-name": "Radiohead & Thom Yorke",
+      "locale": null,
+      "end": null,
+      "begin": null
+     },
+     {
+      "begin": null,
+      "end": null,
+      "locale": null,
+      "sort-name": "r/head",
+      "primary": null,
+      "ended": false,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "name": "r/head",
+      "type": "Search hint"
+     }
+    ]
+   },
+   "joinphrase": ""
+  }
+ ],
+ "label-info": [
+  {
+   "label": {
+    "disambiguation": "imprint of Capitol Records, Inc.",
+    "label-code": 148,
+    "aliases": [
+     {
+      "sort-name": "CAPITOL CATALOG MKT (C92)",
+      "primary": null,
+      "type": null,
+      "name": "CAPITOL CATALOG MKT (C92)",
+      "ended": false,
+      "type-id": null,
+      "end": null,
+      "locale": null,
+      "begin": null
+     },
+     {
+      "end": null,
+      "locale": null,
+      "begin": null,
+      "name": "Capital Recordings",
+      "type": null,
+      "ended": false,
+      "type-id": null,
+      "primary": null,
+      "sort-name": "Capital Recordings"
+     },
+     {
+      "end": null,
+      "locale": null,
+      "begin": null,
+      "type": null,
+      "name": "Capital/EMI Records",
+      "ended": false,
+      "type-id": null,
+      "primary": null,
+      "sort-name": "Capital/EMI Records"
+     },
+     {
+      "end": null,
+      "locale": "en",
+      "begin": null,
+      "name": "Capitol",
+      "type": "Label name",
+      "ended": false,
+      "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+      "primary": false,
+      "sort-name": "Capitol"
+     }
+    ],
+    "type": "Imprint",
+    "name": "Capitol Records",
+    "genres": [
+     {
+      "count": 2,
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "name": "alternative rock",
+      "disambiguation": ""
+     },
+     {
+      "name": "art rock",
+      "disambiguation": "",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "count": 1
+     },
+     {
+      "name": "dance-punk",
+      "disambiguation": "",
+      "id": "509c006f-67c2-4c54-a568-d2b415cb0642",
+      "count": 1
+     },
+     {
+      "disambiguation": "",
+      "name": "electronic",
+      "count": 2,
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+     }
+    ],
+    "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+    "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+    "sort-name": "Capitol Records",
+    "tags": [
+     {
+      "name": "alternative rock",
+      "count": 2
+     },
+     {
+      "count": 1,
+      "name": "art rock"
+     },
+     {
+      "name": "dance-punk",
+      "count": 1
+     },
+     {
+      "name": "electronic",
+      "count": 2
+     }
+    ]
+   },
+   "catalog-number": "CDP 7243 8 55229 2 5"
+  }
+ ],
+ "aliases": [],
+ "media": [
+  {
+   "title": "",
+   "track-offset": 0,
+   "position": 1,
+   "discs": [
+    {
+     "id": ".JJK27a.2SuhFenNvxzYSrWdrPI-",
+     "offset-count": 12,
+     "sectors": 242387,
+     "offsets": [
+      150,
+      21636,
+      50551,
+      70783,
+      90795,
+      113395,
+      133171,
+      142126,
+      159578,
+      181123,
+      198419,
+      218045
+     ]
+    },
+    {
+     "sectors": 242041,
+     "offset-count": 12,
+     "offsets": [
+      150,
+      21632,
+      50476,
+      70697,
+      90709,
+      113245,
+      133019,
+      141971,
+      159413,
+      180955,
+      198196,
+      217701
+     ],
+     "id": "1zOfzhFgYPD05pEMZa8j5o.dR.g-"
+    }
+   ],
+   "id": "f62bbec0-cb4a-3519-b584-923b7fd5ac75",
+   "format": "CD",
+   "tracks": [
+    {
+     "number": "1",
+     "artist-credit": [
+      {
+       "artist": {
+        "aliases": [
+         {
+          "locale": null,
+          "end": null,
+          "begin": null,
+          "name": "Radio Head",
+          "type": "Search hint",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "ended": false,
+          "sort-name": "Radio Head",
+          "primary": null
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": "en",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "type": "Artist name",
+          "name": "Radiohead",
+          "sort-name": "Radiohead",
+          "primary": true
+         },
+         {
+          "ended": false,
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "type": "Search hint",
+          "name": "Radiohead & Thom Yorke",
+          "sort-name": "Radiohead & Thom Yorke",
+          "primary": null,
+          "begin": null,
+          "end": null,
+          "locale": null
+         },
+         {
+          "primary": null,
+          "sort-name": "r/head",
+          "name": "r/head",
+          "type": "Search hint",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "ended": false,
+          "end": null,
+          "locale": null,
+          "begin": null
+         }
+        ],
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Radiohead",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "name": "Radiohead"
+       },
+       "joinphrase": "",
+       "name": "Radiohead"
+      }
+     ],
+     "recording": {
+      "tags": [
+       {
+        "name": "alternative",
+        "count": 1
+       },
+       {
+        "name": "alternative & punk",
+        "count": 1
+       },
+       {
+        "count": 1,
+        "name": "alternative pop/rock"
+       },
+       {
+        "name": "alternative rock",
+        "count": 7
+       }
+      ],
+      "relations": [
+       {
+        "direction": "backward",
+        "target-credit": "",
+        "ended": true,
+        "attribute-values": {},
+        "type-id": "234670ce-5f22-4fd0-921b-ef1662695c5d",
+        "attribute-ids": {},
+        "attributes": [],
+        "end": "1997-03",
+        "artist": {
+         "disambiguation": "",
+         "country": "GB",
+         "name": "Nick Ingman",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "sort-name": "Ingman, Nick",
+         "id": "32111fcd-2338-472a-892b-4b329549e3ba"
+        },
+        "type": "conductor",
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": "1996-07"
+       },
+       {
+        "source-credit": "",
+        "begin": null,
+        "target-type": "artist",
+        "type": "editor",
+        "end": null,
+        "artist": {
+         "country": "GB",
+         "disambiguation": "English record producer",
+         "sort-name": "Godrich, Nigel",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Nigel Godrich",
+         "type": "Person"
+        },
+        "attributes": [],
+        "attribute-ids": {},
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "40dff87a-e475-4aa6-b615-9935b564d756"
+       },
+       {
+        "attribute-ids": {
+         "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+        },
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+        "end": null,
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Jon Bailey",
+         "sort-name": "Bailey, Jon",
+         "id": "ecb6f2a6-32ba-4057-b7af-4ca1b35aeb9e",
+         "disambiguation": "engineer",
+         "country": "GB"
+        },
+        "attributes": [
+         "assistant"
+        ],
+        "type": "engineer",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist"
+       },
+       {
+        "begin": "1996-07",
+        "source-credit": "",
+        "target-type": "artist",
+        "type": "instrument",
+        "end": "1997-03",
+        "artist": {
+         "id": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+         "sort-name": "Greenwood, Colin",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Colin Greenwood",
+         "country": "GB",
+         "disambiguation": "English bassist in Radiohead"
+        },
+        "attribute-credits": {},
+        "attributes": [
+         "percussion"
+        ],
+        "attribute-ids": {
+         "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+        },
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-values": {},
+        "ended": true,
+        "type-id": "59054b12-01ac-43ee-a618-285fd397e461"
+       },
+       {
+        "type": "instrument arranger",
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": null,
+        "type-id": "4820daa1-98d6-4f8b-aa4b-6895c5b79b27",
+        "attribute-values": {},
+        "ended": false,
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-ids": {
+         "strings": "32eca297-dde6-45d0-9305-ae479947c2a8"
+        },
+        "attributes": [
+         "strings"
+        ],
+        "attribute-credits": {},
+        "artist": {
+         "disambiguation": "",
+         "country": "GB",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "type": "Group",
+         "name": "Radiohead",
+         "sort-name": "Radiohead",
+         "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+        },
+        "end": null
+       },
+       {
+        "attribute-ids": {},
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "3e3102e1-1896-4f50-b5b2-dd9824e46efe",
+        "target-credit": "",
+        "direction": "backward",
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Nigel Godrich",
+         "type": "Person",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "sort-name": "Godrich, Nigel",
+         "disambiguation": "English record producer",
+         "country": "GB"
+        },
+        "end": null,
+        "attributes": [],
+        "type": "mix",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist"
+       },
+       {
+        "artist": {
+         "disambiguation": "English record producer",
+         "country": "GB",
+         "name": "Nigel Godrich",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "sort-name": "Godrich, Nigel",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a"
+        },
+        "end": null,
+        "attributes": [],
+        "attribute-ids": {},
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "target-credit": "",
+        "direction": "backward",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist",
+        "type": "producer"
+       },
+       {
+        "attribute-ids": {},
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "36c50022-44e0-488d-994b-33f11d20301e",
+        "target-credit": "",
+        "direction": "backward",
+        "artist": {
+         "disambiguation": "",
+         "country": "GB",
+         "name": "Thom Yorke",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "sort-name": "Yorke, Thom",
+         "id": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b"
+        },
+        "end": null,
+        "attributes": [],
+        "type": "programming",
+        "source-credit": "",
+        "begin": null,
+        "target-type": "artist"
+       },
+       {
+        "artist": {
+         "disambiguation": "English record producer",
+         "country": "GB",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Nigel Godrich",
+         "type": "Person",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "sort-name": "Godrich, Nigel"
+        },
+        "end": null,
+        "attributes": [],
+        "attribute-ids": {},
+        "type-id": "a01ee869-80a8-45ef-9447-c59e91aa7926",
+        "attribute-values": {},
+        "ended": false,
+        "direction": "backward",
+        "target-credit": "",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist",
+        "type": "recording"
+       },
+       {
+        "attribute-ids": {
+         "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+        },
+        "attribute-values": {},
+        "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+        "ended": true,
+        "direction": "backward",
+        "target-credit": "",
+        "artist": {
+         "country": "GB",
+         "disambiguation": "guitarist & songwriter in Radiohead",
+         "id": "309d9809-cf74-493a-b56b-1378258f20fd",
+         "sort-name": "O’Brien, Ed",
+         "name": "Ed O’Brien",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "end": "1997-03",
+        "attributes": [
+         "background vocals"
+        ],
+        "attribute-credits": {},
+        "type": "vocal",
+        "begin": "1996-07",
+        "source-credit": "",
+        "target-type": "artist"
+       },
+       {
+        "attributes": [],
+        "end": "2017",
+        "label": {
+         "type": "Holding",
+         "name": "XL Recordings Ltd.",
+         "type-id": "43f31a62-97e4-36f6-9752-453c131b71ed",
+         "sort-name": "XL Recordings Ltd.",
+         "id": "4509f80b-403c-46b5-bfb5-be77374cb90c",
+         "label-code": null,
+         "disambiguation": "not for release label use! use its imprint XL Recordings instead"
+        },
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-values": {},
+        "ended": true,
+        "type-id": "fd841726-ba3c-47f7-af8e-6734ab6243ff",
+        "attribute-ids": {},
+        "target-type": "label",
+        "source-credit": "",
+        "begin": "2017",
+        "type": "phonographic copyright"
+       },
+       {
+        "begin": null,
+        "source-credit": "",
+        "target-type": "recording",
+        "type": "mashes up",
+        "end": null,
+        "attributes": [],
+        "recording": {
+         "video": false,
+         "artist-credit": [
+          {
+           "artist": {
+            "id": "455a2d19-2e7a-478a-b5c6-d45ab2935ba6",
+            "sort-name": "Tannone, Max",
+            "type": null,
+            "name": "Max Tannone",
+            "type-id": null,
+            "country": null,
+            "disambiguation": ""
+           },
+           "joinphrase": "",
+           "name": "Max Tannone"
+          }
+         ],
+         "disambiguation": "",
+         "title": "Air Roc",
+         "length": 263000,
+         "isrcs": [],
+         "id": "17c5fad1-cd99-4ebb-a5fb-7d9a22017b74"
+        },
+        "attribute-ids": {},
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "579d0b4c-bf77-479d-aa59-a8af1f518958",
+        "target-credit": "",
+        "direction": "backward"
+       },
+       {
+        "direction": "forward",
+        "target-credit": "",
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "7e41ef12-a124-4324-afdb-fdbae687a89c",
+        "attribute-ids": {},
+        "url": {
+         "id": "635e3039-1760-4d2c-9e6e-717f8c7f35d0",
+         "resource": "https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN"
+        },
+        "attributes": [],
+        "end": null,
+        "type": "free streaming",
+        "target-type": "url",
+        "begin": null,
+        "source-credit": ""
+       },
+       {
+        "target-type": "url",
+        "source-credit": "",
+        "begin": null,
+        "type": "purchase for download",
+        "attributes": [],
+        "end": null,
+        "direction": "forward",
+        "target-credit": "",
+        "type-id": "92777657-504c-4acb-bd33-51a201bd57e1",
+        "attribute-values": {},
+        "ended": false,
+        "attribute-ids": {},
+        "url": {
+         "resource": "https://music.apple.com/gb/song/1097861769",
+         "id": "05fe8cf5-15b1-4455-9940-68c0a0b76cbe"
+        }
+       },
+       {
+        "type": "streaming",
+        "source-credit": "",
+        "begin": null,
+        "target-type": "url",
+        "url": {
+         "resource": "https://music.apple.com/gb/song/1097861769",
+         "id": "05fe8cf5-15b1-4455-9940-68c0a0b76cbe"
+        },
+        "attribute-ids": {},
+        "attribute-values": {},
+        "type-id": "b5f3058a-666c-406f-aafb-f9249fc7b122",
+        "ended": false,
+        "target-credit": "",
+        "direction": "forward",
+        "end": null,
+        "attributes": []
+       },
+       {
+        "begin": "1996-07",
+        "source-credit": "",
+        "target-type": "work",
+        "type": "performance",
+        "work": {
+         "language": "eng",
+         "relations": [
+          {
+           "attribute-ids": {},
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "direction": "backward",
+           "target-credit": "",
+           "artist": {
+            "id": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+            "sort-name": "Greenwood, Colin",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Colin Greenwood",
+            "country": "GB",
+            "disambiguation": "English bassist in Radiohead"
+           },
+           "end": null,
+           "attributes": [],
+           "type": "writer",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist"
+          },
+          {
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist",
+           "type": "writer",
+           "end": null,
+           "artist": {
+            "sort-name": "Greenwood, Jonny",
+            "id": "e9fcfbbf-1743-4f73-8744-ada8da7394ea",
+            "type": "Person",
+            "name": "Jonny Greenwood",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "GB",
+            "disambiguation": "English musician and score composer"
+           },
+           "attributes": [],
+           "attribute-ids": {},
+           "direction": "backward",
+           "target-credit": "",
+           "ended": false,
+           "attribute-values": {},
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68"
+          },
+          {
+           "type": "writer",
+           "begin": null,
+           "source-credit": "",
+           "target-type": "artist",
+           "attribute-ids": {},
+           "target-credit": "",
+           "direction": "backward",
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "end": null,
+           "artist": {
+            "disambiguation": "guitarist & songwriter in Radiohead",
+            "country": "GB",
+            "name": "Ed O’Brien",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "309d9809-cf74-493a-b56b-1378258f20fd",
+            "sort-name": "O’Brien, Ed"
+           },
+           "attributes": []
+          },
+          {
+           "type": "writer",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist",
+           "attribute-ids": {},
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "attribute-values": {},
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "artist": {
+            "disambiguation": "drummer in Radiohead",
+            "country": "GB",
+            "type": "Person",
+            "name": "Philip Selway",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "4ab74d13-d1eb-4895-b874-6da5d8b1aac3",
+            "sort-name": "Selway, Philip"
+           },
+           "end": null,
+           "attributes": []
+          },
+          {
+           "type": "writer",
+           "target-type": "artist",
+           "begin": null,
+           "source-credit": "",
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "attribute-values": {},
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "attribute-ids": {},
+           "attributes": [],
+           "artist": {
+            "type": "Person",
+            "name": "Thom Yorke",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Yorke, Thom",
+            "id": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+            "disambiguation": "",
+            "country": "GB"
+           },
+           "end": null
+          }
+         ],
+         "iswcs": [
+          "T-010.257.770-7"
+         ],
+         "id": "6bba3dc1-acc7-3319-84fd-c93883b1049c",
+         "languages": [
+          "eng"
+         ],
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "type": "Song",
+         "title": "Airbag",
+         "attributes": [],
+         "disambiguation": ""
+        },
+        "end": "1997-03",
+        "attributes": [],
+        "attribute-ids": {},
+        "attribute-values": {},
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+        "ended": true,
+        "direction": "forward",
+        "target-credit": ""
+       }
+      ],
+      "id": "4a7fea2e-545b-4c63-bc9a-9943cc3a29d7",
+      "isrcs": [
+       "GBAYE9701274",
+       "GBBKS1700107"
+      ],
+      "genres": [
+       {
+        "name": "alternative rock",
+        "disambiguation": "",
+        "count": 7,
+        "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+       },
+       {
+        "disambiguation": "",
+        "name": "art rock",
+        "count": 2,
+        "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b"
+       },
+       {
+        "id": "f1c9b874-7ef2-4e79-9419-c0bcb5f33a30",
+        "count": 1,
+        "name": "britpop",
+        "disambiguation": ""
+       },
+       {
+        "disambiguation": "",
+        "name": "electronic",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "count": 1
+       }
+      ],
+      "length": 284400,
+      "first-release-date": "1997-05-21",
+      "title": "Airbag",
+      "aliases": [],
+      "disambiguation": "",
+      "video": false,
+      "artist-credit": [
+       {
+        "name": "Radiohead",
+        "artist": {
+         "country": "GB",
+         "disambiguation": "",
+         "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+         "sort-name": "Radiohead",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "name": "Radiohead",
+         "type": "Group"
+        },
+        "joinphrase": ""
+       }
+      ]
+     },
+     "length": 284400,
+     "position": 1,
+     "title": "Airbag",
+     "id": "08380814-cbf6-3f77-b9b4-1a731f417940"
+    },
+    {
+     "recording": {
+      "id": "9f9cf187-d6f9-437f-9d98-d59cdbd52757",
+      "relations": [
+       {
+        "target-credit": "",
+        "direction": "backward",
+        "ended": true,
+        "attribute-values": {},
+        "type-id": "234670ce-5f22-4fd0-921b-ef1662695c5d",
+        "attribute-ids": {},
+        "attributes": [],
+        "end": "1997-03",
+        "artist": {
+         "type": "Person",
+         "name": "Nick Ingman",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "sort-name": "Ingman, Nick",
+         "id": "32111fcd-2338-472a-892b-4b329549e3ba",
+         "disambiguation": "",
+         "country": "GB"
+        },
+        "type": "conductor",
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": "1996-07"
+       },
+       {
+        "source-credit": "",
+        "begin": null,
+        "target-type": "artist",
+        "type": "editor",
+        "artist": {
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "sort-name": "Godrich, Nigel",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Nigel Godrich",
+         "type": "Person",
+         "country": "GB",
+         "disambiguation": "English record producer"
+        },
+        "end": null,
+        "attributes": [],
+        "attribute-ids": {},
+        "attribute-values": {},
+        "type-id": "40dff87a-e475-4aa6-b615-9935b564d756",
+        "ended": false,
+        "direction": "backward",
+        "target-credit": ""
+       },
+       {
+        "source-credit": "",
+        "begin": null,
+        "target-type": "artist",
+        "type": "engineer",
+        "end": null,
+        "artist": {
+         "disambiguation": "engineer",
+         "country": "GB",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Jon Bailey",
+         "id": "ecb6f2a6-32ba-4057-b7af-4ca1b35aeb9e",
+         "sort-name": "Bailey, Jon"
+        },
+        "attributes": [
+         "assistant"
+        ],
+        "attribute-ids": {
+         "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+        },
+        "direction": "backward",
+        "target-credit": "",
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907"
+       },
+       {
+        "attribute-values": {},
+        "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+        "ended": true,
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-ids": {
+         "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+        },
+        "attribute-credits": {},
+        "attributes": [
+         "percussion"
+        ],
+        "artist": {
+         "disambiguation": "English bassist in Radiohead",
+         "country": "GB",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Colin Greenwood",
+         "id": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+         "sort-name": "Greenwood, Colin"
+        },
+        "end": "1997-03",
+        "type": "instrument",
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": "1996-07"
+       },
+       {
+        "target-credit": "",
+        "direction": "backward",
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "4820daa1-98d6-4f8b-aa4b-6895c5b79b27",
+        "attribute-ids": {
+         "strings": "32eca297-dde6-45d0-9305-ae479947c2a8"
+        },
+        "attributes": [
+         "strings"
+        ],
+        "attribute-credits": {},
+        "end": null,
+        "artist": {
+         "country": "GB",
+         "disambiguation": "",
+         "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+         "sort-name": "Radiohead",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "name": "Radiohead",
+         "type": "Group"
+        },
+        "type": "instrument arranger",
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": null
+       },
+       {
+        "end": null,
+        "artist": {
+         "country": "GB",
+         "disambiguation": "English record producer",
+         "sort-name": "Godrich, Nigel",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Nigel Godrich",
+         "type": "Person"
+        },
+        "attributes": [],
+        "attribute-ids": {},
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-values": {},
+        "type-id": "3e3102e1-1896-4f50-b5b2-dd9824e46efe",
+        "ended": false,
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist",
+        "type": "mix"
+       },
+       {
+        "attributes": [],
+        "artist": {
+         "sort-name": "Godrich, Nigel",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Nigel Godrich",
+         "type": "Person",
+         "country": "GB",
+         "disambiguation": "English record producer"
+        },
+        "end": null,
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "attribute-values": {},
+        "ended": false,
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-ids": {},
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": null,
+        "type": "producer"
+       },
+       {
+        "attributes": [],
+        "artist": {
+         "name": "Thom Yorke",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "id": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+         "sort-name": "Yorke, Thom",
+         "disambiguation": "",
+         "country": "GB"
+        },
+        "end": null,
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "36c50022-44e0-488d-994b-33f11d20301e",
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-ids": {},
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": null,
+        "type": "programming"
+       },
+       {
+        "source-credit": "",
+        "begin": null,
+        "target-type": "artist",
+        "type": "recording",
+        "artist": {
+         "country": "GB",
+         "disambiguation": "English record producer",
+         "sort-name": "Godrich, Nigel",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "name": "Nigel Godrich",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "end": null,
+        "attributes": [],
+        "attribute-ids": {},
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "a01ee869-80a8-45ef-9447-c59e91aa7926",
+        "target-credit": "",
+        "direction": "backward"
+       },
+       {
+        "source-credit": "",
+        "begin": "1996-07",
+        "target-type": "artist",
+        "type": "vocal",
+        "end": "1997-03",
+        "artist": {
+         "country": "GB",
+         "disambiguation": "guitarist & songwriter in Radiohead",
+         "id": "309d9809-cf74-493a-b56b-1378258f20fd",
+         "sort-name": "O’Brien, Ed",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Ed O’Brien",
+         "type": "Person"
+        },
+        "attributes": [
+         "background vocals"
+        ],
+        "attribute-credits": {},
+        "attribute-ids": {
+         "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+        },
+        "target-credit": "",
+        "direction": "backward",
+        "ended": true,
+        "attribute-values": {},
+        "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa"
+       },
+       {
+        "label": {
+         "name": "XL Recordings Ltd.",
+         "type": "Holding",
+         "type-id": "43f31a62-97e4-36f6-9752-453c131b71ed",
+         "sort-name": "XL Recordings Ltd.",
+         "id": "4509f80b-403c-46b5-bfb5-be77374cb90c",
+         "disambiguation": "not for release label use! use its imprint XL Recordings instead",
+         "label-code": null
+        },
+        "end": "2017",
+        "attributes": [],
+        "attribute-ids": {},
+        "attribute-values": {},
+        "type-id": "fd841726-ba3c-47f7-af8e-6734ab6243ff",
+        "ended": true,
+        "target-credit": "",
+        "direction": "backward",
+        "source-credit": "",
+        "begin": "2017",
+        "target-type": "label",
+        "type": "phonographic copyright"
+       },
+       {
+        "attribute-ids": {},
+        "recording": {
+         "artist-credit": [
+          {
+           "artist": {
+            "country": "US",
+            "disambiguation": "",
+            "sort-name": "Minty Fresh Beats",
+            "id": "589979b9-9330-4ce8-99c7-fa073b9dc950",
+            "type-id": null,
+            "type": null,
+            "name": "Minty Fresh Beats"
+           },
+           "joinphrase": "",
+           "name": "Minty Fresh Beats"
+          }
+         ],
+         "video": false,
+         "disambiguation": "",
+         "title": "Dirt Off Your Android",
+         "length": 213000,
+         "isrcs": [],
+         "id": "38dfa1f6-e4cf-4ef0-94c8-aa38a3f122cd"
+        },
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "579d0b4c-bf77-479d-aa59-a8af1f518958",
+        "direction": "backward",
+        "target-credit": "",
+        "end": null,
+        "attributes": [],
+        "type": "mashes up",
+        "source-credit": "",
+        "begin": null,
+        "target-type": "recording"
+       },
+       {
+        "end": null,
+        "attributes": [],
+        "recording": {
+         "id": "2b3dae6c-a7f3-407a-a0a9-7325aeacfc75",
+         "isrcs": [],
+         "title": "Paranoid Android",
+         "length": 394000,
+         "artist-credit": [
+          {
+           "name": "Radiohead",
+           "joinphrase": "",
+           "artist": {
+            "country": "GB",
+            "disambiguation": "",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "sort-name": "Radiohead",
+            "name": "Radiohead",
+            "type": null,
+            "type-id": null
+           }
+          }
+         ],
+         "video": true,
+         "disambiguation": ""
+        },
+        "attribute-ids": {},
+        "target-credit": "",
+        "direction": "forward",
+        "type-id": "ce3de655-7451-44d1-9224-87eb948c205d",
+        "attribute-values": {},
+        "ended": false,
+        "begin": null,
+        "source-credit": "",
+        "target-type": "recording",
+        "type": "music video"
+       },
+       {
+        "type": "samples material",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "recording",
+        "recording": {
+         "id": "a7a52a8e-2fa0-48db-b6de-9b43e0d255ef",
+         "isrcs": [],
+         "length": 44807,
+         "title": "I am The Savior Of Afghanistan 2025",
+         "disambiguation": "",
+         "video": false,
+         "artist-credit": [
+          {
+           "name": "talkwalker",
+           "joinphrase": "",
+           "artist": {
+            "type-id": null,
+            "type": null,
+            "name": "talkwalker",
+            "sort-name": "talkwalker",
+            "id": "62060965-76d0-4c2b-88a5-a99cd60d9788",
+            "disambiguation": "",
+            "country": null
+           }
+          }
+         ]
+        },
+        "attribute-ids": {},
+        "direction": "backward",
+        "target-credit": "",
+        "type-id": "9efd9ce9-e702-448b-8e76-641515e8fe62",
+        "attribute-values": {},
+        "ended": false,
+        "end": null,
+        "attributes": []
+       },
+       {
+        "type": "part of",
+        "target-type": "series",
+        "source-credit": "",
+        "begin": null,
+        "attribute-values": {
+         "number": "20"
+        },
+        "type-id": "ea6f0698-6782-30d6-b16d-293081b66774",
+        "ended": false,
+        "series": {
+         "id": "33061f6b-6553-4d61-851b-71b790bf1460",
+         "disambiguation": "",
+         "type": "Recording series",
+         "name": "Indie 88: Top 500 Indie Rock Songs",
+         "type-id": "dd968243-7128-30a2-81f0-79843430a8e2"
+        },
+        "target-credit": "",
+        "ordering-key": 20,
+        "direction": "forward",
+        "attribute-ids": {
+         "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+        },
+        "attributes": [
+         "number"
+        ],
+        "end": null
+       },
+       {
+        "attribute-ids": {},
+        "url": {
+         "id": "69503a19-0122-4f4a-9543-4d6a58f005cd",
+         "resource": "https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq"
+        },
+        "target-credit": "",
+        "direction": "forward",
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "7e41ef12-a124-4324-afdb-fdbae687a89c",
+        "end": null,
+        "attributes": [],
+        "type": "free streaming",
+        "source-credit": "",
+        "begin": null,
+        "target-type": "url"
+       },
+       {
+        "attribute-ids": {},
+        "url": {
+         "resource": "https://music.apple.com/gb/song/1097861770",
+         "id": "f8a96731-a797-4dd4-a520-76a35162d43f"
+        },
+        "direction": "forward",
+        "target-credit": "",
+        "attribute-values": {},
+        "type-id": "92777657-504c-4acb-bd33-51a201bd57e1",
+        "ended": false,
+        "end": null,
+        "attributes": [],
+        "type": "purchase for download",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "url"
+       },
+       {
+        "end": null,
+        "attributes": [],
+        "url": {
+         "resource": "https://music.apple.com/gb/song/1097861770",
+         "id": "f8a96731-a797-4dd4-a520-76a35162d43f"
+        },
+        "attribute-ids": {},
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "b5f3058a-666c-406f-aafb-f9249fc7b122",
+        "target-credit": "",
+        "direction": "forward",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "url",
+        "type": "streaming"
+       },
+       {
+        "type": "performance",
+        "source-credit": "",
+        "begin": "1996-07",
+        "target-type": "work",
+        "attribute-ids": {},
+        "target-credit": "",
+        "direction": "forward",
+        "ended": true,
+        "attribute-values": {},
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+        "end": "1997-03",
+        "work": {
+         "attributes": [],
+         "disambiguation": "",
+         "title": "Paranoid Android",
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "type": "Song",
+         "language": "eng",
+         "relations": [
+          {
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist",
+           "type": "writer",
+           "artist": {
+            "id": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+            "sort-name": "Greenwood, Colin",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "Colin Greenwood",
+            "country": "GB",
+            "disambiguation": "English bassist in Radiohead"
+           },
+           "end": null,
+           "attributes": [],
+           "attribute-ids": {},
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "direction": "backward",
+           "target-credit": ""
+          },
+          {
+           "target-type": "artist",
+           "begin": null,
+           "source-credit": "",
+           "type": "writer",
+           "attributes": [],
+           "artist": {
+            "country": "GB",
+            "disambiguation": "English musician and score composer",
+            "id": "e9fcfbbf-1743-4f73-8744-ada8da7394ea",
+            "sort-name": "Greenwood, Jonny",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "Jonny Greenwood",
+            "type": "Person"
+           },
+           "end": null,
+           "attribute-values": {},
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "attribute-ids": {}
+          },
+          {
+           "type": "writer",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist",
+           "attribute-ids": {},
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "target-credit": "",
+           "direction": "backward",
+           "artist": {
+            "country": "GB",
+            "disambiguation": "guitarist & songwriter in Radiohead",
+            "sort-name": "O’Brien, Ed",
+            "id": "309d9809-cf74-493a-b56b-1378258f20fd",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "Ed O’Brien",
+            "type": "Person"
+           },
+           "end": null,
+           "attributes": []
+          },
+          {
+           "type": "writer",
+           "begin": null,
+           "source-credit": "",
+           "target-type": "artist",
+           "attribute-ids": {},
+           "direction": "backward",
+           "target-credit": "",
+           "attribute-values": {},
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "ended": false,
+           "end": null,
+           "artist": {
+            "country": "GB",
+            "disambiguation": "drummer in Radiohead",
+            "id": "4ab74d13-d1eb-4895-b874-6da5d8b1aac3",
+            "sort-name": "Selway, Philip",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "Philip Selway",
+            "type": "Person"
+           },
+           "attributes": []
+          },
+          {
+           "target-type": "artist",
+           "begin": null,
+           "source-credit": "",
+           "type": "writer",
+           "attributes": [],
+           "end": null,
+           "artist": {
+            "disambiguation": "",
+            "country": "GB",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "Thom Yorke",
+            "type": "Person",
+            "id": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+            "sort-name": "Yorke, Thom"
+           },
+           "target-credit": "",
+           "direction": "backward",
+           "ended": false,
+           "attribute-values": {},
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "attribute-ids": {}
+          }
+         ],
+         "id": "1b4ff597-f43f-3dac-9f76-0e7b7f38d0d2",
+         "iswcs": [
+          "T-010.257.771-8"
+         ],
+         "languages": [
+          "eng"
+         ]
+        },
+        "attributes": []
+       }
+      ],
+      "tags": [
+       {
+        "count": 1,
+        "name": "alternative"
+       },
+       {
+        "name": "alternative & punk",
+        "count": 1
+       },
+       {
+        "count": 3,
+        "name": "alternative and punk"
+       },
+       {
+        "count": 1,
+        "name": "alternative pop/rock"
+       }
+      ],
+      "isrcs": [
+       "GBAYE9701376",
+       "GBBKS1700108"
+      ],
+      "genres": [
+       {
+        "name": "alternative rock",
+        "disambiguation": "",
+        "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+        "count": 12
+       },
+       {
+        "disambiguation": "",
+        "name": "art rock",
+        "count": 3,
+        "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b"
+       },
+       {
+        "count": 1,
+        "id": "a493b79c-4072-4371-a14c-446b1027982a",
+        "disambiguation": "",
+        "name": "post-britpop"
+       },
+       {
+        "id": "ae9b8279-3959-48d8-8a88-741a7f6d4a48",
+        "count": 2,
+        "name": "progressive rock",
+        "disambiguation": ""
+       }
+      ],
+      "length": 384000,
+      "aliases": [
+       {
+        "ended": false,
+        "type-id": null,
+        "name": "Paranoid Android (NOW 37, 1997)",
+        "type": null,
+        "sort-name": "Paranoid Android (NOW 37, 1997)",
+        "primary": null,
+        "begin": null,
+        "locale": null,
+        "end": null
+       }
+      ],
+      "title": "Paranoid Android",
+      "first-release-date": "1997-05-21",
+      "disambiguation": "",
+      "artist-credit": [
+       {
+        "joinphrase": "",
+        "artist": {
+         "country": "GB",
+         "disambiguation": "",
+         "sort-name": "Radiohead",
+         "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+         "name": "Radiohead",
+         "type": "Group",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        "name": "Radiohead"
+       }
+      ],
+      "video": false
+     },
+     "length": 383493,
+     "position": 2,
+     "title": "Paranoid Android",
+     "id": "ccadc32f-698e-302e-bc5c-a5b8e5ba223e",
+     "number": "2",
+     "artist-credit": [
+      {
+       "name": "Radiohead",
+       "artist": {
+        "sort-name": "Radiohead",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "name": "Radiohead",
+        "aliases": [
+         {
+          "begin": null,
+          "end": null,
+          "locale": null,
+          "sort-name": "Radio Head",
+          "primary": null,
+          "ended": false,
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Radio Head",
+          "type": "Search hint"
+         },
+         {
+          "sort-name": "Radiohead",
+          "primary": true,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "type": "Artist name",
+          "name": "Radiohead",
+          "begin": null,
+          "end": null,
+          "locale": "en"
+         },
+         {
+          "name": "Radiohead & Thom Yorke",
+          "type": "Search hint",
+          "ended": false,
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "sort-name": "Radiohead & Thom Yorke",
+          "primary": null,
+          "end": null,
+          "locale": null,
+          "begin": null
+         },
+         {
+          "end": null,
+          "locale": null,
+          "begin": null,
+          "primary": null,
+          "sort-name": "r/head",
+          "type": "Search hint",
+          "name": "r/head",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "ended": false
+         }
+        ],
+        "country": "GB",
+        "disambiguation": ""
+       },
+       "joinphrase": ""
+      }
+     ]
+    },
+    {
+     "number": "3",
+     "artist-credit": [
+      {
+       "name": "Radiohead",
+       "joinphrase": "",
+       "artist": {
+        "disambiguation": "",
+        "aliases": [
+         {
+          "name": "Radio Head",
+          "type": "Search hint",
+          "ended": false,
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "primary": null,
+          "sort-name": "Radio Head",
+          "end": null,
+          "locale": null,
+          "begin": null
+         },
+         {
+          "name": "Radiohead",
+          "type": "Artist name",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "primary": true,
+          "sort-name": "Radiohead",
+          "end": null,
+          "locale": "en",
+          "begin": null
+         },
+         {
+          "begin": null,
+          "locale": null,
+          "end": null,
+          "sort-name": "Radiohead & Thom Yorke",
+          "primary": null,
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "ended": false,
+          "name": "Radiohead & Thom Yorke",
+          "type": "Search hint"
+         },
+         {
+          "end": null,
+          "locale": null,
+          "begin": null,
+          "primary": null,
+          "sort-name": "r/head",
+          "type": "Search hint",
+          "name": "r/head",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "ended": false
+         }
+        ],
+        "country": "GB",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Radiohead",
+        "type": "Group",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "sort-name": "Radiohead"
+       }
+      }
+     ],
+     "length": 267706,
+     "recording": {
+      "id": "bd82738d-163c-4b1a-bfaf-7acffe30e68a",
+      "relations": [
+       {
+        "attributes": [],
+        "end": "1997-03",
+        "artist": {
+         "id": "32111fcd-2338-472a-892b-4b329549e3ba",
+         "sort-name": "Ingman, Nick",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Nick Ingman",
+         "country": "GB",
+         "disambiguation": ""
+        },
+        "target-credit": "",
+        "direction": "backward",
+        "ended": true,
+        "attribute-values": {},
+        "type-id": "234670ce-5f22-4fd0-921b-ef1662695c5d",
+        "attribute-ids": {},
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": "1996-07",
+        "type": "conductor"
+       },
+       {
+        "type": "editor",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist",
+        "attribute-ids": {},
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "40dff87a-e475-4aa6-b615-9935b564d756",
+        "direction": "backward",
+        "target-credit": "",
+        "artist": {
+         "disambiguation": "English record producer",
+         "country": "GB",
+         "name": "Nigel Godrich",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "sort-name": "Godrich, Nigel",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a"
+        },
+        "end": null,
+        "attributes": []
+       },
+       {
+        "source-credit": "",
+        "begin": null,
+        "target-type": "artist",
+        "type": "engineer",
+        "end": null,
+        "artist": {
+         "country": "GB",
+         "disambiguation": "engineer",
+         "sort-name": "Bailey, Jon",
+         "id": "ecb6f2a6-32ba-4057-b7af-4ca1b35aeb9e",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Jon Bailey"
+        },
+        "attributes": [
+         "assistant"
+        ],
+        "attribute-ids": {
+         "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+        },
+        "target-credit": "",
+        "direction": "backward",
+        "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+        "attribute-values": {},
+        "ended": false
+       },
+       {
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": "1996-07",
+        "type": "instrument",
+        "attributes": [
+         "percussion"
+        ],
+        "attribute-credits": {},
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Colin Greenwood",
+         "sort-name": "Greenwood, Colin",
+         "id": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+         "disambiguation": "English bassist in Radiohead",
+         "country": "GB"
+        },
+        "end": "1997-03",
+        "attribute-values": {},
+        "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+        "ended": true,
+        "target-credit": "",
+        "direction": "backward",
+        "attribute-ids": {
+         "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+        }
+       },
+       {
+        "target-type": "artist",
+        "begin": null,
+        "source-credit": "",
+        "type": "instrument arranger",
+        "attributes": [
+         "strings"
+        ],
+        "attribute-credits": {},
+        "artist": {
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "type": "Group",
+         "name": "Radiohead",
+         "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+         "sort-name": "Radiohead",
+         "disambiguation": "",
+         "country": "GB"
+        },
+        "end": null,
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "4820daa1-98d6-4f8b-aa4b-6895c5b79b27",
+        "target-credit": "",
+        "direction": "backward",
+        "attribute-ids": {
+         "strings": "32eca297-dde6-45d0-9305-ae479947c2a8"
+        }
+       },
+       {
+        "attribute-ids": {},
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "3e3102e1-1896-4f50-b5b2-dd9824e46efe",
+        "direction": "backward",
+        "target-credit": "",
+        "artist": {
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "sort-name": "Godrich, Nigel",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Nigel Godrich",
+         "type": "Person",
+         "country": "GB",
+         "disambiguation": "English record producer"
+        },
+        "end": null,
+        "attributes": [],
+        "type": "mix",
+        "source-credit": "",
+        "begin": null,
+        "target-type": "artist"
+       },
+       {
+        "artist": {
+         "country": "GB",
+         "disambiguation": "English record producer",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "sort-name": "Godrich, Nigel",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Nigel Godrich",
+         "type": "Person"
+        },
+        "end": null,
+        "attributes": [],
+        "attribute-ids": {},
+        "attribute-values": {},
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "ended": false,
+        "direction": "backward",
+        "target-credit": "",
+        "source-credit": "",
+        "begin": null,
+        "target-type": "artist",
+        "type": "producer"
+       },
+       {
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist",
+        "type": "programming",
+        "artist": {
+         "country": "GB",
+         "disambiguation": "",
+         "id": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+         "sort-name": "Yorke, Thom",
+         "type": "Person",
+         "name": "Thom Yorke",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "end": null,
+        "attributes": [],
+        "attribute-ids": {},
+        "attribute-values": {},
+        "type-id": "36c50022-44e0-488d-994b-33f11d20301e",
+        "ended": false,
+        "direction": "backward",
+        "target-credit": ""
+       },
+       {
+        "attributes": [],
+        "end": null,
+        "artist": {
+         "name": "Nigel Godrich",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "sort-name": "Godrich, Nigel",
+         "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+         "disambiguation": "English record producer",
+         "country": "GB"
+        },
+        "direction": "backward",
+        "target-credit": "",
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "a01ee869-80a8-45ef-9447-c59e91aa7926",
+        "attribute-ids": {},
+        "target-type": "artist",
+        "begin": null,
+        "source-credit": "",
+        "type": "recording"
+       },
+       {
+        "begin": "1996-07",
+        "source-credit": "",
+        "target-type": "artist",
+        "type": "vocal",
+        "end": "1997-03",
+        "artist": {
+         "disambiguation": "guitarist & songwriter in Radiohead",
+         "country": "GB",
+         "name": "Ed O’Brien",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "sort-name": "O’Brien, Ed",
+         "id": "309d9809-cf74-493a-b56b-1378258f20fd"
+        },
+        "attribute-credits": {},
+        "attributes": [
+         "background vocals"
+        ],
+        "attribute-ids": {
+         "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+        },
+        "target-credit": "",
+        "direction": "backward",
+        "ended": true,
+        "attribute-values": {},
+        "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa"
+       },
+       {
+        "attribute-ids": {},
+        "ended": true,
+        "attribute-values": {},
+        "type-id": "fd841726-ba3c-47f7-af8e-6734ab6243ff",
+        "direction": "backward",
+        "target-credit": "",
+        "label": {
+         "type-id": "43f31a62-97e4-36f6-9752-453c131b71ed",
+         "type": "Holding",
+         "name": "XL Recordings Ltd.",
+         "id": "4509f80b-403c-46b5-bfb5-be77374cb90c",
+         "sort-name": "XL Recordings Ltd.",
+         "disambiguation": "not for release label use! use its imprint XL Recordings instead",
+         "label-code": null
+        },
+        "end": "2017",
+        "attributes": [],
+        "type": "phonographic copyright",
+        "begin": "2017",
+        "source-credit": "",
+        "target-type": "label"
+       },
+       {
+        "type": "free streaming",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "url",
+        "attribute-ids": {},
+        "url": {
+         "id": "431ccff3-b6f7-45be-8a2c-419b0ed7e26a",
+         "resource": "https://open.spotify.com/track/2CVV8PtUYYsux8XOzWkCP0"
+        },
+        "target-credit": "",
+        "direction": "forward",
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "7e41ef12-a124-4324-afdb-fdbae687a89c",
+        "end": null,
+        "attributes": []
+       },
+       {
+        "attributes": [],
+        "end": null,
+        "attribute-values": {},
+        "type-id": "92777657-504c-4acb-bd33-51a201bd57e1",
+        "ended": false,
+        "target-credit": "",
+        "direction": "forward",
+        "url": {
+         "id": "fdbafa08-3673-467b-9d01-12f0e0050acc",
+         "resource": "https://music.apple.com/gb/song/1097861832"
+        },
+        "attribute-ids": {},
+        "target-type": "url",
+        "begin": null,
+        "source-credit": "",
+        "type": "purchase for download"
+       },
+       {
+        "target-type": "url",
+        "begin": null,
+        "source-credit": "",
+        "type": "streaming",
+        "attributes": [],
+        "end": null,
+        "type-id": "b5f3058a-666c-406f-aafb-f9249fc7b122",
+        "attribute-values": {},
+        "ended": false,
+        "target-credit": "",
+        "direction": "forward",
+        "url": {
+         "resource": "https://music.apple.com/gb/song/1097861832",
+         "id": "fdbafa08-3673-467b-9d01-12f0e0050acc"
+        },
+        "attribute-ids": {}
+       },
+       {
+        "attributes": [],
+        "end": "1997-03",
+        "work": {
+         "languages": [
+          "eng"
+         ],
+         "id": "17aa204f-1fa2-361a-b17c-cd1c166bcce8",
+         "relations": [
+          {
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist",
+           "type": "writer",
+           "artist": {
+            "country": "GB",
+            "disambiguation": "English bassist in Radiohead",
+            "id": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+            "sort-name": "Greenwood, Colin",
+            "name": "Colin Greenwood",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+           },
+           "end": null,
+           "attributes": [],
+           "attribute-ids": {},
+           "attribute-values": {},
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward"
+          },
+          {
+           "end": null,
+           "artist": {
+            "disambiguation": "English musician and score composer",
+            "country": "GB",
+            "name": "Jonny Greenwood",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Greenwood, Jonny",
+            "id": "e9fcfbbf-1743-4f73-8744-ada8da7394ea"
+           },
+           "attributes": [],
+           "attribute-ids": {},
+           "target-credit": "",
+           "direction": "backward",
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "attribute-values": {},
+           "ended": false,
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist",
+           "type": "writer"
+          },
+          {
+           "type": "writer",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist",
+           "attribute-ids": {},
+           "attribute-values": {},
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "artist": {
+            "disambiguation": "guitarist & songwriter in Radiohead",
+            "country": "GB",
+            "type": "Person",
+            "name": "Ed O’Brien",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "O’Brien, Ed",
+            "id": "309d9809-cf74-493a-b56b-1378258f20fd"
+           },
+           "end": null,
+           "attributes": []
+          },
+          {
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist",
+           "type": "writer",
+           "artist": {
+            "type": "Person",
+            "name": "Philip Selway",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "4ab74d13-d1eb-4895-b874-6da5d8b1aac3",
+            "sort-name": "Selway, Philip",
+            "disambiguation": "drummer in Radiohead",
+            "country": "GB"
+           },
+           "end": null,
+           "attributes": [],
+           "attribute-ids": {},
+           "attribute-values": {},
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward"
+          },
+          {
+           "target-credit": "",
+           "direction": "backward",
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "attribute-ids": {},
+           "attributes": [],
+           "end": null,
+           "artist": {
+            "country": "GB",
+            "disambiguation": "",
+            "id": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+            "sort-name": "Yorke, Thom",
+            "name": "Thom Yorke",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+           },
+           "type": "writer",
+           "target-type": "artist",
+           "begin": null,
+           "source-credit": ""
+          }
+         ],
+         "iswcs": [
+          "T-010.257.772-9"
+         ],
+         "language": "eng",
+         "type": "Song",
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "title": "Subterranean Homesick Alien",
+         "disambiguation": "",
+         "attributes": []
+        },
+        "target-credit": "",
+        "direction": "forward",
+        "attribute-values": {},
+        "ended": true,
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+        "attribute-ids": {},
+        "target-type": "work",
+        "begin": "1996-07",
+        "source-credit": "",
+        "type": "performance"
+       }
+      ],
+      "tags": [
+       {
+        "name": "acoustic",
+        "count": 3
+       },
+       {
+        "count": 1,
+        "name": "alternative"
+       },
+       {
+        "name": "alternative & punk",
+        "count": 1
+       },
+       {
+        "name": "alternative and punk",
+        "count": 1
+       }
+      ],
+      "isrcs": [
+       "GBAYE9701377",
+       "GBBKS1700109"
+      ],
+      "genres": [
+       {
+        "name": "alternative rock",
+        "disambiguation": "",
+        "count": 7,
+        "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+       },
+       {
+        "count": 2,
+        "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+        "name": "art rock",
+        "disambiguation": ""
+       },
+       {
+        "name": "britpop",
+        "disambiguation": "",
+        "id": "f1c9b874-7ef2-4e79-9419-c0bcb5f33a30",
+        "count": 2
+       },
+       {
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "count": 2,
+        "name": "electronic",
+        "disambiguation": ""
+       }
+      ],
+      "length": 267706,
+      "aliases": [],
+      "first-release-date": "1997-05-21",
+      "title": "Subterranean Homesick Alien",
+      "disambiguation": "",
+      "artist-credit": [
+       {
+        "name": "Radiohead",
+        "joinphrase": "",
+        "artist": {
+         "disambiguation": "",
+         "country": "GB",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "name": "Radiohead",
+         "type": "Group",
+         "sort-name": "Radiohead",
+         "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+        }
+       }
+      ],
+      "video": false
+     },
+     "id": "10c973d8-3adf-3338-afc9-ebba924e77d4",
+     "title": "Subterranean Homesick Alien",
+     "position": 3
+    }
+   ],
+   "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+   "track-count": 12
+  }
+ ],
+ "date": "1997-07-01",
+ "asin": "B000002UJQ",
+ "tags": [],
+ "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+ "disambiguation": "",
+ "quality": "normal",
+ "text-representation": {
+  "script": "Latn",
+  "language": "eng"
+ },
+ "status": "Official",
+ "barcode": "724385522925",
+ "id": "6a09041b-0f79-3278-88d9-0552dd28d37f",
+ "genres": [],
+ "relations": [
+  {
+   "attribute-ids": {},
+   "ended": false,
+   "attribute-values": {},
+   "type-id": "9ae9e4d0-f26b-42fb-ab5c-1149a47cf83b",
+   "direction": "backward",
+   "target-credit": "",
+   "artist": {
+    "sort-name": "Ingman, Nick",
+    "id": "32111fcd-2338-472a-892b-4b329549e3ba",
+    "name": "Nick Ingman",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "country": "GB",
+    "disambiguation": ""
+   },
+   "end": null,
+   "attributes": [],
+   "type": "conductor",
+   "begin": null,
+   "source-credit": "",
+   "target-type": "artist"
+  },
+  {
+   "attribute-ids": {},
+   "target-credit": "",
+   "direction": "backward",
+   "ended": false,
+   "attribute-values": {},
+   "type-id": "307e95dd-88b5-419b-8223-b146d4a0d439",
+   "end": null,
+   "artist": {
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "name": "Stanley Donwood",
+    "type": "Person",
+    "id": "d4dfb11d-2901-4055-96e7-18217675f443",
+    "sort-name": "Donwood, Stanley",
+    "disambiguation": "",
+    "country": "GB"
+   },
+   "attributes": [],
+   "type": "design/illustration",
+   "begin": null,
+   "source-credit": "",
+   "target-type": "artist"
+  },
+  {
+   "target-type": "artist",
+   "source-credit": "",
+   "begin": null,
+   "type": "instrument arranger",
+   "attribute-credits": {},
+   "attributes": [
+    "strings"
+   ],
+   "artist": {
+    "country": "GB",
+    "disambiguation": "",
+    "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "sort-name": "Radiohead",
+    "name": "Radiohead",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+   },
+   "end": null,
+   "ended": false,
+   "attribute-values": {},
+   "type-id": "18f159bb-44f0-4aef-b198-a4736ad9b659",
+   "target-credit": "",
+   "direction": "backward",
+   "attribute-ids": {
+    "strings": "32eca297-dde6-45d0-9305-ae479947c2a8"
+   }
+  },
+  {
+   "attribute-ids": {},
+   "direction": "backward",
+   "target-credit": "",
+   "type-id": "84453d28-c3e8-4864-9aae-25aa968bcf9e",
+   "attribute-values": {},
+   "ended": false,
+   "end": null,
+   "artist": {
+    "country": "GB",
+    "disambiguation": "senior mastering engineer at Abbey Road Studios, London, UK",
+    "sort-name": "Blair, Chris",
+    "id": "12d7f102-f60e-4561-a638-34306b6ab550",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "type": "Person",
+    "name": "Chris Blair"
+   },
+   "attributes": [],
+   "type": "mastering",
+   "source-credit": "",
+   "begin": null,
+   "target-type": "artist"
+  },
+  {
+   "direction": "backward",
+   "target-credit": "",
+   "type-id": "8bf377ba-8d71-4ecc-97f2-7bb2d8a2a75f",
+   "attribute-values": {},
+   "ended": false,
+   "attribute-ids": {},
+   "attributes": [],
+   "end": null,
+   "artist": {
+    "disambiguation": "English record producer",
+    "country": "GB",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "type": "Person",
+    "name": "Nigel Godrich",
+    "sort-name": "Godrich, Nigel",
+    "id": "52de022d-5401-427f-8301-ff1b8be11a7a"
+   },
+   "type": "producer",
+   "target-type": "artist",
+   "source-credit": "",
+   "begin": null
+  },
+  {
+   "source-credit": "",
+   "begin": null,
+   "target-type": "artist",
+   "type": "producer",
+   "artist": {
+    "disambiguation": "",
+    "country": "GB",
+    "name": "Radiohead",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "sort-name": "Radiohead"
+   },
+   "end": null,
+   "attributes": [],
+   "attribute-ids": {},
+   "attribute-values": {},
+   "ended": false,
+   "type-id": "8bf377ba-8d71-4ecc-97f2-7bb2d8a2a75f",
+   "target-credit": "",
+   "direction": "backward"
+  },
+  {
+   "attributes": [],
+   "end": null,
+   "label": {
+    "id": "1a0ef599-bb5c-4dfa-9a8c-078f77dee133",
+    "sort-name": "Warner/Chappell Music, Inc.",
+    "type": "Publisher",
+    "name": "Warner/Chappell Music, Inc.",
+    "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+    "label-code": null,
+    "disambiguation": ""
+   },
+   "target-credit": "Warner/Chappell",
+   "direction": "backward",
+   "ended": false,
+   "attribute-values": {},
+   "type-id": "25858332-bf31-4ad6-85b6-6a3bccebf02e",
+   "attribute-ids": {},
+   "target-type": "label",
+   "source-credit": "",
+   "begin": null,
+   "type": "published"
+  },
+  {
+   "attribute-ids": {},
+   "url": {
+    "resource": "https://www.amazon.com/gp/product/B000002UJQ",
+    "id": "5421780d-759e-4fdf-b9b5-299160dc04f9"
+   },
+   "target-credit": "",
+   "direction": "forward",
+   "attribute-values": {},
+   "ended": false,
+   "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+   "end": null,
+   "attributes": [],
+   "type": "amazon asin",
+   "source-credit": "",
+   "begin": null,
+   "target-type": "url"
+  },
+  {
+   "source-credit": "",
+   "begin": null,
+   "target-type": "url",
+   "type": "discogs",
+   "end": null,
+   "attributes": [],
+   "attribute-ids": {},
+   "url": {
+    "resource": "https://www.discogs.com/release/105704",
+    "id": "dc462278-233b-4ec5-b01f-e59ece911530"
+   },
+   "target-credit": "",
+   "direction": "forward",
+   "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+   "attribute-values": {},
+   "ended": false
+  },
+  {
+   "attributes": [],
+   "end": null,
+   "attribute-values": {},
+   "type-id": "c74dee45-3c85-41e9-a804-92ab1c654446",
+   "ended": false,
+   "target-credit": "",
+   "direction": "forward",
+   "url": {
+    "resource": "https://rateyourmusic.com/release/album/radiohead/ok_computer_f1/",
+    "id": "c5036a37-c5eb-44c6-87c0-786b253041a9"
+   },
+   "attribute-ids": {},
+   "target-type": "url",
+   "source-credit": "",
+   "begin": null,
+   "type": "other databases"
+  }
+ ],
+ "packaging": "Jewel Case",
+ "title": "OK Computer",
+ "cover-art-archive": {
+  "darkened": false,
+  "count": 16,
+  "front": true,
+  "artwork": true,
+  "back": true
+ },
+ "country": "US",
+ "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+ "annotation": "",
+ "release-group": {
+  "genres": [
+   {
+    "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+    "count": 27,
+    "name": "alternative rock",
+    "disambiguation": ""
+   },
+   {
+    "name": "art rock",
+    "disambiguation": "",
+    "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+    "count": 15
+   },
+   {
+    "id": "f1c9b874-7ef2-4e79-9419-c0bcb5f33a30",
+    "count": 1,
+    "disambiguation": "",
+    "name": "britpop"
+   },
+   {
+    "count": 2,
+    "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+    "disambiguation": "",
+    "name": "electronic"
+   }
+  ],
+  "tags": [
+   {
+    "name": "1997",
+    "count": 1
+   },
+   {
+    "count": 2,
+    "name": "5+ wochen"
+   },
+   {
+    "name": "acoustic",
+    "count": 1
+   },
+   {
+    "count": 2,
+    "name": "alienation"
+   }
+  ],
+  "relations": [
+   {
+    "attribute-ids": {},
+    "target-credit": "",
+    "direction": "backward",
+    "attribute-values": {},
+    "type-id": "b41e7530-cde4-459c-b8c5-dfef08fc8295",
+    "ended": false,
+    "end": null,
+    "artist": {
+     "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+     "name": "Rachel Owen",
+     "type": "Person",
+     "sort-name": "Owen, Rachel",
+     "id": "aba55cf7-28ae-4030-976b-f98ca24a7074",
+     "disambiguation": "",
+     "country": "GB"
+    },
+    "attributes": [],
+    "type": "dedicated to",
+    "begin": null,
+    "source-credit": "",
+    "target-type": "artist"
+   },
+   {
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "attribute-values": {
+     "number": "15"
+    },
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "ended": false,
+    "series": {
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77",
+     "disambiguation": "",
+     "name": "33⅓",
+     "type": "Release group series",
+     "id": "e544d491-9fce-43dc-9080-2c2a9d830548"
+    },
+    "direction": "forward",
+    "target-credit": "",
+    "ordering-key": 15,
+    "end": null,
+    "attributes": [
+     "number"
+    ],
+    "type": "part of",
+    "begin": null,
+    "source-credit": "",
+    "target-type": "series"
+   },
+   {
+    "type": "part of",
+    "target-type": "series",
+    "begin": null,
+    "source-credit": "",
+    "ordering-key": 838,
+    "target-credit": "",
+    "direction": "forward",
+    "series": {
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77",
+     "name": "1001 Albums You Must Hear Before You Die",
+     "type": "Release group series",
+     "disambiguation": "2005 edition",
+     "id": "4bc2a338-e1d8-4546-8a61-640da8aaf888"
+    },
+    "attribute-values": {
+     "number": "837"
+    },
+    "ended": false,
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "attributes": [
+     "number"
+    ],
+    "end": null
+   },
+   {
+    "ended": false,
+    "attribute-values": {
+     "number": "39"
+    },
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "direction": "forward",
+    "target-credit": "",
+    "ordering-key": 39,
+    "series": {
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77",
+     "type": "Release group series",
+     "name": "Absolute Radio’s The 100 Collection",
+     "disambiguation": "",
+     "id": "4bf41050-6fa9-41a6-8398-15bdab4b0352"
+    },
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "attributes": [
+     "number"
+    ],
+    "end": null,
+    "type": "part of",
+    "target-type": "series",
+    "begin": null,
+    "source-credit": ""
+   },
+   {
+    "end": null,
+    "attributes": [
+     "number"
+    ],
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "target-credit": "",
+    "ordering-key": 12,
+    "direction": "forward",
+    "series": {
+     "id": "d1d985e6-94ea-4c68-a7ac-63b98b6c0318",
+     "disambiguation": "",
+     "name": "Apple Music: 100 Best Albums",
+     "type": "Release group series",
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77"
+    },
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "attribute-values": {
+     "number": "12"
+    },
+    "ended": false,
+    "source-credit": "",
+    "begin": null,
+    "target-type": "series",
+    "type": "part of"
+   },
+   {
+    "type": "part of",
+    "target-type": "series",
+    "source-credit": "",
+    "begin": null,
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "attribute-values": {},
+    "ended": false,
+    "target-credit": "",
+    "ordering-key": 180,
+    "direction": "forward",
+    "series": {
+     "id": "263a0d87-6208-4534-b766-2c20c86ae3a3",
+     "disambiguation": "",
+     "name": "Discothèque Idéale Qobuz / Qobuz Ideal Discography",
+     "type": "Release group series",
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77"
+    },
+    "attribute-ids": {},
+    "attributes": [],
+    "end": null
+   },
+   {
+    "target-type": "series",
+    "begin": null,
+    "source-credit": "",
+    "type": "part of",
+    "attributes": [
+     "number"
+    ],
+    "end": null,
+    "ordering-key": 178,
+    "target-credit": "",
+    "direction": "forward",
+    "series": {
+     "type-id": "133524ac-b9e4-4c6f-becb-774ab963de2f",
+     "disambiguation": "",
+     "name": "Grammy Award: Album of the Year nominees",
+     "type": "Release group award",
+     "id": "64249380-b076-4a9d-aa41-e617d81fa1c9"
+    },
+    "attribute-values": {
+     "number": "1998"
+    },
+    "ended": false,
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    }
+   },
+   {
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "attribute-values": {
+     "number": "1998 winner"
+    },
+    "ended": false,
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "ordering-key": 40,
+    "target-credit": "",
+    "direction": "forward",
+    "series": {
+     "id": "16a89a2d-1d9e-4a29-a59b-a5e88304a75d",
+     "disambiguation": "",
+     "type": "Release group award",
+     "name": "Grammy Award: Best Alternative Music Album nominees",
+     "type-id": "133524ac-b9e4-4c6f-becb-774ab963de2f"
+    },
+    "end": null,
+    "attributes": [
+     "number"
+    ],
+    "type": "part of",
+    "source-credit": "",
+    "begin": null,
+    "target-type": "series"
+   },
+   {
+    "type": "part of",
+    "source-credit": "",
+    "begin": null,
+    "target-type": "series",
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "attribute-values": {
+     "number": "1997"
+    },
+    "ended": false,
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "series": {
+     "id": "b498d904-681d-41a2-b578-8281cddf4146",
+     "name": "Mercury Prize Shortlist Nominees",
+     "type": "Release group award",
+     "disambiguation": "",
+     "type-id": "133524ac-b9e4-4c6f-becb-774ab963de2f"
+    },
+    "target-credit": "",
+    "direction": "forward",
+    "ordering-key": 60,
+    "end": null,
+    "attributes": [
+     "number"
+    ]
+   },
+   {
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "ordering-key": 3,
+    "target-credit": "",
+    "direction": "forward",
+    "series": {
+     "id": "4d544556-8519-4a20-b854-af57256d9717",
+     "name": "Pitchfork: The 150 Best Albums of the 1990s",
+     "type": "Release group series",
+     "disambiguation": "2022-09-28",
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77"
+    },
+    "attribute-values": {
+     "number": "3"
+    },
+    "ended": false,
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "end": null,
+    "attributes": [
+     "number"
+    ],
+    "type": "part of",
+    "source-credit": "",
+    "begin": null,
+    "target-type": "series"
+   },
+   {
+    "target-type": "series",
+    "begin": null,
+    "source-credit": "",
+    "type": "part of",
+    "attributes": [
+     "number"
+    ],
+    "end": null,
+    "attribute-values": {
+     "number": "162"
+    },
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "ended": false,
+    "ordering-key": 162,
+    "target-credit": "",
+    "direction": "forward",
+    "series": {
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77",
+     "disambiguation": "",
+     "type": "Release group series",
+     "name": "Rolling Stone: 500 Greatest Albums of All Time: 2003 edition",
+     "id": "ec97d21b-c3d0-48d4-9476-f5efbdb5c397"
+    },
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    }
+   },
+   {
+    "type": "part of",
+    "begin": null,
+    "source-credit": "",
+    "target-type": "series",
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "direction": "forward",
+    "target-credit": "",
+    "ordering-key": 162,
+    "series": {
+     "id": "8668518f-4a1e-4802-8b0d-81703ced6418",
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77",
+     "disambiguation": "",
+     "type": "Release group series",
+     "name": "Rolling Stone: 500 Greatest Albums of All Time: 2012 edition"
+    },
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "attribute-values": {
+     "number": "162"
+    },
+    "ended": false,
+    "end": null,
+    "attributes": [
+     "number"
+    ]
+   },
+   {
+    "type": "part of",
+    "target-type": "series",
+    "source-credit": "",
+    "begin": null,
+    "series": {
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77",
+     "disambiguation": "",
+     "type": "Release group series",
+     "name": "Rolling Stone: 500 Greatest Albums of All Time: 2020 edition",
+     "id": "6a4b53b9-2756-4afe-93f2-306039d41910"
+    },
+    "target-credit": "",
+    "ordering-key": 42,
+    "direction": "forward",
+    "ended": false,
+    "attribute-values": {
+     "number": "42"
+    },
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "attributes": [
+     "number"
+    ],
+    "end": null
+   },
+   {
+    "target-type": "series",
+    "begin": null,
+    "source-credit": "",
+    "type": "part of",
+    "attributes": [
+     "number"
+    ],
+    "end": null,
+    "series": {
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77",
+     "name": "Rolling Stone: 500 Greatest Albums of All Time: 2023 edition",
+     "type": "Release group series",
+     "disambiguation": "",
+     "id": "bb3d9d84-75b8-4e67-8ad7-dcc38f764bf3"
+    },
+    "target-credit": "",
+    "direction": "forward",
+    "ordering-key": 42,
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "attribute-values": {
+     "number": "42"
+    },
+    "ended": false,
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    }
+   },
+   {
+    "target-type": "series",
+    "source-credit": "",
+    "begin": null,
+    "type": "part of",
+    "attributes": [
+     "number"
+    ],
+    "end": null,
+    "attribute-values": {
+     "number": "2"
+    },
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "ended": false,
+    "series": {
+     "disambiguation": "",
+     "type": "Release group series",
+     "name": "Treble: The 150 Best Albums of the 1990s",
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77",
+     "id": "89d67b7e-f8eb-4d0d-a4a1-515b9d0b0f63"
+    },
+    "target-credit": "",
+    "ordering-key": 2,
+    "direction": "forward",
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    }
+   },
+   {
+    "attributes": [
+     "number"
+    ],
+    "end": null,
+    "attribute-values": {
+     "number": "2"
+    },
+    "ended": false,
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "direction": "forward",
+    "target-credit": "",
+    "ordering-key": 2,
+    "series": {
+     "type": "Release group series",
+     "name": "Uncut: The 500 Greatest Albums of the 1990s",
+     "disambiguation": "",
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77",
+     "id": "c5412478-1173-490c-a989-bd51f5b7c3aa"
+    },
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "target-type": "series",
+    "source-credit": "",
+    "begin": null,
+    "type": "part of"
+   },
+   {
+    "type": "allmusic",
+    "target-type": "url",
+    "source-credit": "",
+    "begin": null,
+    "type-id": "a50a1d20-2b20-4d2c-9a29-eb771dd78386",
+    "attribute-values": {},
+    "ended": false,
+    "direction": "forward",
+    "target-credit": "",
+    "url": {
+     "resource": "https://www.allmusic.com/album/mw0000024289",
+     "id": "11137828-3d75-4801-9753-6e213d8f4c67"
+    },
+    "attribute-ids": {},
+    "attributes": [],
+    "end": null
+   },
+   {
+    "attributes": [],
+    "end": null,
+    "direction": "forward",
+    "target-credit": "",
+    "attribute-values": {},
+    "ended": false,
+    "type-id": "5849de4a-78ae-4876-975d-2181107e70b7",
+    "attribute-ids": {},
+    "url": {
+     "resource": "https://www.last.fm/music/Radiohead/OK+Computer",
+     "id": "c0bccb62-988a-46a7-b0ee-54354088467f"
+    },
+    "target-type": "url",
+    "begin": null,
+    "source-credit": "",
+    "type": "discography entry"
+   },
+   {
+    "begin": null,
+    "source-credit": "",
+    "target-type": "url",
+    "type": "discogs",
+    "end": null,
+    "attributes": [],
+    "url": {
+     "id": "56db613c-e663-4f15-bc41-d00f47ebff73",
+     "resource": "https://www.discogs.com/master/21491"
+    },
+    "attribute-ids": {},
+    "ended": false,
+    "attribute-values": {},
+    "type-id": "99e550f3-5ab4-3110-b5b9-fe01d970b126",
+    "direction": "forward",
+    "target-credit": ""
+   },
+   {
+    "type": "lyrics",
+    "target-type": "url",
+    "source-credit": "",
+    "begin": null,
+    "type-id": "156344d3-da8b-40c6-8b10-7b1c22727124",
+    "attribute-values": {},
+    "ended": false,
+    "direction": "forward",
+    "target-credit": "",
+    "url": {
+     "id": "a4dfc85f-c718-412e-8598-a1f14392b7b8",
+     "resource": "https://genius.com/albums/Radiohead/Ok-computer"
+    },
+    "attribute-ids": {},
+    "attributes": [],
+    "end": null
+   },
+   {
+    "type": "other databases",
+    "source-credit": "",
+    "begin": null,
+    "target-type": "url",
+    "attribute-ids": {},
+    "url": {
+     "resource": "http://musicmoz.org/Bands_and_Artists/R/Radiohead/Discography/OK_Computer/",
+     "id": "c549a010-8991-41b7-8b65-beb948fa9e2f"
+    },
+    "direction": "forward",
+    "target-credit": "",
+    "attribute-values": {},
+    "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+    "ended": false,
+    "end": null,
+    "attributes": []
+   },
+   {
+    "type": "other databases",
+    "begin": null,
+    "source-credit": "",
+    "target-type": "url",
+    "url": {
+     "resource": "https://rateyourmusic.com/release/album/radiohead/ok_computer/",
+     "id": "826b133b-5bec-4d59-bf68-a0e77982c6a0"
+    },
+    "attribute-ids": {},
+    "attribute-values": {},
+    "ended": false,
+    "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+    "direction": "forward",
+    "target-credit": "",
+    "end": null,
+    "attributes": []
+   },
+   {
+    "end": null,
+    "attributes": [],
+    "attribute-ids": {},
+    "url": {
+     "id": "96b97a44-0615-4afa-9330-1ef5282927c0",
+     "resource": "https://www.offiziellecharts.de/charts/album-details-2562"
+    },
+    "target-credit": "",
+    "direction": "forward",
+    "attribute-values": {},
+    "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+    "ended": false,
+    "source-credit": "",
+    "begin": null,
+    "target-type": "url",
+    "type": "other databases"
+   },
+   {
+    "attribute-ids": {},
+    "url": {
+     "resource": "https://www.progarchives.com/album.asp?id=7066",
+     "id": "2bd72cef-77aa-404d-8018-a07c1ced59d3"
+    },
+    "direction": "forward",
+    "target-credit": "",
+    "attribute-values": {},
+    "ended": false,
+    "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+    "end": null,
+    "attributes": [],
+    "type": "other databases",
+    "source-credit": "",
+    "begin": null,
+    "target-type": "url"
+   },
+   {
+    "type": "other databases",
+    "target-type": "url",
+    "source-credit": "",
+    "begin": null,
+    "target-credit": "",
+    "direction": "forward",
+    "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+    "attribute-values": {},
+    "ended": false,
+    "attribute-ids": {},
+    "url": {
+     "id": "c5754006-635d-4a4d-a4a4-1fa88842bb76",
+     "resource": "https://www.spirit-of-rock.com/en/album/OK_Computer/3113"
+    },
+    "attributes": [],
+    "end": null
+   },
+   {
+    "attributes": [],
+    "end": null,
+    "direction": "forward",
+    "target-credit": "",
+    "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+    "attribute-values": {},
+    "ended": false,
+    "attribute-ids": {},
+    "url": {
+     "resource": "http://www.musik-sammler.de/album/30875",
+     "id": "9ca7c985-00b8-40a9-a9a9-a9cbaf4a305f"
+    },
+    "target-type": "url",
+    "source-credit": "",
+    "begin": null,
+    "type": "other databases"
+   },
+   {
+    "end": null,
+    "attributes": [],
+    "url": {
+     "resource": "http://articles.chicagotribune.com/1997-07-04/entertainment/9707040186_1_ambition-ugly-star",
+     "id": "12fc103b-e397-4370-9d3c-1cf290d2c4fa"
+    },
+    "attribute-ids": {},
+    "attribute-values": {},
+    "ended": false,
+    "type-id": "c3ac9c3b-f546-4d15-873f-b294d2c1b708",
+    "target-credit": "",
+    "direction": "forward",
+    "source-credit": "",
+    "begin": null,
+    "target-type": "url",
+    "type": "review"
+   },
+   {
+    "attributes": [],
+    "end": null,
+    "target-credit": "",
+    "direction": "forward",
+    "ended": false,
+    "attribute-values": {},
+    "type-id": "c3ac9c3b-f546-4d15-873f-b294d2c1b708",
+    "attribute-ids": {},
+    "url": {
+     "resource": "http://content.time.com/time/magazine/article/0,9171,986902,00.html",
+     "id": "2654ebf2-896e-4a24-ae85-3c7eee906f83"
+    },
+    "target-type": "url",
+    "begin": null,
+    "source-credit": "",
+    "type": "review"
+   },
+   {
+    "target-credit": "",
+    "direction": "forward",
+    "attribute-values": {},
+    "type-id": "c3ac9c3b-f546-4d15-873f-b294d2c1b708",
+    "ended": false,
+    "attribute-ids": {},
+    "url": {
+     "id": "cd7038be-dfe8-4260-bab4-71011d50f8dd",
+     "resource": "https://www.bbc.co.uk/music/reviews/wcp2"
+    },
+    "attributes": [],
+    "end": null,
+    "type": "review",
+    "target-type": "url",
+    "begin": null,
+    "source-credit": ""
+   },
+   {
+    "attribute-values": {},
+    "type-id": "c3ac9c3b-f546-4d15-873f-b294d2c1b708",
+    "ended": false,
+    "target-credit": "",
+    "direction": "forward",
+    "url": {
+     "resource": "http://web.archive.org/web/20010303103405/www.pitchforkmedia.com/record-reviews/r/radiohead/ok-computer.shtml",
+     "id": "938be333-5275-4201-bfc6-feb7b7bd6635"
+    },
+    "attribute-ids": {},
+    "attributes": [],
+    "end": null,
+    "type": "review",
+    "target-type": "url",
+    "source-credit": "",
+    "begin": null
+   },
+   {
+    "type": "review",
+    "target-type": "url",
+    "begin": null,
+    "source-credit": "",
+    "attribute-values": {},
+    "type-id": "c3ac9c3b-f546-4d15-873f-b294d2c1b708",
+    "ended": false,
+    "direction": "forward",
+    "target-credit": "",
+    "url": {
+     "resource": "http://www.ew.com/ew/article/0,,20202376,00.html",
+     "id": "ff1be385-cae3-4d32-81e4-a2040ab29904"
+    },
+    "attribute-ids": {},
+    "attributes": [],
+    "end": null
+   },
+   {
+    "end": null,
+    "attributes": [],
+    "url": {
+     "id": "057bf38d-02c8-4c36-b729-d38d83c560a8",
+     "resource": "http://www.inmusicwetrust.com/articles/01r36.html"
+    },
+    "attribute-ids": {},
+    "ended": false,
+    "attribute-values": {},
+    "type-id": "c3ac9c3b-f546-4d15-873f-b294d2c1b708",
+    "target-credit": "",
+    "direction": "forward",
+    "begin": null,
+    "source-credit": "",
+    "target-type": "url",
+    "type": "review"
+   },
+   {
+    "target-type": "url",
+    "begin": null,
+    "source-credit": "",
+    "type": "wikidata",
+    "attributes": [],
+    "end": null,
+    "ended": false,
+    "attribute-values": {},
+    "type-id": "b988d08c-5d86-4a57-9557-c83b399e3580",
+    "target-credit": "",
+    "direction": "forward",
+    "url": {
+     "id": "d27dd960-9b18-44a0-9bb4-1fa53f58e33e",
+     "resource": "https://www.wikidata.org/wiki/Q202996"
+    },
+    "attribute-ids": {}
+   }
+  ],
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+  "artist-credit": [
+   {
+    "artist": {
+     "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+     "sort-name": "Radiohead",
+     "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+     "name": "Radiohead",
+     "type": "Group",
+     "aliases": [
+      {
+       "type": "Search hint",
+       "name": "Radio Head",
+       "ended": false,
+       "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+       "primary": null,
+       "sort-name": "Radio Head",
+       "locale": null,
+       "end": null,
+       "begin": null
+      },
+      {
+       "primary": true,
+       "sort-name": "Radiohead",
+       "ended": false,
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "name": "Radiohead",
+       "type": "Artist name",
+       "begin": null,
+       "locale": "en",
+       "end": null
+      },
+      {
+       "begin": null,
+       "locale": null,
+       "end": null,
+       "primary": null,
+       "sort-name": "Radiohead & Thom Yorke",
+       "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+       "ended": false,
+       "name": "Radiohead & Thom Yorke",
+       "type": "Search hint"
+      },
+      {
+       "locale": null,
+       "end": null,
+       "begin": null,
+       "name": "r/head",
+       "type": "Search hint",
+       "ended": false,
+       "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+       "sort-name": "r/head",
+       "primary": null
+      }
+     ],
+     "country": "GB",
+     "disambiguation": ""
+    },
+    "joinphrase": "",
+    "name": "Radiohead"
+   }
+  ],
+  "first-release-date": "1997-05-21",
+  "aliases": [
+   {
+    "primary": null,
+    "sort-name": "OK Computer (remastered 2017)",
+    "type-id": null,
+    "ended": false,
+    "name": "OK Computer (remastered 2017)",
+    "type": null,
+    "begin": null,
+    "locale": null,
+    "end": null
+   },
+   {
+    "begin": null,
+    "locale": null,
+    "end": null,
+    "sort-name": "OK Computer: OKNOTOK 1997 2017",
+    "primary": null,
+    "ended": false,
+    "type-id": null,
+    "type": null,
+    "name": "OK Computer: OKNOTOK 1997 2017"
+   }
+  ],
+  "id": "b1392450-e666-3926-a536-22c65f834433",
+  "secondary-type-ids": [],
+  "disambiguation": "",
+  "secondary-types": [],
+  "title": "OK Computer",
+  "primary-type": "Album"
+ },
+ "release-events": [
+  {
+   "date": "1997-07-01",
+   "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "sort-name": "United States",
+    "iso-3166-1-codes": [
+     "US"
+    ],
+    "type-id": null,
+    "name": "United States",
+    "type": null,
+    "disambiguation": ""
+   }
+  }
+ ]
+}

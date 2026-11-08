@@ -1,0 +1,3111 @@
+{
+ "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+ "annotation": "",
+ "release-events": [
+  {
+   "date": "1999-11-10",
+   "area": {
+    "disambiguation": "",
+    "type": null,
+    "name": "Japan",
+    "type-id": null,
+    "iso-3166-1-codes": [
+     "JP"
+    ],
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "sort-name": "Japan"
+   }
+  }
+ ],
+ "release-group": {
+  "genres": [
+   {
+    "name": "electronic",
+    "disambiguation": "",
+    "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+    "count": 1
+   },
+   {
+    "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+    "count": 1,
+    "disambiguation": "",
+    "name": "hip hop"
+   },
+   {
+    "disambiguation": "",
+    "name": "j-pop",
+    "id": "eba7715e-ee26-4989-8d49-9db382955419",
+    "count": 1
+   },
+   {
+    "count": 1,
+    "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+    "disambiguation": "",
+    "name": "pop"
+   },
+   {
+    "disambiguation": "",
+    "name": "synth-pop",
+    "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+    "count": 1
+   }
+  ],
+  "tags": [
+   {
+    "count": 1,
+    "name": "electronic"
+   },
+   {
+    "name": "hip hop",
+    "count": 1
+   },
+   {
+    "name": "j-pop",
+    "count": 1
+   },
+   {
+    "name": "pop",
+    "count": 1
+   },
+   {
+    "name": "synth-pop",
+    "count": 1
+   }
+  ],
+  "relations": [
+   {
+    "target-credit": "",
+    "direction": "forward",
+    "ended": false,
+    "attribute-values": {},
+    "type-id": "99e550f3-5ab4-3110-b5b9-fe01d970b126",
+    "attribute-ids": {},
+    "url": {
+     "id": "ea66684e-f88a-4c26-94db-7d93d84d9278",
+     "resource": "https://www.discogs.com/master/453040"
+    },
+    "attributes": [],
+    "end": null,
+    "type": "discogs",
+    "target-type": "url",
+    "source-credit": "",
+    "begin": null
+   },
+   {
+    "target-type": "url",
+    "source-credit": "",
+    "begin": null,
+    "type": "wikidata",
+    "attributes": [],
+    "end": null,
+    "attribute-values": {},
+    "ended": false,
+    "type-id": "b988d08c-5d86-4a57-9557-c83b399e3580",
+    "direction": "forward",
+    "target-credit": "",
+    "url": {
+     "resource": "https://www.wikidata.org/wiki/Q2700210",
+     "id": "30b06019-0cde-4ee0-87c3-e90688875f91"
+    },
+    "attribute-ids": {}
+   }
+  ],
+  "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+  "artist-credit": [
+   {
+    "joinphrase": "",
+    "artist": {
+     "disambiguation": "Japanese-American singer-songwriter",
+     "aliases": [
+      {
+       "begin": null,
+       "locale": "en",
+       "end": null,
+       "sort-name": "Cubic U",
+       "primary": false,
+       "ended": false,
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "type": "Artist name",
+       "name": "Cubic U"
+      },
+      {
+       "end": null,
+       "locale": null,
+       "begin": null,
+       "name": "Cubic U (Utada Hikaru)",
+       "type": "Search hint",
+       "ended": false,
+       "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+       "sort-name": "Cubic U (Utada Hikaru)",
+       "primary": null
+      },
+      {
+       "primary": true,
+       "sort-name": "Utada, Hikaru",
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "ended": false,
+       "type": "Artist name",
+       "name": "Hikaru Utada",
+       "begin": null,
+       "locale": "en",
+       "end": null
+      },
+      {
+       "begin": null,
+       "end": null,
+       "locale": "en",
+       "ended": false,
+       "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+       "name": "Hikaru Utada",
+       "type": "Legal name",
+       "sort-name": "Utada, Hikaru",
+       "primary": false
+      },
+      {
+       "ended": false,
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "name": "Hikaru Utada",
+       "type": "Artist name",
+       "primary": true,
+       "sort-name": "Utada, Hikaru",
+       "begin": null,
+       "end": null,
+       "locale": "lt"
+      },
+      {
+       "primary": false,
+       "sort-name": "Hikki",
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "ended": false,
+       "name": "Hikki",
+       "type": "Artist name",
+       "begin": null,
+       "locale": "en",
+       "end": null
+      },
+      {
+       "locale": "en",
+       "end": null,
+       "begin": null,
+       "type": "Artist name",
+       "name": "Utada",
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "ended": false,
+       "primary": false,
+       "sort-name": "Utada"
+      },
+      {
+       "begin": null,
+       "locale": "en_PH",
+       "end": null,
+       "ended": false,
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "name": "Utada Hikaru",
+       "type": "Artist name",
+       "sort-name": "Utada, Hikaru",
+       "primary": true
+      },
+      {
+       "locale": "ja",
+       "end": null,
+       "begin": null,
+       "name": "ヒッキー",
+       "type": "Artist name",
+       "ended": false,
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "primary": false,
+       "sort-name": "ヒッキー"
+      },
+      {
+       "locale": "ja",
+       "end": null,
+       "begin": null,
+       "primary": true,
+       "sort-name": "うただヒカル",
+       "name": "宇多田ヒカル",
+       "type": "Artist name",
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "ended": false
+      },
+      {
+       "ended": false,
+       "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+       "name": "宇多田光",
+       "type": "Legal name",
+       "sort-name": "うただひかる",
+       "primary": false,
+       "begin": null,
+       "locale": "ja",
+       "end": null
+      },
+      {
+       "locale": "zh_Hans",
+       "end": null,
+       "begin": null,
+       "primary": true,
+       "sort-name": "宇多田光",
+       "type": "Artist name",
+       "name": "宇多田光",
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "ended": false
+      },
+      {
+       "primary": false,
+       "sort-name": "宇多田光",
+       "name": "宇多田光",
+       "type": "Artist name",
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "ended": false,
+       "end": null,
+       "locale": "zh_Hant_TW",
+       "begin": null
+      },
+      {
+       "begin": null,
+       "locale": "ko",
+       "end": null,
+       "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+       "ended": false,
+       "type": "Artist name",
+       "name": "우타다히카루",
+       "primary": false,
+       "sort-name": "히카루, 우타다"
+      }
+     ],
+     "country": "JP",
+     "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+     "type": "Person",
+     "name": "宇多田ヒカル",
+     "sort-name": "Utada, Hikaru",
+     "id": "b539e453-c4fe-47e3-8a07-8517eac74429"
+    },
+    "name": "宇多田ヒカル"
+   }
+  ],
+  "first-release-date": "1999-11-10",
+  "aliases": [],
+  "id": "99c1c5d7-cb5c-367c-a4af-24a5895407e3",
+  "secondary-type-ids": [],
+  "disambiguation": "",
+  "secondary-types": [],
+  "primary-type": "Single",
+  "title": "Addicted to You"
+ },
+ "cover-art-archive": {
+  "count": 6,
+  "darkened": false,
+  "back": true,
+  "front": true,
+  "artwork": true
+ },
+ "title": "Addicted to You",
+ "country": "JP",
+ "genres": [
+  {
+   "count": 1,
+   "id": "eba7715e-ee26-4989-8d49-9db382955419",
+   "disambiguation": "",
+   "name": "j-pop"
+  },
+  {
+   "disambiguation": "",
+   "name": "pop",
+   "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+   "count": 1
+  }
+ ],
+ "relations": [
+  {
+   "begin": null,
+   "source-credit": "",
+   "target-type": "artist",
+   "type": "art direction",
+   "artist": {
+    "country": "JP",
+    "disambiguation": "",
+    "sort-name": "Takahashi, Ayumu",
+    "id": "128d5161-c551-4b16-b9ee-a208adfa3aa6",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "type": "Person",
+    "name": "高橋歩"
+   },
+   "end": null,
+   "attributes": [],
+   "attribute-ids": {},
+   "attribute-values": {},
+   "type-id": "f3b80a09-5ebf-4ad2-9c46-3e6bce971d1b",
+   "ended": false,
+   "target-credit": "",
+   "direction": "backward"
+  },
+  {
+   "attribute-ids": {},
+   "target-credit": "",
+   "direction": "backward",
+   "type-id": "9c02ea37-7680-4fb5-8555-e330c7aa885b",
+   "attribute-values": {},
+   "ended": false,
+   "end": null,
+   "artist": {
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "type": "Person",
+    "name": "高橋歩",
+    "id": "128d5161-c551-4b16-b9ee-a208adfa3aa6",
+    "sort-name": "Takahashi, Ayumu",
+    "disambiguation": "",
+    "country": "JP"
+   },
+   "attributes": [],
+   "type": "design",
+   "source-credit": "",
+   "begin": null,
+   "target-type": "artist"
+  },
+  {
+   "type": "graphic design",
+   "begin": null,
+   "source-credit": "",
+   "target-type": "artist",
+   "attribute-ids": {},
+   "ended": false,
+   "attribute-values": {},
+   "type-id": "cf43b79e-3299-4b0c-9244-59ea06337107",
+   "target-credit": "Kimura Masatomo",
+   "direction": "backward",
+   "artist": {
+    "name": "Masatomo Kimura",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "sort-name": "Kimura, Masatomo",
+    "id": "3fa82ce0-ecaf-4574-ad8b-4f73b82657e3",
+    "disambiguation": "",
+    "country": "JP"
+   },
+   "end": null,
+   "attributes": []
+  },
+  {
+   "attribute-ids": {},
+   "attribute-values": {},
+   "type-id": "84453d28-c3e8-4864-9aae-25aa968bcf9e",
+   "ended": false,
+   "direction": "backward",
+   "target-credit": "Andy van Dette",
+   "artist": {
+    "sort-name": "VanDette, Andy",
+    "id": "d3a68788-a5d5-4ca4-9bbe-411167c2ae7d",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "name": "Andy VanDette",
+    "type": "Person",
+    "country": "US",
+    "disambiguation": ""
+   },
+   "end": null,
+   "attributes": [],
+   "type": "mastering",
+   "begin": null,
+   "source-credit": "",
+   "target-type": "artist"
+  },
+  {
+   "attribute-ids": {},
+   "type-id": "0b58dc9b-9c49-4b19-bb58-9c06d41c8fbf",
+   "attribute-values": {},
+   "ended": false,
+   "direction": "backward",
+   "target-credit": "",
+   "artist": {
+    "disambiguation": "photographer",
+    "country": "US",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "name": "Richard Avedon",
+    "type": "Person",
+    "sort-name": "Avedon, Richard",
+    "id": "ef72caeb-95ca-444c-9403-a46b99a03120"
+   },
+   "end": null,
+   "attributes": [],
+   "type": "photography",
+   "source-credit": "",
+   "begin": null,
+   "target-type": "artist"
+  },
+  {
+   "source-credit": "",
+   "begin": null,
+   "target-type": "artist",
+   "type": "producer",
+   "end": null,
+   "artist": {
+    "disambiguation": "",
+    "country": "JP",
+    "type": "Person",
+    "name": "三宅彰",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "id": "72aec715-6bab-43bb-8ad7-5cec75f39abf",
+    "sort-name": "Miyake, Akira"
+   },
+   "attributes": [
+    "executive"
+   ],
+   "attribute-ids": {
+    "executive": "e0039285-6667-4f94-80d6-aa6520c6d359"
+   },
+   "target-credit": "Miyake Akira",
+   "direction": "backward",
+   "type-id": "8bf377ba-8d71-4ecc-97f2-7bb2d8a2a75f",
+   "attribute-values": {},
+   "ended": false
+  },
+  {
+   "source-credit": "",
+   "begin": null,
+   "target-type": "artist",
+   "type": "producer",
+   "artist": {
+    "country": "JP",
+    "disambiguation": "",
+    "id": "70eea049-e411-4dd1-92df-5e29c93190c6",
+    "sort-name": "Utada, Teruzane",
+    "name": "宇多田照實",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+   },
+   "end": null,
+   "attributes": [
+    "executive"
+   ],
+   "attribute-ids": {
+    "executive": "e0039285-6667-4f94-80d6-aa6520c6d359"
+   },
+   "type-id": "8bf377ba-8d71-4ecc-97f2-7bb2d8a2a75f",
+   "attribute-values": {},
+   "ended": false,
+   "direction": "backward",
+   "target-credit": "Utada Sking Teruzane"
+  },
+  {
+   "attributes": [],
+   "label": {
+    "disambiguation": "record company, do not use as release label – check obi, back or disc for imprint! Ended 2007‐06‐29",
+    "label-code": null,
+    "name": "東芝EMI 株式会社",
+    "type": "Holding",
+    "type-id": "43f31a62-97e4-36f6-9752-453c131b71ed",
+    "sort-name": "東芝EMI 株式会社",
+    "id": "d5a60c75-26e2-4363-a5db-58c12b578cd5"
+   },
+   "end": null,
+   "attribute-values": {},
+   "ended": false,
+   "type-id": "835e514a-c5bc-44f7-be7b-92452a3f5d60",
+   "target-credit": "Toshiba EMI Ltd.",
+   "direction": "backward",
+   "attribute-ids": {},
+   "target-type": "label",
+   "source-credit": "",
+   "begin": null,
+   "type": "manufactured"
+  },
+  {
+   "begin": null,
+   "source-credit": "",
+   "target-type": "label",
+   "type": "produced for",
+   "end": null,
+   "label": {
+    "disambiguation": "",
+    "label-code": null,
+    "id": "7e5ea560-c5d9-4836-8705-629a6412a9bd",
+    "sort-name": "U3 Music",
+    "type": "Production",
+    "name": "U3 Music",
+    "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678"
+   },
+   "attributes": [
+    "executive"
+   ],
+   "attribute-ids": {
+    "executive": "e0039285-6667-4f94-80d6-aa6520c6d359"
+   },
+   "target-credit": "",
+   "direction": "backward",
+   "ended": false,
+   "attribute-values": {},
+   "type-id": "a4c3fb3a-66f8-4362-9507-bb846fe86b64"
+  },
+  {
+   "attribute-ids": {
+    "executive": "e0039285-6667-4f94-80d6-aa6520c6d359"
+   },
+   "attribute-values": {},
+   "ended": false,
+   "type-id": "a4c3fb3a-66f8-4362-9507-bb846fe86b64",
+   "direction": "backward",
+   "target-credit": "Toshiba EMI",
+   "label": {
+    "sort-name": "東芝EMI 株式会社",
+    "id": "d5a60c75-26e2-4363-a5db-58c12b578cd5",
+    "name": "東芝EMI 株式会社",
+    "type": "Holding",
+    "type-id": "43f31a62-97e4-36f6-9752-453c131b71ed",
+    "disambiguation": "record company, do not use as release label – check obi, back or disc for imprint! Ended 2007‐06‐29",
+    "label-code": null
+   },
+   "end": null,
+   "attributes": [
+    "executive"
+   ],
+   "type": "produced for",
+   "begin": null,
+   "source-credit": "",
+   "target-type": "label"
+  },
+  {
+   "ended": false,
+   "attribute-values": {},
+   "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+   "direction": "forward",
+   "target-credit": "",
+   "url": {
+    "id": "22c8cd9c-65bb-4a72-ba1a-eadb409d3da3",
+    "resource": "https://www.amazon.co.jp/gp/product/B00003Q4A9"
+   },
+   "attribute-ids": {},
+   "attributes": [],
+   "end": null,
+   "type": "amazon asin",
+   "target-type": "url",
+   "begin": null,
+   "source-credit": ""
+  },
+  {
+   "type": "discogs",
+   "target-type": "url",
+   "source-credit": "",
+   "begin": null,
+   "attribute-values": {},
+   "ended": false,
+   "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+   "direction": "forward",
+   "target-credit": "",
+   "url": {
+    "resource": "https://www.discogs.com/release/1367092",
+    "id": "cdbd715f-8fe1-4e85-9403-444a5776e2e6"
+   },
+   "attribute-ids": {},
+   "attributes": [],
+   "end": null
+  }
+ ],
+ "packaging": null,
+ "status": "Official",
+ "barcode": "4988006164673",
+ "id": "0398b2b8-8107-47f5-8bad-4c02dc1595d9",
+ "disambiguation": "",
+ "quality": "normal",
+ "text-representation": {
+  "language": "eng",
+  "script": "Latn"
+ },
+ "asin": "B00003Q4A9",
+ "date": "1999-11-10",
+ "packaging-id": null,
+ "tags": [
+  {
+   "name": "j-pop",
+   "count": 1
+  },
+  {
+   "count": 1,
+   "name": "pop"
+  }
+ ],
+ "artist-credit": [
+  {
+   "name": "宇多田ヒカル",
+   "artist": {
+    "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+    "sort-name": "Utada, Hikaru",
+    "tags": [
+     {
+      "count": 1,
+      "name": "ballad"
+     },
+     {
+      "count": 2,
+      "name": "contemporary r&b"
+     },
+     {
+      "count": 2,
+      "name": "dance-pop"
+     },
+     {
+      "count": 3,
+      "name": "j-pop"
+     },
+     {
+      "count": 1,
+      "name": "japan"
+     },
+     {
+      "name": "pop",
+      "count": 2
+     },
+     {
+      "name": "pop soul",
+      "count": 1
+     },
+     {
+      "name": "queer",
+      "count": 1
+     },
+     {
+      "name": "r&b",
+      "count": 4
+     },
+     {
+      "count": 2,
+      "name": "singer-songwriter"
+     }
+    ],
+    "type": "Person",
+    "name": "宇多田ヒカル",
+    "genres": [
+     {
+      "count": 1,
+      "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+      "name": "ballad",
+      "disambiguation": ""
+     },
+     {
+      "name": "contemporary r&b",
+      "disambiguation": "",
+      "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+      "count": 2
+     },
+     {
+      "name": "dance-pop",
+      "disambiguation": "",
+      "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+      "count": 2
+     },
+     {
+      "count": 3,
+      "id": "eba7715e-ee26-4989-8d49-9db382955419",
+      "disambiguation": "",
+      "name": "j-pop"
+     },
+     {
+      "name": "pop",
+      "disambiguation": "",
+      "count": 2,
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+     },
+     {
+      "name": "pop soul",
+      "disambiguation": "",
+      "count": 1,
+      "id": "64e0bd76-822f-4549-a6fe-9858561282d1"
+     },
+     {
+      "count": 4,
+      "id": "31be54b2-4d0c-42df-aa44-c496c7b4c3c3",
+      "disambiguation": "",
+      "name": "r&b"
+     },
+     {
+      "disambiguation": "",
+      "name": "singer-songwriter",
+      "id": "455f264b-db00-4716-991d-fbd32dc24523",
+      "count": 2
+     }
+    ],
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "country": "JP",
+    "aliases": [
+     {
+      "primary": false,
+      "sort-name": "Cubic U",
+      "type": "Artist name",
+      "name": "Cubic U",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "end": null,
+      "locale": "en",
+      "begin": null
+     },
+     {
+      "begin": null,
+      "locale": null,
+      "end": null,
+      "primary": null,
+      "sort-name": "Cubic U (Utada Hikaru)",
+      "ended": false,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "type": "Search hint",
+      "name": "Cubic U (Utada Hikaru)"
+     },
+     {
+      "primary": true,
+      "sort-name": "Utada, Hikaru",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "name": "Hikaru Utada",
+      "type": "Artist name",
+      "begin": null,
+      "locale": "en",
+      "end": null
+     },
+     {
+      "begin": null,
+      "end": null,
+      "locale": "en",
+      "sort-name": "Utada, Hikaru",
+      "primary": false,
+      "ended": false,
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "type": "Legal name",
+      "name": "Hikaru Utada"
+     },
+     {
+      "begin": null,
+      "locale": "lt",
+      "end": null,
+      "sort-name": "Utada, Hikaru",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "name": "Hikaru Utada"
+     },
+     {
+      "begin": null,
+      "locale": "en",
+      "end": null,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "name": "Hikki",
+      "sort-name": "Hikki",
+      "primary": false
+     },
+     {
+      "end": null,
+      "locale": "en",
+      "begin": null,
+      "primary": false,
+      "sort-name": "Utada",
+      "type": "Artist name",
+      "name": "Utada",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false
+     },
+     {
+      "begin": null,
+      "locale": "en_PH",
+      "end": null,
+      "sort-name": "Utada, Hikaru",
+      "primary": true,
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "name": "Utada Hikaru",
+      "type": "Artist name"
+     },
+     {
+      "locale": "ja",
+      "end": null,
+      "begin": null,
+      "sort-name": "ヒッキー",
+      "primary": false,
+      "type": "Artist name",
+      "name": "ヒッキー",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false
+     },
+     {
+      "sort-name": "うただヒカル",
+      "primary": true,
+      "type": "Artist name",
+      "name": "宇多田ヒカル",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "end": null,
+      "locale": "ja",
+      "begin": null
+     },
+     {
+      "begin": null,
+      "end": null,
+      "locale": "ja",
+      "primary": false,
+      "sort-name": "うただひかる",
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "ended": false,
+      "name": "宇多田光",
+      "type": "Legal name"
+     },
+     {
+      "end": null,
+      "locale": "zh_Hans",
+      "begin": null,
+      "name": "宇多田光",
+      "type": "Artist name",
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "sort-name": "宇多田光"
+     },
+     {
+      "type": "Artist name",
+      "name": "宇多田光",
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "sort-name": "宇多田光",
+      "primary": false,
+      "end": null,
+      "locale": "zh_Hant_TW",
+      "begin": null
+     },
+     {
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "name": "우타다히카루",
+      "type": "Artist name",
+      "sort-name": "히카루, 우타다",
+      "primary": false,
+      "begin": null,
+      "end": null,
+      "locale": "ko"
+     }
+    ],
+    "disambiguation": "Japanese-American singer-songwriter"
+   },
+   "joinphrase": ""
+  }
+ ],
+ "media": [
+  {
+   "title": "",
+   "track-offset": 0,
+   "id": "9121abbd-96b7-30b0-ba1f-150fa11fba2e",
+   "position": 1,
+   "discs": [
+    {
+     "sectors": 104625,
+     "offset-count": 4,
+     "offsets": [
+      150,
+      24265,
+      52510,
+      76575
+     ],
+     "id": "ZOpG1.bPhh4DKiLHG44W0YesY7o-"
+    }
+   ],
+   "track-count": 4,
+   "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+   "format": "CD",
+   "tracks": [
+    {
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "artist": {
+        "name": "宇多田ヒカル",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+        "sort-name": "Utada, Hikaru",
+        "disambiguation": "Japanese-American singer-songwriter",
+        "country": "JP",
+        "aliases": [
+         {
+          "primary": false,
+          "sort-name": "Cubic U",
+          "type": "Artist name",
+          "name": "Cubic U",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "end": null,
+          "locale": "en",
+          "begin": null
+         },
+         {
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "ended": false,
+          "type": "Search hint",
+          "name": "Cubic U (Utada Hikaru)",
+          "primary": null,
+          "sort-name": "Cubic U (Utada Hikaru)",
+          "begin": null,
+          "end": null,
+          "locale": null
+         },
+         {
+          "primary": true,
+          "sort-name": "Utada, Hikaru",
+          "type": "Artist name",
+          "name": "Hikaru Utada",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "end": null,
+          "locale": "en",
+          "begin": null
+         },
+         {
+          "type": "Legal name",
+          "name": "Hikaru Utada",
+          "ended": false,
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "sort-name": "Utada, Hikaru",
+          "primary": false,
+          "locale": "en",
+          "end": null,
+          "begin": null
+         },
+         {
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hikaru Utada",
+          "type": "Artist name",
+          "primary": true,
+          "sort-name": "Utada, Hikaru",
+          "begin": null,
+          "locale": "lt",
+          "end": null
+         },
+         {
+          "sort-name": "Hikki",
+          "primary": false,
+          "name": "Hikki",
+          "type": "Artist name",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "locale": "en",
+          "end": null,
+          "begin": null
+         },
+         {
+          "type": "Artist name",
+          "name": "Utada",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": false,
+          "sort-name": "Utada",
+          "end": null,
+          "locale": "en",
+          "begin": null
+         },
+         {
+          "end": null,
+          "locale": "en_PH",
+          "begin": null,
+          "type": "Artist name",
+          "name": "Utada Hikaru",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": true,
+          "sort-name": "Utada, Hikaru"
+         },
+         {
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "type": "Artist name",
+          "name": "ヒッキー",
+          "sort-name": "ヒッキー",
+          "primary": false,
+          "begin": null,
+          "locale": "ja",
+          "end": null
+         },
+         {
+          "begin": null,
+          "locale": "ja",
+          "end": null,
+          "primary": true,
+          "sort-name": "うただヒカル",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "name": "宇多田ヒカル",
+          "type": "Artist name"
+         },
+         {
+          "end": null,
+          "locale": "ja",
+          "begin": null,
+          "type": "Legal name",
+          "name": "宇多田光",
+          "ended": false,
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "primary": false,
+          "sort-name": "うただひかる"
+         },
+         {
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "type": "Artist name",
+          "name": "宇多田光",
+          "sort-name": "宇多田光",
+          "primary": true,
+          "begin": null,
+          "end": null,
+          "locale": "zh_Hans"
+         },
+         {
+          "end": null,
+          "locale": "zh_Hant_TW",
+          "begin": null,
+          "type": "Artist name",
+          "name": "宇多田光",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": false,
+          "sort-name": "宇多田光"
+         },
+         {
+          "name": "우타다히카루",
+          "type": "Artist name",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": false,
+          "sort-name": "히카루, 우타다",
+          "end": null,
+          "locale": "ko",
+          "begin": null
+         }
+        ]
+       },
+       "name": "宇多田ヒカル"
+      }
+     ],
+     "number": "1",
+     "title": "Addicted to You (Up-In-Heaven mix)",
+     "position": 1,
+     "id": "1857a956-7f17-3ffc-aa13-f60fda194ccc",
+     "recording": {
+      "relations": [
+       {
+        "end": null,
+        "artist": {
+         "disambiguation": "James Harris of Jam & Lewis",
+         "country": "US",
+         "type": "Person",
+         "name": "Jimmy Jam",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "id": "d79976d7-d895-480e-83c2-877f4cdd7073",
+         "sort-name": "Jam, Jimmy"
+        },
+        "attributes": [],
+        "attribute-ids": {},
+        "target-credit": "",
+        "direction": "backward",
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "22661fb8-cdb7-4f67-8385-b2a8be6c9f0d",
+        "source-credit": "",
+        "begin": null,
+        "target-type": "artist",
+        "type": "arranger"
+       },
+       {
+        "attributes": [],
+        "end": null,
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Terry Lewis",
+         "sort-name": "Lewis, Terry",
+         "id": "e458eba7-ccb7-47bb-8057-473330c61040",
+         "disambiguation": "US hip-hop/soul songwriter, producer & label owner",
+         "country": "US"
+        },
+        "target-credit": "",
+        "direction": "backward",
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "22661fb8-cdb7-4f67-8385-b2a8be6c9f0d",
+        "attribute-ids": {},
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": null,
+        "type": "arranger"
+       },
+       {
+        "attribute-ids": {},
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "22661fb8-cdb7-4f67-8385-b2a8be6c9f0d",
+        "direction": "backward",
+        "target-credit": "",
+        "artist": {
+         "id": "423492ba-ae26-4efd-9ac6-79da57388475",
+         "sort-name": "Richbourg, Alex",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Alex Richbourg",
+         "country": "US",
+         "disambiguation": ""
+        },
+        "end": null,
+        "attributes": [],
+        "type": "arranger",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist"
+       },
+       {
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-values": {},
+        "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+        "ended": false,
+        "attribute-ids": {
+         "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+        },
+        "attributes": [
+         "assistant"
+        ],
+        "end": null,
+        "artist": {
+         "disambiguation": "US engineer",
+         "country": "US",
+         "type": "Person",
+         "name": "Xavier Smith",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "id": "1575a9f8-7100-4129-8a4f-c9b783848b06",
+         "sort-name": "Smith, Xavier"
+        },
+        "type": "engineer",
+        "target-type": "artist",
+        "begin": null,
+        "source-credit": ""
+       },
+       {
+        "type": "engineer",
+        "target-type": "artist",
+        "begin": null,
+        "source-credit": "",
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-values": {},
+        "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+        "ended": false,
+        "attribute-ids": {},
+        "attributes": [],
+        "end": null,
+        "artist": {
+         "disambiguation": "remixer, owner of Madjef and MadMinn Music",
+         "country": null,
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "Jeff Taylor",
+         "sort-name": "Taylor, Jeff",
+         "id": "501eb6b0-9b96-4226-8a7a-c4ee6a9c4a1e"
+        }
+       },
+       {
+        "end": null,
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Darnell Davis",
+         "type": "Person",
+         "sort-name": "Davis, Darnell",
+         "id": "b881402c-5609-4067-8488-9e18056318cf",
+         "disambiguation": "",
+         "country": "US"
+        },
+        "attributes": [
+         "keyboard"
+        ],
+        "attribute-credits": {},
+        "attribute-ids": {
+         "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+        },
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-values": {},
+        "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+        "ended": false,
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist",
+        "type": "instrument"
+       },
+       {
+        "type": "performer",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist",
+        "attribute-ids": {
+         "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+        },
+        "direction": "backward",
+        "target-credit": "",
+        "type-id": "628a9658-f54c-4142-b0c0-95f031b544da",
+        "attribute-values": {},
+        "ended": false,
+        "end": null,
+        "artist": {
+         "name": "Jimmy Jam",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "id": "d79976d7-d895-480e-83c2-877f4cdd7073",
+         "sort-name": "Jam, Jimmy",
+         "disambiguation": "James Harris of Jam & Lewis",
+         "country": "US"
+        },
+        "attributes": [
+         "additional"
+        ]
+       },
+       {
+        "target-credit": "",
+        "direction": "backward",
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "628a9658-f54c-4142-b0c0-95f031b544da",
+        "attribute-ids": {
+         "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+        },
+        "attributes": [
+         "additional"
+        ],
+        "end": null,
+        "artist": {
+         "sort-name": "Lewis, Terry",
+         "id": "e458eba7-ccb7-47bb-8057-473330c61040",
+         "name": "Terry Lewis",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "US",
+         "disambiguation": "US hip-hop/soul songwriter, producer & label owner"
+        },
+        "type": "performer",
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": null
+       }
+      ],
+      "id": "5a01d8f6-6cfb-42df-803a-f1cd3e458e35",
+      "tags": [
+       {
+        "name": "international",
+        "count": 1
+       },
+       {
+        "count": 2,
+        "name": "j-pop"
+       },
+       {
+        "name": "japanese traditions",
+        "count": 1
+       },
+       {
+        "name": "pop/rock",
+        "count": 1
+       },
+       {
+        "count": 1,
+        "name": "r&b"
+       }
+      ],
+      "genres": [
+       {
+        "count": 2,
+        "id": "eba7715e-ee26-4989-8d49-9db382955419",
+        "disambiguation": "",
+        "name": "j-pop"
+       },
+       {
+        "id": "31be54b2-4d0c-42df-aa44-c496c7b4c3c3",
+        "count": 1,
+        "disambiguation": "",
+        "name": "r&b"
+       }
+      ],
+      "isrcs": [
+       "JPPO01806045",
+       "JPTO00400349",
+       "JPTO09917320"
+      ],
+      "aliases": [
+       {
+        "primary": null,
+        "sort-name": "Addicted To You [UP-IN-HEAVEN MIX]",
+        "type-id": null,
+        "ended": false,
+        "type": null,
+        "name": "Addicted To You [UP-IN-HEAVEN MIX]",
+        "begin": null,
+        "end": null,
+        "locale": null
+       },
+       {
+        "sort-name": "Addicted to You (Up-In-Heaven mix)",
+        "primary": null,
+        "type-id": null,
+        "ended": false,
+        "name": "Addicted to You (Up-In-Heaven mix)",
+        "type": null,
+        "begin": null,
+        "locale": null,
+        "end": null
+       }
+      ],
+      "first-release-date": "1999-11-10",
+      "title": "Addicted To You (Up-In-Heaven mix)",
+      "length": 319333,
+      "artist-credit": [
+       {
+        "artist": {
+         "disambiguation": "Japanese-American singer-songwriter",
+         "country": "JP",
+         "name": "宇多田ヒカル",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+         "sort-name": "Utada, Hikaru"
+        },
+        "joinphrase": "",
+        "name": "宇多田ヒカル"
+       }
+      ],
+      "video": false,
+      "disambiguation": ""
+     },
+     "length": 321533
+    },
+    {
+     "recording": {
+      "title": "Addicted to You (Underwater mix)",
+      "first-release-date": "1999-11-10",
+      "aliases": [],
+      "length": 374000,
+      "video": false,
+      "artist-credit": [
+       {
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "type": "Person",
+         "name": "宇多田ヒカル",
+         "sort-name": "Utada, Hikaru",
+         "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+         "disambiguation": "Japanese-American singer-songwriter",
+         "country": "JP"
+        },
+        "joinphrase": "",
+        "name": "宇多田ヒカル"
+       }
+      ],
+      "disambiguation": "",
+      "tags": [],
+      "relations": [
+       {
+        "direction": "forward",
+        "target-credit": "",
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "39a08d0e-26e4-44fb-ae19-906f5fe9435d",
+        "recording": {
+         "isrcs": [
+          "JPTO09917339"
+         ],
+         "id": "2a67b01e-7c3f-419c-ad43-b1649a35ab34",
+         "video": false,
+         "artist-credit": [
+          {
+           "joinphrase": "",
+           "artist": {
+            "country": "JP",
+            "disambiguation": "Japanese-American singer-songwriter",
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "sort-name": "Utada, Hikaru",
+            "type": null,
+            "name": "宇多田ヒカル",
+            "type-id": null
+           },
+           "name": "宇多田ヒカル"
+          }
+         ],
+         "disambiguation": "",
+         "title": "Addicted to You (Underwater mix, instrumental)",
+         "length": 374000
+        },
+        "attribute-ids": {},
+        "attributes": [],
+        "end": null,
+        "type": "karaoke",
+        "target-type": "recording",
+        "source-credit": "",
+        "begin": null
+       },
+       {
+        "source-credit": "",
+        "begin": null,
+        "target-type": "work",
+        "type": "performance",
+        "end": null,
+        "work": {
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "type": "Song",
+         "language": "jpn",
+         "relations": [
+          {
+           "target-type": "artist",
+           "begin": null,
+           "source-credit": "",
+           "type": "composer",
+           "attributes": [],
+           "artist": {
+            "disambiguation": "Japanese-American singer-songwriter",
+            "country": "JP",
+            "name": "宇多田ヒカル",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Utada, Hikaru",
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429"
+           },
+           "end": null,
+           "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+           "attribute-values": {},
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "attribute-ids": {}
+          },
+          {
+           "target-credit": "",
+           "direction": "backward",
+           "attribute-values": {},
+           "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+           "ended": false,
+           "attribute-ids": {},
+           "attributes": [],
+           "end": null,
+           "artist": {
+            "sort-name": "Utada, Hikaru",
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "宇多田ヒカル",
+            "country": "JP",
+            "disambiguation": "Japanese-American singer-songwriter"
+           },
+           "type": "lyricist",
+           "target-type": "artist",
+           "begin": null,
+           "source-credit": ""
+          },
+          {
+           "target-type": "label",
+           "begin": null,
+           "source-credit": "",
+           "type": "publishing",
+           "attributes": [],
+           "end": null,
+           "label": {
+            "sort-name": "ソニー・ミュージックパブリッシング A事業部",
+            "id": "2d6a4031-8007-4bf8-b90c-36501a120b45",
+            "type": "Publisher",
+            "name": "ソニー・ミュージックパブリッシング A事業部",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "label-code": null,
+            "disambiguation": ""
+           },
+           "direction": "backward",
+           "target-credit": "",
+           "attribute-values": {},
+           "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+           "ended": false,
+           "attribute-ids": {}
+          },
+          {
+           "type": "lyrics",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "url",
+           "attribute-ids": {},
+           "url": {
+            "resource": "https://genius.com/Hikaru-utada-addicted-to-you-up-in-heaven-mix-lyrics",
+            "id": "a8c0ee93-8ba8-459a-8659-bfe0126679bd"
+           },
+           "direction": "backward",
+           "target-credit": "",
+           "ended": false,
+           "attribute-values": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "end": null,
+           "attributes": []
+          },
+          {
+           "end": null,
+           "attributes": [],
+           "url": {
+            "id": "ebd2c0b0-5c09-4e80-9d4a-68b6ebedab50",
+            "resource": "https://j-lyric.net/artist/a001c7c/l000918.html"
+           },
+           "attribute-ids": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "url",
+           "type": "lyrics"
+          },
+          {
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "url": {
+            "id": "50dc3e74-9cd2-4257-9c1a-250804fbcce2",
+            "resource": "https://j-lyric.net/artist/a001c7c/l01d43d.html"
+           },
+           "attribute-ids": {},
+           "attributes": [],
+           "end": null,
+           "type": "lyrics",
+           "target-type": "url",
+           "begin": null,
+           "source-credit": ""
+          },
+          {
+           "type": "lyrics",
+           "target-type": "url",
+           "begin": null,
+           "source-credit": "",
+           "target-credit": "",
+           "direction": "backward",
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-ids": {},
+           "url": {
+            "id": "32d543f9-eb16-43e9-b2b1-e9e8890bc40f",
+            "resource": "https://petitlyrics.com/lyrics/5302"
+           },
+           "attributes": [],
+           "end": null
+          },
+          {
+           "type": "lyrics",
+           "target-type": "url",
+           "source-credit": "",
+           "begin": null,
+           "ended": false,
+           "attribute-values": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "direction": "backward",
+           "target-credit": "",
+           "url": {
+            "resource": "https://utaten.com/lyric/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/Addicted+To+You",
+            "id": "2a456f94-b6c0-4c5f-9f26-0b6a08c1f8d6"
+           },
+           "attribute-ids": {},
+           "attributes": [],
+           "end": null
+          },
+          {
+           "target-type": "url",
+           "source-credit": "",
+           "begin": null,
+           "type": "lyrics",
+           "attributes": [],
+           "end": null,
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "url": {
+            "resource": "https://utaten.com/lyric/ja00008310/",
+            "id": "3789ad49-7f3b-4014-b61d-b5c386510fa7"
+           },
+           "attribute-ids": {}
+          },
+          {
+           "target-type": "url",
+           "begin": null,
+           "source-credit": "",
+           "type": "lyrics",
+           "attributes": [],
+           "end": null,
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "target-credit": "",
+           "direction": "backward",
+           "url": {
+            "id": "150ef1b4-08ce-47e3-8d1b-1e9348da457a",
+            "resource": "https://www.joysound.com/web/search/song/20968"
+           },
+           "attribute-ids": {}
+          },
+          {
+           "end": null,
+           "attributes": [],
+           "url": {
+            "id": "5be820e0-5de7-4591-9312-1b1f40525e08",
+            "resource": "https://www.uta-net.com/song/12165/"
+           },
+           "attribute-ids": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "begin": null,
+           "source-credit": "",
+           "target-type": "url",
+           "type": "lyrics"
+          }
+         ],
+         "iswcs": [
+          "T-902.880.454-8"
+         ],
+         "id": "300650a0-07c0-392a-bcfb-2b83357d368d",
+         "languages": [
+          "jpn"
+         ],
+         "attributes": [],
+         "disambiguation": "",
+         "title": "Addicted To You"
+        },
+        "attributes": [],
+        "attribute-ids": {},
+        "target-credit": "",
+        "direction": "forward",
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0"
+       }
+      ],
+      "id": "7ff723e2-6891-4cc6-b4aa-b8daa5a22660",
+      "genres": [],
+      "isrcs": [
+       "JPTO09917330"
+      ]
+     },
+     "length": 376600,
+     "position": 2,
+     "title": "Addicted to You (Underwater mix)",
+     "id": "81d7068b-6ca7-3102-b9eb-c707baa655fc",
+     "number": "2",
+     "artist-credit": [
+      {
+       "name": "宇多田ヒカル",
+       "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "宇多田ヒカル",
+        "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+        "sort-name": "Utada, Hikaru",
+        "disambiguation": "Japanese-American singer-songwriter",
+        "aliases": [
+         {
+          "primary": false,
+          "sort-name": "Cubic U",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "type": "Artist name",
+          "name": "Cubic U",
+          "begin": null,
+          "locale": "en",
+          "end": null
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": null,
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "ended": false,
+          "name": "Cubic U (Utada Hikaru)",
+          "type": "Search hint",
+          "sort-name": "Cubic U (Utada Hikaru)",
+          "primary": null
+         },
+         {
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hikaru Utada",
+          "type": "Artist name",
+          "sort-name": "Utada, Hikaru",
+          "primary": true,
+          "begin": null,
+          "end": null,
+          "locale": "en"
+         },
+         {
+          "begin": null,
+          "locale": "en",
+          "end": null,
+          "primary": false,
+          "sort-name": "Utada, Hikaru",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "ended": false,
+          "name": "Hikaru Utada",
+          "type": "Legal name"
+         },
+         {
+          "primary": true,
+          "sort-name": "Utada, Hikaru",
+          "name": "Hikaru Utada",
+          "type": "Artist name",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "end": null,
+          "locale": "lt",
+          "begin": null
+         },
+         {
+          "locale": "en",
+          "end": null,
+          "begin": null,
+          "type": "Artist name",
+          "name": "Hikki",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": false,
+          "sort-name": "Hikki"
+         },
+         {
+          "end": null,
+          "locale": "en",
+          "begin": null,
+          "sort-name": "Utada",
+          "primary": false,
+          "name": "Utada",
+          "type": "Artist name",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false
+         },
+         {
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Utada Hikaru",
+          "type": "Artist name",
+          "primary": true,
+          "sort-name": "Utada, Hikaru",
+          "begin": null,
+          "locale": "en_PH",
+          "end": null
+         },
+         {
+          "primary": false,
+          "sort-name": "ヒッキー",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "type": "Artist name",
+          "name": "ヒッキー",
+          "begin": null,
+          "locale": "ja",
+          "end": null
+         },
+         {
+          "primary": true,
+          "sort-name": "うただヒカル",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "type": "Artist name",
+          "name": "宇多田ヒカル",
+          "begin": null,
+          "end": null,
+          "locale": "ja"
+         },
+         {
+          "sort-name": "うただひかる",
+          "primary": false,
+          "name": "宇多田光",
+          "type": "Legal name",
+          "ended": false,
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "locale": "ja",
+          "end": null,
+          "begin": null
+         },
+         {
+          "primary": true,
+          "sort-name": "宇多田光",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "name": "宇多田光",
+          "type": "Artist name",
+          "begin": null,
+          "locale": "zh_Hans",
+          "end": null
+         },
+         {
+          "type": "Artist name",
+          "name": "宇多田光",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": false,
+          "sort-name": "宇多田光",
+          "locale": "zh_Hant_TW",
+          "end": null,
+          "begin": null
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": "ko",
+          "sort-name": "히카루, 우타다",
+          "primary": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "type": "Artist name",
+          "name": "우타다히카루"
+         }
+        ],
+        "country": "JP"
+       },
+       "joinphrase": ""
+      }
+     ]
+    },
+    {
+     "position": 3,
+     "title": "Addicted to You (Up-In-Heaven mix, instrumental)",
+     "id": "9931abef-213a-3314-a7d4-c37da5c499a2",
+     "recording": {
+      "tags": [
+       {
+        "name": "instrumental version",
+        "count": 1
+       },
+       {
+        "name": "r&b",
+        "count": 1
+       }
+      ],
+      "id": "562ebec1-358c-406d-9525-a11d2fe476ac",
+      "relations": [
+       {
+        "attribute-ids": {},
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "direction": "backward",
+        "target-credit": "",
+        "artist": {
+         "sort-name": "Jam, Jimmy",
+         "id": "d79976d7-d895-480e-83c2-877f4cdd7073",
+         "name": "Jimmy Jam",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "US",
+         "disambiguation": "James Harris of Jam & Lewis"
+        },
+        "end": null,
+        "attributes": [],
+        "type": "producer",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist"
+       },
+       {
+        "begin": null,
+        "source-credit": "",
+        "target-type": "artist",
+        "type": "producer",
+        "artist": {
+         "country": "US",
+         "disambiguation": "US hip-hop/soul songwriter, producer & label owner",
+         "sort-name": "Lewis, Terry",
+         "id": "e458eba7-ccb7-47bb-8057-473330c61040",
+         "name": "Terry Lewis",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "end": null,
+        "attributes": [],
+        "attribute-ids": {},
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "attribute-values": {},
+        "ended": false,
+        "direction": "backward",
+        "target-credit": ""
+       },
+       {
+        "attributes": [],
+        "artist": {
+         "disambiguation": "",
+         "country": "US",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "Alex Richbourg",
+         "type": "Person",
+         "sort-name": "Richbourg, Alex",
+         "id": "423492ba-ae26-4efd-9ac6-79da57388475"
+        },
+        "end": null,
+        "attribute-values": {},
+        "ended": false,
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "target-credit": "",
+        "direction": "backward",
+        "attribute-ids": {},
+        "target-type": "artist",
+        "source-credit": "",
+        "begin": null,
+        "type": "producer"
+       },
+       {
+        "target-type": "label",
+        "source-credit": "",
+        "begin": null,
+        "type": "produced for",
+        "attributes": [],
+        "label": {
+         "id": "8116e5cc-84dd-4fbd-bbeb-29b3cea4a35a",
+         "sort-name": "ABR Productions",
+         "type": "Production",
+         "name": "ABR Productions",
+         "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+         "label-code": null,
+         "disambiguation": ""
+        },
+        "end": null,
+        "attribute-values": {},
+        "type-id": "ce1529b0-2fd9-4dcc-82d2-4036a044b5b9",
+        "ended": false,
+        "target-credit": "",
+        "direction": "backward",
+        "attribute-ids": {}
+       },
+       {
+        "attribute-ids": {},
+        "attribute-values": {},
+        "type-id": "ce1529b0-2fd9-4dcc-82d2-4036a044b5b9",
+        "ended": false,
+        "target-credit": "",
+        "direction": "backward",
+        "label": {
+         "label-code": null,
+         "disambiguation": "",
+         "sort-name": "Flyte Tyme Productions, Inc.",
+         "id": "5db8bb3d-abf4-4615-927f-f325f1dec8ca",
+         "type": "Production",
+         "name": "Flyte Tyme Productions, Inc.",
+         "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678"
+        },
+        "end": null,
+        "attributes": [],
+        "type": "produced for",
+        "source-credit": "",
+        "begin": null,
+        "target-type": "label"
+       },
+       {
+        "type": "karaoke",
+        "begin": null,
+        "source-credit": "",
+        "target-type": "recording",
+        "attribute-ids": {},
+        "recording": {
+         "length": 319333,
+         "title": "Addicted To You (Up-In-Heaven mix)",
+         "disambiguation": "",
+         "video": false,
+         "artist-credit": [
+          {
+           "name": "宇多田ヒカル",
+           "joinphrase": "",
+           "artist": {
+            "country": "JP",
+            "disambiguation": "Japanese-American singer-songwriter",
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "sort-name": "Utada, Hikaru",
+            "type-id": null,
+            "name": "宇多田ヒカル",
+            "type": null
+           }
+          }
+         ],
+         "id": "5a01d8f6-6cfb-42df-803a-f1cd3e458e35",
+         "isrcs": [
+          "JPPO01806045",
+          "JPTO00400349",
+          "JPTO09917320"
+         ]
+        },
+        "type-id": "39a08d0e-26e4-44fb-ae19-906f5fe9435d",
+        "attribute-values": {},
+        "ended": false,
+        "target-credit": "",
+        "direction": "backward",
+        "end": null,
+        "attributes": []
+       },
+       {
+        "attribute-ids": {},
+        "direction": "forward",
+        "target-credit": "",
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+        "attribute-values": {},
+        "ended": false,
+        "end": null,
+        "work": {
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "type": "Song",
+         "language": "jpn",
+         "relations": [
+          {
+           "type": "composer",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "artist",
+           "attribute-ids": {},
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+           "target-credit": "",
+           "direction": "backward",
+           "artist": {
+            "name": "宇多田ヒカル",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Utada, Hikaru",
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "disambiguation": "Japanese-American singer-songwriter",
+            "country": "JP"
+           },
+           "end": null,
+           "attributes": []
+          },
+          {
+           "type": "lyricist",
+           "target-type": "artist",
+           "source-credit": "",
+           "begin": null,
+           "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+           "attribute-values": {},
+           "ended": false,
+           "direction": "backward",
+           "target-credit": "",
+           "attribute-ids": {},
+           "attributes": [],
+           "artist": {
+            "country": "JP",
+            "disambiguation": "Japanese-American singer-songwriter",
+            "sort-name": "Utada, Hikaru",
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "name": "宇多田ヒカル",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+           },
+           "end": null
+          },
+          {
+           "attribute-values": {},
+           "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "attribute-ids": {},
+           "attributes": [],
+           "label": {
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "type": "Publisher",
+            "name": "ソニー・ミュージックパブリッシング A事業部",
+            "id": "2d6a4031-8007-4bf8-b90c-36501a120b45",
+            "sort-name": "ソニー・ミュージックパブリッシング A事業部",
+            "label-code": null,
+            "disambiguation": ""
+           },
+           "end": null,
+           "type": "publishing",
+           "target-type": "label",
+           "source-credit": "",
+           "begin": null
+          },
+          {
+           "url": {
+            "id": "a8c0ee93-8ba8-459a-8659-bfe0126679bd",
+            "resource": "https://genius.com/Hikaru-utada-addicted-to-you-up-in-heaven-mix-lyrics"
+           },
+           "attribute-ids": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "end": null,
+           "attributes": [],
+           "type": "lyrics",
+           "begin": null,
+           "source-credit": "",
+           "target-type": "url"
+          },
+          {
+           "url": {
+            "resource": "https://j-lyric.net/artist/a001c7c/l000918.html",
+            "id": "ebd2c0b0-5c09-4e80-9d4a-68b6ebedab50"
+           },
+           "attribute-ids": {},
+           "attribute-values": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "end": null,
+           "attributes": [],
+           "type": "lyrics",
+           "begin": null,
+           "source-credit": "",
+           "target-type": "url"
+          },
+          {
+           "type": "lyrics",
+           "target-type": "url",
+           "begin": null,
+           "source-credit": "",
+           "attribute-values": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "ended": false,
+           "direction": "backward",
+           "target-credit": "",
+           "url": {
+            "id": "50dc3e74-9cd2-4257-9c1a-250804fbcce2",
+            "resource": "https://j-lyric.net/artist/a001c7c/l01d43d.html"
+           },
+           "attribute-ids": {},
+           "attributes": [],
+           "end": null
+          },
+          {
+           "type": "lyrics",
+           "begin": null,
+           "source-credit": "",
+           "target-type": "url",
+           "url": {
+            "resource": "https://petitlyrics.com/lyrics/5302",
+            "id": "32d543f9-eb16-43e9-b2b1-e9e8890bc40f"
+           },
+           "attribute-ids": {},
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "target-credit": "",
+           "direction": "backward",
+           "end": null,
+           "attributes": []
+          },
+          {
+           "begin": null,
+           "source-credit": "",
+           "target-type": "url",
+           "type": "lyrics",
+           "end": null,
+           "attributes": [],
+           "url": {
+            "resource": "https://utaten.com/lyric/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/Addicted+To+You",
+            "id": "2a456f94-b6c0-4c5f-9f26-0b6a08c1f8d6"
+           },
+           "attribute-ids": {},
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "target-credit": "",
+           "direction": "backward"
+          },
+          {
+           "attribute-ids": {},
+           "url": {
+            "resource": "https://utaten.com/lyric/ja00008310/",
+            "id": "3789ad49-7f3b-4014-b61d-b5c386510fa7"
+           },
+           "direction": "backward",
+           "target-credit": "",
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false,
+           "end": null,
+           "attributes": [],
+           "type": "lyrics",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "url"
+          },
+          {
+           "type": "lyrics",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "url",
+           "url": {
+            "resource": "https://www.joysound.com/web/search/song/20968",
+            "id": "150ef1b4-08ce-47e3-8d1b-1e9348da457a"
+           },
+           "attribute-ids": {},
+           "ended": false,
+           "attribute-values": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "direction": "backward",
+           "target-credit": "",
+           "end": null,
+           "attributes": []
+          },
+          {
+           "direction": "backward",
+           "target-credit": "",
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false,
+           "attribute-ids": {},
+           "url": {
+            "resource": "https://www.uta-net.com/song/12165/",
+            "id": "5be820e0-5de7-4591-9312-1b1f40525e08"
+           },
+           "attributes": [],
+           "end": null,
+           "type": "lyrics",
+           "target-type": "url",
+           "source-credit": "",
+           "begin": null
+          }
+         ],
+         "iswcs": [
+          "T-902.880.454-8"
+         ],
+         "id": "300650a0-07c0-392a-bcfb-2b83357d368d",
+         "languages": [
+          "jpn"
+         ],
+         "attributes": [],
+         "disambiguation": "",
+         "title": "Addicted To You"
+        },
+        "attributes": [],
+        "type": "performance",
+        "source-credit": "",
+        "begin": null,
+        "target-type": "work"
+       }
+      ],
+      "genres": [
+       {
+        "id": "31be54b2-4d0c-42df-aa44-c496c7b4c3c3",
+        "count": 1,
+        "disambiguation": "",
+        "name": "r&b"
+       }
+      ],
+      "isrcs": [
+       "JPTO09917329"
+      ],
+      "first-release-date": "1999-11-10",
+      "title": "Addicted to You (Up-In-Heaven mix, instrumental)",
+      "aliases": [],
+      "length": 318200,
+      "video": false,
+      "artist-credit": [
+       {
+        "name": "宇多田ヒカル",
+        "joinphrase": "",
+        "artist": {
+         "sort-name": "Utada, Hikaru",
+         "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "宇多田ヒカル",
+         "type": "Person",
+         "country": "JP",
+         "disambiguation": "Japanese-American singer-songwriter"
+        }
+       }
+      ],
+      "disambiguation": ""
+     },
+     "length": 320866,
+     "artist-credit": [
+      {
+       "name": "宇多田ヒカル",
+       "artist": {
+        "disambiguation": "Japanese-American singer-songwriter",
+        "country": "JP",
+        "aliases": [
+         {
+          "sort-name": "Cubic U",
+          "primary": false,
+          "name": "Cubic U",
+          "type": "Artist name",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "locale": "en",
+          "end": null,
+          "begin": null
+         },
+         {
+          "primary": null,
+          "sort-name": "Cubic U (Utada Hikaru)",
+          "type": "Search hint",
+          "name": "Cubic U (Utada Hikaru)",
+          "ended": false,
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "end": null,
+          "locale": null,
+          "begin": null
+         },
+         {
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "type": "Artist name",
+          "name": "Hikaru Utada",
+          "sort-name": "Utada, Hikaru",
+          "primary": true,
+          "begin": null,
+          "end": null,
+          "locale": "en"
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": "en",
+          "ended": false,
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hikaru Utada",
+          "type": "Legal name",
+          "primary": false,
+          "sort-name": "Utada, Hikaru"
+         },
+         {
+          "name": "Hikaru Utada",
+          "type": "Artist name",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": true,
+          "sort-name": "Utada, Hikaru",
+          "end": null,
+          "locale": "lt",
+          "begin": null
+         },
+         {
+          "end": null,
+          "locale": "en",
+          "begin": null,
+          "sort-name": "Hikki",
+          "primary": false,
+          "name": "Hikki",
+          "type": "Artist name",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": "en",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Utada",
+          "type": "Artist name",
+          "primary": false,
+          "sort-name": "Utada"
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": "en_PH",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Utada Hikaru",
+          "type": "Artist name",
+          "sort-name": "Utada, Hikaru",
+          "primary": true
+         },
+         {
+          "locale": "ja",
+          "end": null,
+          "begin": null,
+          "type": "Artist name",
+          "name": "ヒッキー",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": false,
+          "sort-name": "ヒッキー"
+         },
+         {
+          "begin": null,
+          "locale": "ja",
+          "end": null,
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "宇多田ヒカル",
+          "type": "Artist name",
+          "primary": true,
+          "sort-name": "うただヒカル"
+         },
+         {
+          "end": null,
+          "locale": "ja",
+          "begin": null,
+          "sort-name": "うただひかる",
+          "primary": false,
+          "name": "宇多田光",
+          "type": "Legal name",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "ended": false
+         },
+         {
+          "sort-name": "宇多田光",
+          "primary": true,
+          "name": "宇多田光",
+          "type": "Artist name",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "end": null,
+          "locale": "zh_Hans",
+          "begin": null
+         },
+         {
+          "end": null,
+          "locale": "zh_Hant_TW",
+          "begin": null,
+          "primary": false,
+          "sort-name": "宇多田光",
+          "type": "Artist name",
+          "name": "宇多田光",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false
+         },
+         {
+          "primary": false,
+          "sort-name": "히카루, 우타다",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "name": "우타다히카루",
+          "type": "Artist name",
+          "begin": null,
+          "end": null,
+          "locale": "ko"
+         }
+        ],
+        "name": "宇多田ヒカル",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Utada, Hikaru",
+        "id": "b539e453-c4fe-47e3-8a07-8517eac74429"
+       },
+       "joinphrase": ""
+      }
+     ],
+     "number": "3"
+    },
+    {
+     "position": 4,
+     "title": "Addicted to You (Underwater mix, instrumental)",
+     "id": "09809fc5-d3c3-30b7-a8a5-805dfcc1da6c",
+     "recording": {
+      "video": false,
+      "artist-credit": [
+       {
+        "joinphrase": "",
+        "artist": {
+         "sort-name": "Utada, Hikaru",
+         "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "name": "宇多田ヒカル",
+         "type": "Person",
+         "country": "JP",
+         "disambiguation": "Japanese-American singer-songwriter"
+        },
+        "name": "宇多田ヒカル"
+       }
+      ],
+      "disambiguation": "",
+      "first-release-date": "1999-11-10",
+      "title": "Addicted to You (Underwater mix, instrumental)",
+      "aliases": [],
+      "length": 374000,
+      "genres": [
+       {
+        "name": "pop",
+        "disambiguation": "",
+        "count": 1,
+        "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+       }
+      ],
+      "isrcs": [
+       "JPTO09917339"
+      ],
+      "tags": [
+       {
+        "name": "instrumental version",
+        "count": 1
+       },
+       {
+        "count": 1,
+        "name": "pop"
+       }
+      ],
+      "id": "2a67b01e-7c3f-419c-ad43-b1649a35ab34",
+      "relations": [
+       {
+        "type-id": "39a08d0e-26e4-44fb-ae19-906f5fe9435d",
+        "attribute-values": {},
+        "ended": false,
+        "direction": "backward",
+        "target-credit": "",
+        "recording": {
+         "disambiguation": "",
+         "video": false,
+         "artist-credit": [
+          {
+           "joinphrase": "",
+           "artist": {
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "sort-name": "Utada, Hikaru",
+            "type-id": null,
+            "type": null,
+            "name": "宇多田ヒカル",
+            "country": "JP",
+            "disambiguation": "Japanese-American singer-songwriter"
+           },
+           "name": "宇多田ヒカル"
+          }
+         ],
+         "length": 374000,
+         "title": "Addicted to You (Underwater mix)",
+         "isrcs": [
+          "JPTO09917330"
+         ],
+         "id": "7ff723e2-6891-4cc6-b4aa-b8daa5a22660"
+        },
+        "attribute-ids": {},
+        "attributes": [],
+        "end": null,
+        "type": "karaoke",
+        "target-type": "recording",
+        "begin": null,
+        "source-credit": ""
+       },
+       {
+        "begin": null,
+        "source-credit": "",
+        "target-type": "work",
+        "type": "performance",
+        "work": {
+         "title": "Addicted To You",
+         "attributes": [],
+         "disambiguation": "",
+         "relations": [
+          {
+           "type": "composer",
+           "target-type": "artist",
+           "begin": null,
+           "source-credit": "",
+           "ended": false,
+           "attribute-values": {},
+           "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+           "direction": "backward",
+           "target-credit": "",
+           "attribute-ids": {},
+           "attributes": [],
+           "artist": {
+            "disambiguation": "Japanese-American singer-songwriter",
+            "country": "JP",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "name": "宇多田ヒカル",
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "sort-name": "Utada, Hikaru"
+           },
+           "end": null
+          },
+          {
+           "type": "lyricist",
+           "target-type": "artist",
+           "begin": null,
+           "source-credit": "",
+           "target-credit": "",
+           "direction": "backward",
+           "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+           "attribute-values": {},
+           "ended": false,
+           "attribute-ids": {},
+           "attributes": [],
+           "end": null,
+           "artist": {
+            "sort-name": "Utada, Hikaru",
+            "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "宇多田ヒカル",
+            "type": "Person",
+            "country": "JP",
+            "disambiguation": "Japanese-American singer-songwriter"
+           }
+          },
+          {
+           "type": "publishing",
+           "target-type": "label",
+           "begin": null,
+           "source-credit": "",
+           "direction": "backward",
+           "target-credit": "",
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+           "attribute-ids": {},
+           "attributes": [],
+           "end": null,
+           "label": {
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "name": "ソニー・ミュージックパブリッシング A事業部",
+            "type": "Publisher",
+            "id": "2d6a4031-8007-4bf8-b90c-36501a120b45",
+            "sort-name": "ソニー・ミュージックパブリッシング A事業部",
+            "label-code": null,
+            "disambiguation": ""
+           }
+          },
+          {
+           "target-type": "url",
+           "source-credit": "",
+           "begin": null,
+           "type": "lyrics",
+           "attributes": [],
+           "end": null,
+           "target-credit": "",
+           "direction": "backward",
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false,
+           "attribute-ids": {},
+           "url": {
+            "id": "a8c0ee93-8ba8-459a-8659-bfe0126679bd",
+            "resource": "https://genius.com/Hikaru-utada-addicted-to-you-up-in-heaven-mix-lyrics"
+           }
+          },
+          {
+           "end": null,
+           "attributes": [],
+           "attribute-ids": {},
+           "url": {
+            "id": "ebd2c0b0-5c09-4e80-9d4a-68b6ebedab50",
+            "resource": "https://j-lyric.net/artist/a001c7c/l000918.html"
+           },
+           "target-credit": "",
+           "direction": "backward",
+           "ended": false,
+           "attribute-values": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "url",
+           "type": "lyrics"
+          },
+          {
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false,
+           "target-credit": "",
+           "direction": "backward",
+           "url": {
+            "resource": "https://j-lyric.net/artist/a001c7c/l01d43d.html",
+            "id": "50dc3e74-9cd2-4257-9c1a-250804fbcce2"
+           },
+           "attribute-ids": {},
+           "attributes": [],
+           "end": null,
+           "type": "lyrics",
+           "target-type": "url",
+           "source-credit": "",
+           "begin": null
+          },
+          {
+           "end": null,
+           "attributes": [],
+           "attribute-ids": {},
+           "url": {
+            "id": "32d543f9-eb16-43e9-b2b1-e9e8890bc40f",
+            "resource": "https://petitlyrics.com/lyrics/5302"
+           },
+           "direction": "backward",
+           "target-credit": "",
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "url",
+           "type": "lyrics"
+          },
+          {
+           "source-credit": "",
+           "begin": null,
+           "target-type": "url",
+           "type": "lyrics",
+           "end": null,
+           "attributes": [],
+           "attribute-ids": {},
+           "url": {
+            "id": "2a456f94-b6c0-4c5f-9f26-0b6a08c1f8d6",
+            "resource": "https://utaten.com/lyric/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/Addicted+To+You"
+           },
+           "direction": "backward",
+           "target-credit": "",
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "attribute-values": {},
+           "ended": false
+          },
+          {
+           "attribute-ids": {},
+           "url": {
+            "resource": "https://utaten.com/lyric/ja00008310/",
+            "id": "3789ad49-7f3b-4014-b61d-b5c386510fa7"
+           },
+           "target-credit": "",
+           "direction": "backward",
+           "attribute-values": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "ended": false,
+           "end": null,
+           "attributes": [],
+           "type": "lyrics",
+           "begin": null,
+           "source-credit": "",
+           "target-type": "url"
+          },
+          {
+           "type": "lyrics",
+           "target-type": "url",
+           "source-credit": "",
+           "begin": null,
+           "attribute-values": {},
+           "ended": false,
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "direction": "backward",
+           "target-credit": "",
+           "url": {
+            "resource": "https://www.joysound.com/web/search/song/20968",
+            "id": "150ef1b4-08ce-47e3-8d1b-1e9348da457a"
+           },
+           "attribute-ids": {},
+           "attributes": [],
+           "end": null
+          },
+          {
+           "end": null,
+           "attributes": [],
+           "attribute-ids": {},
+           "url": {
+            "id": "5be820e0-5de7-4591-9312-1b1f40525e08",
+            "resource": "https://www.uta-net.com/song/12165/"
+           },
+           "direction": "backward",
+           "target-credit": "",
+           "ended": false,
+           "attribute-values": {},
+           "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+           "source-credit": "",
+           "begin": null,
+           "target-type": "url",
+           "type": "lyrics"
+          }
+         ],
+         "id": "300650a0-07c0-392a-bcfb-2b83357d368d",
+         "iswcs": [
+          "T-902.880.454-8"
+         ],
+         "language": "jpn",
+         "languages": [
+          "jpn"
+         ],
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "type": "Song"
+        },
+        "end": null,
+        "attributes": [],
+        "attribute-ids": {},
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+        "attribute-values": {},
+        "ended": false,
+        "target-credit": "",
+        "direction": "forward"
+       }
+      ]
+     },
+     "length": 374000,
+     "artist-credit": [
+      {
+       "artist": {
+        "aliases": [
+         {
+          "primary": false,
+          "sort-name": "Cubic U",
+          "type": "Artist name",
+          "name": "Cubic U",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "locale": "en",
+          "end": null,
+          "begin": null
+         },
+         {
+          "ended": false,
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "type": "Search hint",
+          "name": "Cubic U (Utada Hikaru)",
+          "sort-name": "Cubic U (Utada Hikaru)",
+          "primary": null,
+          "begin": null,
+          "end": null,
+          "locale": null
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": "en",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "name": "Hikaru Utada",
+          "type": "Artist name",
+          "sort-name": "Utada, Hikaru",
+          "primary": true
+         },
+         {
+          "sort-name": "Utada, Hikaru",
+          "primary": false,
+          "type": "Legal name",
+          "name": "Hikaru Utada",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "ended": false,
+          "locale": "en",
+          "end": null,
+          "begin": null
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": "lt",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "ended": false,
+          "name": "Hikaru Utada",
+          "type": "Artist name",
+          "sort-name": "Utada, Hikaru",
+          "primary": true
+         },
+         {
+          "primary": false,
+          "sort-name": "Hikki",
+          "name": "Hikki",
+          "type": "Artist name",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "end": null,
+          "locale": "en",
+          "begin": null
+         },
+         {
+          "locale": "en",
+          "end": null,
+          "begin": null,
+          "type": "Artist name",
+          "name": "Utada",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": false,
+          "sort-name": "Utada"
+         },
+         {
+          "sort-name": "Utada, Hikaru",
+          "primary": true,
+          "type": "Artist name",
+          "name": "Utada Hikaru",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "end": null,
+          "locale": "en_PH",
+          "begin": null
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": "ja",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ヒッキー",
+          "type": "Artist name",
+          "primary": false,
+          "sort-name": "ヒッキー"
+         },
+         {
+          "begin": null,
+          "end": null,
+          "locale": "ja",
+          "primary": true,
+          "sort-name": "うただヒカル",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "宇多田ヒカル",
+          "type": "Artist name"
+         },
+         {
+          "ended": false,
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "type": "Legal name",
+          "name": "宇多田光",
+          "primary": false,
+          "sort-name": "うただひかる",
+          "begin": null,
+          "locale": "ja",
+          "end": null
+         },
+         {
+          "locale": "zh_Hans",
+          "end": null,
+          "begin": null,
+          "name": "宇多田光",
+          "type": "Artist name",
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "primary": true,
+          "sort-name": "宇多田光"
+         },
+         {
+          "sort-name": "宇多田光",
+          "primary": false,
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "type": "Artist name",
+          "name": "宇多田光",
+          "begin": null,
+          "end": null,
+          "locale": "zh_Hant_TW"
+         },
+         {
+          "ended": false,
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "type": "Artist name",
+          "name": "우타다히카루",
+          "primary": false,
+          "sort-name": "히카루, 우타다",
+          "begin": null,
+          "locale": "ko",
+          "end": null
+         }
+        ],
+        "country": "JP",
+        "disambiguation": "Japanese-American singer-songwriter",
+        "id": "b539e453-c4fe-47e3-8a07-8517eac74429",
+        "sort-name": "Utada, Hikaru",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "宇多田ヒカル",
+        "type": "Person"
+       },
+       "joinphrase": "",
+       "name": "宇多田ヒカル"
+      }
+     ],
+     "number": "4"
+    }
+   ]
+  }
+ ],
+ "aliases": [],
+ "label-info": [
+  {
+   "label": {
+    "aliases": [
+     {
+      "begin": null,
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+      "name": "EAST WORLD",
+      "type": "Search hint",
+      "sort-name": "EAST WORLD",
+      "primary": null
+     },
+     {
+      "sort-name": "EASTWORLD",
+      "primary": null,
+      "ended": false,
+      "type-id": null,
+      "name": "EASTWORLD",
+      "type": null,
+      "begin": null,
+      "locale": null,
+      "end": null
+     },
+     {
+      "end": null,
+      "locale": null,
+      "begin": null,
+      "type": "Search hint",
+      "name": "EAST・WORLD",
+      "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+      "ended": false,
+      "sort-name": "EAST・WORLD",
+      "primary": null
+     },
+     {
+      "locale": null,
+      "end": null,
+      "begin": null,
+      "type": null,
+      "name": "Eastworld",
+      "ended": false,
+      "type-id": null,
+      "primary": null,
+      "sort-name": "Eastworld"
+     },
+     {
+      "begin": null,
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "type-id": null,
+      "type": null,
+      "name": "イーストワールド",
+      "primary": null,
+      "sort-name": "イーストワールド"
+     }
+    ],
+    "label-code": null,
+    "disambiguation": "Japanese imprint",
+    "tags": [
+     {
+      "count": 2,
+      "name": "j-pop"
+     },
+     {
+      "name": "japan",
+      "count": 1
+     },
+     {
+      "count": 1,
+      "name": "japanese"
+     },
+     {
+      "count": 1,
+      "name": "pop"
+     }
+    ],
+    "id": "31af4a29-1d1a-46f4-bf47-a3e8e84dadfb",
+    "sort-name": "EASTWORLD",
+    "type": "Imprint",
+    "name": "EASTWORLD",
+    "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+    "genres": [
+     {
+      "id": "eba7715e-ee26-4989-8d49-9db382955419",
+      "count": 2,
+      "name": "j-pop",
+      "disambiguation": ""
+     },
+     {
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "count": 1,
+      "disambiguation": "",
+      "name": "pop"
+     }
+    ]
+   },
+   "catalog-number": "TOCT-4180"
+  }
+ ]
+}

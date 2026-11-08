@@ -1,0 +1,570 @@
+{
+ "id": 1142542,
+ "title": "Goliath (New Italian Hardstyle Edition)",
+ "artists_sort": "Zenith",
+ "released": "2006-11-19",
+ "year": 2006,
+ "country": "Italy",
+ "genres": [
+  "Electronic"
+ ],
+ "styles": [
+  "Hardstyle",
+  "Hard Trance"
+ ],
+ "artists": [
+  {
+   "name": "Zenith",
+   "anv": "Zenith DJ",
+   "join": "",
+   "id": 5944,
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "labels": [
+  {
+   "name": "Atlantis (6)",
+   "catno": "ATL 247-2",
+   "id": 277389
+  }
+ ],
+ "formats": [
+  {
+   "name": "CD",
+   "qty": "2",
+   "descriptions": [
+    "Compilation",
+    "Mixed"
+   ]
+  }
+ ],
+ "identifiers": [
+  {
+   "type": "Barcode",
+   "value": "8 032484 015739"
+  }
+ ],
+ "extraartists": [
+  {
+   "name": "Zenith",
+   "anv": "Zenith DJ",
+   "join": "",
+   "id": 5944,
+   "role": "DJ Mix",
+   "tracks": ""
+  }
+ ],
+ "tracklist": [
+  {
+   "position": "1-01",
+   "type_": "track",
+   "title": "1",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Tocs",
+     "anv": "",
+     "join": "",
+     "id": 334553,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-02",
+   "type_": "track",
+   "title": "Infinity",
+   "duration": "",
+   "artists": [
+    {
+     "name": "The KGB's",
+     "anv": "",
+     "join": "",
+     "id": 85741,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-03",
+   "type_": "track",
+   "title": "Midnight",
+   "duration": "",
+   "artists": [
+    {
+     "name": "The Beholder",
+     "anv": "",
+     "join": "Meets",
+     "id": 88174,
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "name": "DJ Zany",
+     "anv": "",
+     "join": "",
+     "id": 48375,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-04",
+   "type_": "track",
+   "title": "Don't Get Back",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Lowriders (2)",
+     "anv": "",
+     "join": "",
+     "id": 571331,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-05",
+   "type_": "track",
+   "title": "Techno Boheme",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Davide Sonar",
+     "anv": "",
+     "join": "",
+     "id": 181189,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-06",
+   "type_": "track",
+   "title": "The Payback",
+   "duration": "",
+   "artists": [
+    {
+     "name": "The Prophet",
+     "anv": "",
+     "join": "vs.",
+     "id": 17428,
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "name": "Brennan Heart",
+     "anv": "",
+     "join": "",
+     "id": 439312,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-07",
+   "type_": "track",
+   "title": "Raw (Original Mix)",
+   "duration": "",
+   "artists": [
+    {
+     "name": "The Machine (3)",
+     "anv": "",
+     "join": "",
+     "id": 551670,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-08",
+   "type_": "track",
+   "title": "Fuck It Up",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Wild Motherfuckers",
+     "anv": "",
+     "join": "",
+     "id": 559894,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-09",
+   "type_": "track",
+   "title": "Just A Detail",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Tuneboy",
+     "anv": "",
+     "join": "",
+     "id": 40672,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-10",
+   "type_": "track",
+   "title": "Metal Licker",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Brainkicker",
+     "anv": "",
+     "join": "",
+     "id": 200753,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-11",
+   "type_": "track",
+   "title": "Pussy's Artwork",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Diz (4)",
+     "anv": "",
+     "join": "",
+     "id": 555427,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-12",
+   "type_": "track",
+   "title": "Tanz Electrik",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Zatox",
+     "anv": "",
+     "join": "",
+     "id": 119945,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-13",
+   "type_": "track",
+   "title": "Impulz",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Taument",
+     "anv": "",
+     "join": "",
+     "id": 638004,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "1-14",
+   "type_": "track",
+   "title": "For The Love Of A Princess (Braveheart 2006)",
+   "duration": "",
+   "artists": [
+    {
+     "name": "DJ Sakin & Friends",
+     "anv": "",
+     "join": "",
+     "id": 5963,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-01",
+   "type_": "track",
+   "title": "Miss Kidman On A Cruise",
+   "duration": "",
+   "artists": [
+    {
+     "name": "The Raiders",
+     "anv": "",
+     "join": "",
+     "id": 88167,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-02",
+   "type_": "track",
+   "title": "Monotone",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Marcel Woods",
+     "anv": "",
+     "join": "",
+     "id": 39987,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-03",
+   "type_": "track",
+   "title": "The Colour Of The Harder Styles",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Showtek",
+     "anv": "",
+     "join": "",
+     "id": 51567,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-04",
+   "type_": "track",
+   "title": "Phenomenon (Showtek Remix)",
+   "duration": "",
+   "artists": [
+    {
+     "name": "DJ Duro",
+     "anv": "",
+     "join": "",
+     "id": 70103,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Showtek",
+     "anv": "",
+     "join": "",
+     "id": 51567,
+     "role": "Remix",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-05",
+   "type_": "track",
+   "title": "Control The Mind",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Zanza Labs",
+     "anv": "",
+     "join": "",
+     "id": 572564,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-06",
+   "type_": "track",
+   "title": "The House Of Louis",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Antonio & Cristiano",
+     "anv": "",
+     "join": "",
+     "id": 217354,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-07",
+   "type_": "track",
+   "title": "Second Match",
+   "duration": "",
+   "artists": [
+    {
+     "name": "TNT (4)",
+     "anv": "",
+     "join": "",
+     "id": 111273,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-08",
+   "type_": "track",
+   "title": "Pornstar",
+   "duration": "",
+   "artists": [
+    {
+     "name": "The Prophet",
+     "anv": "",
+     "join": "",
+     "id": 17428,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-09",
+   "type_": "track",
+   "title": "3 The Hard Way",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Showtek",
+     "anv": "",
+     "join": "vs.",
+     "id": 51567,
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "name": "DJ Gizmo",
+     "anv": "Gizmo",
+     "join": "",
+     "id": 15666,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-10",
+   "type_": "track",
+   "title": "Microteck",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Citizen",
+     "anv": "",
+     "join": "",
+     "id": 7829,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-11",
+   "type_": "track",
+   "title": "Floor Massacre",
+   "duration": "",
+   "artists": [
+    {
+     "name": "T.A.T.A.N.K.A. Project",
+     "anv": "",
+     "join": "",
+     "id": 78497,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-12",
+   "type_": "track",
+   "title": "Cult Musik (Technoboy's Atomic Rmx)",
+   "duration": "",
+   "artists": [
+    {
+     "name": "Brennan Heart",
+     "anv": "",
+     "join": "",
+     "id": 439312,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Technoboy",
+     "anv": "",
+     "join": "",
+     "id": 51564,
+     "role": "Remix",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-13",
+   "type_": "track",
+   "title": "Stampuhh!!",
+   "duration": "",
+   "artists": [
+    {
+     "name": "The Prophet",
+     "anv": "",
+     "join": "vs.",
+     "id": 17428,
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "name": "Deepack",
+     "anv": "",
+     "join": "",
+     "id": 43874,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2-14",
+   "type_": "track",
+   "title": "Call It Hardstyle",
+   "duration": "",
+   "artists": [
+    {
+     "name": "The Hose",
+     "anv": "",
+     "join": "",
+     "id": 34578,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  }
+ ],
+ "images": [
+  {
+   "uri": "https://i.discogs.com/sKp5bB3x9K0-WgVFHFgPp_p7VL1loma2pg5xF0aIWnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI1/NDItMTYzMjYyNzc1/My05Mjg0LmpwZWc.jpeg",
+   "type": "primary"
+  },
+  {
+   "uri": "https://i.discogs.com/wWYcn7l8wP5WanH7wQQwQiw9Z3rlx3yWXYvLMYc-WxE/rs:fit/g:sm/q:90/h:467/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI1/NDItMTYzMjYyNzc1/NS05MTEwLmpwZWc.jpeg",
+   "type": "secondary"
+  }
+ ]
+}

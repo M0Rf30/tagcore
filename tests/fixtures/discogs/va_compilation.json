@@ -1,0 +1,491 @@
+{
+ "id": 1102947,
+ "title": "Allstar Bootymix",
+ "artists_sort": "Various",
+ "released": "1998",
+ "year": 1998,
+ "country": "USA & Canada",
+ "master_id": 1385776,
+ "genres": [
+  "Hip Hop"
+ ],
+ "styles": [
+  "Miami Bass"
+ ],
+ "artists": [
+  {
+   "name": "Various",
+   "anv": "",
+   "join": "",
+   "id": 194,
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "labels": [
+  {
+   "name": "Intersound Urban",
+   "catno": "9339",
+   "id": 97308
+  }
+ ],
+ "formats": [
+  {
+   "name": "CD",
+   "qty": "1",
+   "descriptions": [
+    "Compilation"
+   ]
+  }
+ ],
+ "identifiers": [
+  {
+   "type": "Barcode",
+   "value": "0 15095 03392 8",
+   "description": "Text"
+  },
+  {
+   "type": "Barcode",
+   "value": "015095033928",
+   "description": "String"
+  }
+ ],
+ "tracklist": [
+  {
+   "position": "1",
+   "type_": "track",
+   "title": "In The Club",
+   "duration": "3:43",
+   "artists": [
+    {
+     "name": "Kooley \"C\"",
+     "anv": "",
+     "join": "And",
+     "id": 228555,
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "name": "Gods Of Quad",
+     "anv": "The G.O.Q.",
+     "join": "",
+     "id": 182687,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Kooley \"C\"",
+     "anv": "",
+     "join": "",
+     "id": 228555,
+     "role": "Producer",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "2",
+   "type_": "track",
+   "title": "We Can Make You Bounce",
+   "duration": "3:31",
+   "artists": [
+    {
+     "name": "MC Shy D",
+     "anv": "MC Shy-D",
+     "join": "",
+     "id": 43315,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "MC Shy D",
+     "anv": "MC Shy-D",
+     "join": "",
+     "id": 43315,
+     "role": "Producer, Mixed By",
+     "tracks": ""
+    },
+    {
+     "name": "Da Brat",
+     "anv": "",
+     "join": "",
+     "id": 36099,
+     "role": "Rap [Uncredited]",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "3",
+   "type_": "track",
+   "title": "Panty Hoe'z",
+   "duration": "4:10",
+   "artists": [
+    {
+     "name": "Invisible Men (2)",
+     "anv": "",
+     "join": "Featuring",
+     "id": 936656,
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "name": "C.D. (2)",
+     "anv": "",
+     "join": "",
+     "id": 936663,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Taruq-El",
+     "anv": "",
+     "join": "",
+     "id": 936659,
+     "role": "Producer",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "4",
+   "type_": "track",
+   "title": "Lay It Down",
+   "duration": "3:44",
+   "artists": [
+    {
+     "name": "Bad Behavior",
+     "anv": "",
+     "join": "",
+     "id": 139341,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Darren Bohler",
+     "anv": "",
+     "join": "",
+     "id": 936661,
+     "role": "Producer",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "5",
+   "type_": "track",
+   "title": "Honee Bunn",
+   "duration": "3:38",
+   "artists": [
+    {
+     "name": "Filthy Rich (4)",
+     "anv": "",
+     "join": "",
+     "id": 226384,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Richie Perry",
+     "anv": "",
+     "join": "",
+     "id": 936655,
+     "role": "Producer",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "6",
+   "type_": "track",
+   "title": "Take It Off (Jay Bee's Mix)",
+   "duration": "4:01",
+   "artists": [
+    {
+     "name": "Big Daddy B",
+     "anv": "",
+     "join": "&",
+     "id": 936660,
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "name": "Ken E.G.",
+     "anv": "",
+     "join": "",
+     "id": 936658,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Jazz Nice",
+     "anv": "",
+     "join": "",
+     "id": 936657,
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "name": "Jay Bee (4)",
+     "anv": "",
+     "join": "",
+     "id": 1999426,
+     "role": "Producer, Remix",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "7",
+   "type_": "track",
+   "title": "Do You See What I See?",
+   "duration": "3:56",
+   "artists": [
+    {
+     "name": "Get Some Crew",
+     "anv": "",
+     "join": "Featuring",
+     "id": 62123,
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "name": "Sounds Of Success",
+     "anv": "",
+     "join": "",
+     "id": 936662,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Jazz Nice",
+     "anv": "",
+     "join": "",
+     "id": 936657,
+     "role": "Producer",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "8",
+   "type_": "track",
+   "title": "Shake That Money",
+   "duration": "3:23",
+   "artists": [
+    {
+     "name": "MC ADE",
+     "anv": "M.C. A.D.E.",
+     "join": "",
+     "id": 43317,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Adrian Hines",
+     "anv": "",
+     "join": "",
+     "id": 354531,
+     "role": "Written By, Producer",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "9",
+   "type_": "track",
+   "title": "Double Dutch Dance",
+   "duration": "3:30",
+   "artists": [
+    {
+     "name": "Kinsu",
+     "anv": "",
+     "join": "",
+     "id": 367268,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Danny D (2)",
+     "anv": "Danny-D",
+     "join": "",
+     "id": 67692,
+     "role": "Producer",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "10",
+   "type_": "track",
+   "title": "Bass Me Down",
+   "duration": "2:38",
+   "artists": [
+    {
+     "name": "Da-Wreck-N-Krew",
+     "anv": "",
+     "join": "Featuring",
+     "id": 395416,
+     "role": "",
+     "tracks": ""
+    },
+    {
+     "name": "Natasha Corbet",
+     "anv": "",
+     "join": "",
+     "id": 395419,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Taruq-El",
+     "anv": "",
+     "join": "",
+     "id": 936659,
+     "role": "Producer",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "11",
+   "type_": "track",
+   "title": "Get Down Get Some",
+   "duration": "3:03",
+   "artists": [
+    {
+     "name": "MC Shy D",
+     "anv": "MC Shy-D",
+     "join": "",
+     "id": 43315,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "MC Shy D",
+     "anv": "MC Shy-D",
+     "join": "",
+     "id": 43315,
+     "role": "Producer, Mixed By",
+     "tracks": ""
+    },
+    {
+     "name": "Tha Rhythum",
+     "anv": "",
+     "join": "",
+     "id": 193354,
+     "role": "Rap [Uncredited]",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "12",
+   "type_": "track",
+   "title": "Swing My Way",
+   "duration": "3:51",
+   "artists": [
+    {
+     "name": "The Click (3)",
+     "anv": "",
+     "join": "",
+     "id": 395417,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Jazz Nice",
+     "anv": "",
+     "join": "",
+     "id": 936657,
+     "role": "Producer",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "13",
+   "type_": "track",
+   "title": "Do You See What I See? (Remix)",
+   "duration": "3:23",
+   "artists": [
+    {
+     "name": "Get Some Crew",
+     "anv": "",
+     "join": "",
+     "id": 62123,
+     "role": "",
+     "tracks": ""
+    }
+   ],
+   "extraartists": [
+    {
+     "name": "Danny D (2)",
+     "anv": "Danny-D",
+     "join": "",
+     "id": 67692,
+     "role": "Producer",
+     "tracks": ""
+    },
+    {
+     "name": "Sounds Of Success",
+     "anv": "",
+     "join": "",
+     "id": 936662,
+     "role": "Vocals [Uncredited]",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "14",
+   "type_": "track",
+   "title": "Untitled",
+   "duration": "0:38",
+   "artists": [
+    {
+     "name": "Unknown Artist",
+     "anv": "",
+     "join": "",
+     "id": 355,
+     "role": "",
+     "tracks": ""
+    }
+   ]
+  }
+ ],
+ "images": [
+  {
+   "uri": "https://i.discogs.com/fdZ891O3stah4tvCB9Ehf5ptPklsOsrfnz482GDIVgo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI5/NDctMTE5MjIxNTQ0/Ni5qcGVn.jpeg",
+   "type": "secondary"
+  },
+  {
+   "uri": "https://i.discogs.com/pKiRrlymSY1ilvIDV3y1YKlH-tTW7cY1vVTIR8mQWI4/rs:fit/g:sm/q:90/h:474/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI5/NDctMTE5MjIxNTQ1/OC5qcGVn.jpeg",
+   "type": "secondary"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": 1,
+ "title": "Stockholm",
+ "artists_sort": "Persuader, The",
+ "released": "1999-03-00",
+ "year": 1999,
+ "country": "Sweden",
+ "master_id": 1660109,
+ "genres": [
+  "Electronic"
+ ],
+ "styles": [
+  "Deep House"
+ ],
+ "artists": [
+  {
+   "name": "The Persuader",
+   "anv": "",
+   "join": "",
+   "id": 1,
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "labels": [
+  {
+   "name": "Svek",
+   "catno": "SK032",
+   "id": 5
+  }
+ ],
+ "formats": [
+  {
+   "name": "Vinyl",
+   "qty": "2",
+   "descriptions": [
+    "12\"",
+    "33 ⅓ RPM"
+   ]
+  }
+ ],
+ "identifiers": [],
+ "extraartists": [
+  {
+   "name": "George Cutmaster General",
+   "anv": "G Phrupmastergeneral",
+   "join": "",
+   "id": 507025,
+   "role": "Lacquer Cut By",
+   "tracks": ""
+  },
+  {
+   "name": "Jesper Dahlbäck",
+   "anv": "",
+   "join": "",
+   "id": 239,
+   "role": "Written-By [All Tracks By]",
+   "tracks": ""
+  }
+ ],
+ "tracklist": [
+  {
+   "position": "A",
+   "type_": "track",
+   "title": "Östermalm",
+   "duration": "4:45"
+  },
+  {
+   "position": "B1",
+   "type_": "track",
+   "title": "Vasastaden",
+   "duration": "6:11"
+  },
+  {
+   "position": "B2",
+   "type_": "track",
+   "title": "Kungsholmen",
+   "duration": "2:49"
+  },
+  {
+   "position": "C1",
+   "type_": "track",
+   "title": "Södermalm",
+   "duration": "5:38"
+  },
+  {
+   "position": "C2",
+   "type_": "track",
+   "title": "Norrmalm",
+   "duration": "4:52"
+  },
+  {
+   "position": "D",
+   "type_": "track",
+   "title": "Gamla Stan",
+   "duration": "5:16"
+  }
+ ],
+ "images": [
+  {
+   "uri": "https://i.discogs.com/W4diyVcnvIH72DMnWIhUMwq0hI1vfHHpIDIWVJHUsaM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEtMTc3/MzIyMjM5Ny03NjQ3/LmpwZWc.jpeg",
+   "type": "primary"
+  },
+  {
+   "uri": "https://i.discogs.com/GWhAYrbeqBWYjnkdgwBPIo9ReGioFIGD4JGLg4l1fSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEtMTc5/MTU2Njk5Ni0zMTY3/LmpwZWc.jpeg",
+   "type": "secondary"
+  }
+ ]
+}

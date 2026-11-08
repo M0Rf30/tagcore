@@ -1,0 +1,37 @@
+{
+  "id": "5b3f6f4a-1111-4222-8333-444455556666",
+  "title": "Resolved Song",
+  "length": 215000,
+  "disambiguation": "",
+  "artist-credit": [
+    {"name": "Resolved Band", "joinphrase": " feat. ", "artist": {"id": "a1a1a1a1-0000-4000-8000-000000000001", "name": "Resolved Band", "sort-name": "Band, Resolved"}},
+    {"name": "Guest", "joinphrase": "", "artist": {"id": "a2a2a2a2-0000-4000-8000-000000000002", "name": "Guest", "sort-name": "Guest"}}
+  ],
+  "releases": [
+    {
+      "id": "b1b1b1b1-0000-4000-8000-000000000001",
+      "title": "Resolved Album",
+      "status": "Official",
+      "date": "2011-05-06",
+      "country": "GB",
+      "track-count": 12,
+      "artist-credit": [
+        {"name": "Resolved Band", "joinphrase": "", "artist": {"id": "a1a1a1a1-0000-4000-8000-000000000001", "name": "Resolved Band"}}
+      ],
+      "release-group": {
+        "id": "c1c1c1c1-0000-4000-8000-000000000001",
+        "primary-type": "Album",
+        "secondary-types": ["Live"]
+      },
+      "media": [
+        {"position": 2, "format": "Vinyl", "track-count": 12, "track-offset": 4}
+      ]
+    },
+    {
+      "id": "b2b2b2b2-0000-4000-8000-000000000002",
+      "title": "Bare Release",
+      "release-group": {"id": "c2c2c2c2-0000-4000-8000-000000000002", "primary-type": "Single"},
+      "media": []
+    }
+  ]
+}

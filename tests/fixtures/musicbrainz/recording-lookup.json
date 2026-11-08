@@ -1,0 +1,383 @@
+{
+ "video": false,
+ "tags": [
+  {
+   "count": 1,
+   "name": "alternative"
+  },
+  {
+   "count": 1,
+   "name": "alternative & punk"
+  },
+  {
+   "count": 3,
+   "name": "alternative and punk"
+  },
+  {
+   "count": 1,
+   "name": "alternative pop/rock"
+  }
+ ],
+ "relations": [
+  {
+   "source-credit": "",
+   "attribute-ids": {},
+   "type": "conductor",
+   "end": "1997-03",
+   "type-id": "234670ce-5f22-4fd0-921b-ef1662695c5d",
+   "ended": true,
+   "target-credit": "",
+   "artist": {
+    "disambiguation": "",
+    "country": "GB",
+    "sort-name": "Ingman, Nick",
+    "name": "Nick Ingman",
+    "type": "Person",
+    "id": "32111fcd-2338-472a-892b-4b329549e3ba",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+   },
+   "target-type": "artist",
+   "attributes": [],
+   "direction": "backward",
+   "attribute-values": {},
+   "begin": "1996-07"
+  },
+  {
+   "artist": {
+    "country": "GB",
+    "disambiguation": "English record producer",
+    "sort-name": "Godrich, Nigel",
+    "name": "Nigel Godrich",
+    "type": "Person",
+    "id": "52de022d-5401-427f-8301-ff1b8be11a7a",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+   },
+   "target-credit": "",
+   "end": null,
+   "ended": false,
+   "type-id": "40dff87a-e475-4aa6-b615-9935b564d756",
+   "source-credit": "",
+   "type": "editor",
+   "attribute-ids": {},
+   "begin": null,
+   "attribute-values": {},
+   "direction": "backward",
+   "attributes": [],
+   "target-type": "artist"
+  },
+  {
+   "direction": "backward",
+   "attributes": [
+    "assistant"
+   ],
+   "target-type": "artist",
+   "begin": null,
+   "attribute-values": {},
+   "end": null,
+   "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+   "ended": false,
+   "source-credit": "",
+   "attribute-ids": {
+    "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+   },
+   "type": "engineer",
+   "artist": {
+    "sort-name": "Bailey, Jon",
+    "country": "GB",
+    "disambiguation": "engineer",
+    "id": "ecb6f2a6-32ba-4057-b7af-4ca1b35aeb9e",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "name": "Jon Bailey",
+    "type": "Person"
+   },
+   "target-credit": ""
+  },
+  {
+   "attribute-values": {},
+   "begin": null,
+   "attributes": [
+    "assistant"
+   ],
+   "target-type": "artist",
+   "direction": "backward",
+   "target-credit": "",
+   "artist": {
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "id": "b796507a-7c0f-41fb-b877-1e68c650568d",
+    "type": "Person",
+    "name": "Gerard Navarro",
+    "sort-name": "Navarro, Gerard",
+    "country": "GB",
+    "disambiguation": "engineer"
+   },
+   "attribute-ids": {
+    "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+   },
+   "type": "engineer",
+   "source-credit": "",
+   "ended": false,
+   "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+   "end": null
+  },
+  {
+   "type": "engineer",
+   "attribute-ids": {
+    "assistant": "8c4196b1-7053-4b16-921a-f22b2898ed44"
+   },
+   "source-credit": "",
+   "ended": false,
+   "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+   "end": null,
+   "target-credit": "",
+   "artist": {
+    "sort-name": "Scard, Chris",
+    "country": "GB",
+    "disambiguation": "",
+    "id": "a77fa7aa-44b1-48a6-8f68-450e80fbc87f",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "name": "Chris Scard",
+    "type": "Person"
+   },
+   "target-type": "artist",
+   "attributes": [
+    "assistant"
+   ],
+   "direction": "backward",
+   "attribute-values": {},
+   "begin": null
+  },
+  {
+   "attribute-credits": {},
+   "target-credit": "",
+   "end": "1997-03",
+   "ended": true,
+   "source-credit": "",
+   "attribute-ids": {
+    "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+   },
+   "attributes": [
+    "percussion"
+   ],
+   "artist": {
+    "name": "Colin Greenwood",
+    "type": "Person",
+    "id": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "disambiguation": "English bassist in Radiohead",
+    "country": "GB",
+    "sort-name": "Greenwood, Colin"
+   },
+   "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+   "type": "instrument",
+   "begin": "1996-07",
+   "attribute-values": {},
+   "direction": "backward",
+   "target-type": "artist"
+  },
+  {
+   "attribute-values": {},
+   "begin": "1996-07",
+   "target-type": "artist",
+   "direction": "backward",
+   "artist": {
+    "id": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "name": "Colin Greenwood",
+    "type": "Person",
+    "sort-name": "Greenwood, Colin",
+    "disambiguation": "English bassist in Radiohead",
+    "country": "GB"
+   },
+   "type": "instrument",
+   "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+   "attributes": [
+    "bass guitar"
+   ],
+   "attribute-credits": {},
+   "target-credit": "",
+   "attribute-ids": {
+    "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+   },
+   "source-credit": "",
+   "ended": true,
+   "end": "1997-03"
+  },
+  {
+   "end": "1997-03",
+   "ended": true,
+   "source-credit": "",
+   "attribute-ids": {
+    "bass synthesizer": "e6571d23-5d79-4216-99d6-06e14e737da1"
+   },
+   "attribute-credits": {},
+   "target-credit": "",
+   "attributes": [
+    "bass synthesizer"
+   ],
+   "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+   "type": "instrument",
+   "artist": {
+    "sort-name": "Greenwood, Colin",
+    "disambiguation": "English bassist in Radiohead",
+    "country": "GB",
+    "id": "f23074f4-2c06-477a-bf1d-12fa66e087ee",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "name": "Colin Greenwood",
+    "type": "Person"
+   },
+   "direction": "backward",
+   "target-type": "artist",
+   "begin": "1996-07",
+   "attribute-values": {}
+  }
+ ],
+ "genres": [
+  {
+   "name": "alternative rock",
+   "count": 12,
+   "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+   "disambiguation": ""
+  },
+  {
+   "name": "art rock",
+   "count": 3,
+   "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+   "disambiguation": ""
+  },
+  {
+   "disambiguation": "",
+   "id": "a493b79c-4072-4371-a14c-446b1027982a",
+   "count": 1,
+   "name": "post-britpop"
+  },
+  {
+   "count": 2,
+   "id": "ae9b8279-3959-48d8-8a88-741a7f6d4a48",
+   "name": "progressive rock",
+   "disambiguation": ""
+  }
+ ],
+ "aliases": [
+  {
+   "begin": null,
+   "locale": null,
+   "primary": null,
+   "end": null,
+   "type-id": null,
+   "ended": false,
+   "name": "Paranoid Android (NOW 37, 1997)",
+   "type": null,
+   "sort-name": "Paranoid Android (NOW 37, 1997)"
+  }
+ ],
+ "title": "Paranoid Android",
+ "artist-credit": [
+  {
+   "joinphrase": "",
+   "name": "Radiohead",
+   "artist": {
+    "country": "GB",
+    "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "sort-name": "Radiohead",
+    "disambiguation": "",
+    "tags": [
+     {
+      "name": "alternative",
+      "count": 2
+     },
+     {
+      "name": "alternative rock",
+      "count": 43
+     },
+     {
+      "name": "alternative rock music",
+      "count": 2
+     },
+     {
+      "count": 1,
+      "name": "ambient pop"
+     }
+    ],
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "genres": [
+     {
+      "disambiguation": "",
+      "name": "alternative rock",
+      "count": 43,
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+     },
+     {
+      "disambiguation": "",
+      "count": 1,
+      "id": "2cdcecfe-3e7c-4055-ab34-78eceabe4d9b",
+      "name": "ambient pop"
+     },
+     {
+      "count": 3,
+      "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+      "name": "art pop",
+      "disambiguation": ""
+     },
+     {
+      "disambiguation": "",
+      "name": "art rock",
+      "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+      "count": 30
+     }
+    ],
+    "name": "Radiohead",
+    "aliases": [
+     {
+      "begin": null,
+      "locale": null,
+      "ended": false,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "primary": null,
+      "end": null,
+      "type": "Search hint",
+      "name": "Radio Head",
+      "sort-name": "Radio Head"
+     },
+     {
+      "sort-name": "Radiohead",
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "end": null,
+      "type": "Artist name",
+      "name": "Radiohead",
+      "begin": null,
+      "locale": "en"
+     },
+     {
+      "begin": null,
+      "locale": null,
+      "sort-name": "Radiohead & Thom Yorke",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "ended": false,
+      "primary": null,
+      "end": null,
+      "type": "Search hint",
+      "name": "Radiohead & Thom Yorke"
+     },
+     {
+      "locale": null,
+      "begin": null,
+      "type": "Search hint",
+      "name": "r/head",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "ended": false,
+      "primary": null,
+      "end": null,
+      "sort-name": "r/head"
+     }
+    ],
+    "type": "Group"
+   }
+  }
+ ],
+ "disambiguation": "",
+ "id": "9f9cf187-d6f9-437f-9d98-d59cdbd52757",
+ "length": 384000,
+ "first-release-date": "1997-05-21"
+}

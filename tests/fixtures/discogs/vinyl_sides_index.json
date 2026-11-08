@@ -1,0 +1,297 @@
+{
+ "id": 472043,
+ "title": "Total Eclipse",
+ "artists_sort": "Billy Cobham",
+ "released": "1974",
+ "year": 1974,
+ "country": "US",
+ "master_id": 47691,
+ "genres": [
+  "Jazz"
+ ],
+ "styles": [
+  "Fusion",
+  "Jazz-Rock"
+ ],
+ "artists": [
+  {
+   "name": "Billy Cobham",
+   "anv": "",
+   "join": "",
+   "id": 35199,
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "labels": [
+  {
+   "name": "Atlantic",
+   "catno": "SD 18121",
+   "id": 681
+  }
+ ],
+ "formats": [
+  {
+   "name": "Vinyl",
+   "qty": "1",
+   "descriptions": [
+    "LP",
+    "Album"
+   ],
+   "text": "Richmond Pressing"
+  }
+ ],
+ "identifiers": [],
+ "extraartists": [
+  {
+   "name": "Bob Defrin",
+   "anv": "",
+   "join": "",
+   "id": 1116274,
+   "role": "Art Direction [Art Director]",
+   "tracks": ""
+  },
+  {
+   "name": "Billy Cobham",
+   "anv": "",
+   "join": "",
+   "id": 35199,
+   "role": "Drums [Traps], Timpani [Tympany]",
+   "tracks": ""
+  },
+  {
+   "name": "Alex Blake (2)",
+   "anv": "",
+   "join": "",
+   "id": 258364,
+   "role": "Electric Bass",
+   "tracks": ""
+  },
+  {
+   "name": "John Abercrombie",
+   "anv": "",
+   "join": "",
+   "id": 258942,
+   "role": "Electric Guitar, Acoustic Guitar [Ovation]",
+   "tracks": ""
+  },
+  {
+   "name": "Ken Scott",
+   "anv": "",
+   "join": "",
+   "id": 103969,
+   "role": "Engineer [Recording & Re-mix]",
+   "tracks": ""
+  },
+  {
+   "name": "Michael Brecker",
+   "anv": "Mike Brecker",
+   "join": "",
+   "id": 135847,
+   "role": "Flute, Soprano Saxophone [Soprano Sax], Tenor Saxophone [Tenor Sax]",
+   "tracks": ""
+  },
+  {
+   "name": "Gilbert Stone",
+   "anv": "",
+   "join": "",
+   "id": 2400762,
+   "role": "Illustration [Cover]",
+   "tracks": ""
+  },
+  {
+   "name": "Milcho Leviev",
+   "anv": "",
+   "join": "",
+   "id": 280705,
+   "role": "Keyboards",
+   "tracks": ""
+  },
+  {
+   "name": "Sid Bernstein",
+   "anv": "",
+   "join": "",
+   "id": 1956609,
+   "role": "Management [Personal Management]",
+   "tracks": ""
+  },
+  {
+   "name": "Billy Cobham",
+   "anv": "",
+   "join": "",
+   "id": 35199,
+   "role": "Producer [Produced By]",
+   "tracks": ""
+  },
+  {
+   "name": "Ken Scott",
+   "anv": "",
+   "join": "",
+   "id": 103969,
+   "role": "Producer [Produced By]",
+   "tracks": ""
+  },
+  {
+   "name": "Bob Warner",
+   "anv": "",
+   "join": "",
+   "id": 722807,
+   "role": "Tape Op [Tape Operator], Other [Assistant To Ken & Billy]",
+   "tracks": ""
+  },
+  {
+   "name": "Glenn Ferris",
+   "anv": "",
+   "join": "",
+   "id": 280708,
+   "role": "Tenor Trombone, Bass Trombone",
+   "tracks": ""
+  },
+  {
+   "name": "Randy Brecker",
+   "anv": "",
+   "join": "",
+   "id": 253774,
+   "role": "Trumpet, Flugelhorn",
+   "tracks": ""
+  },
+  {
+   "name": "Billy Cobham",
+   "anv": "",
+   "join": "",
+   "id": 35199,
+   "role": "Written-By, Arranged By",
+   "tracks": ""
+  }
+ ],
+ "tracklist": [
+  {
+   "position": "",
+   "type_": "index",
+   "title": "Solarization",
+   "duration": "",
+   "sub_tracks": [
+    {
+     "position": "A1a",
+     "type_": "track",
+     "title": "Solarization",
+     "duration": "3:00"
+    },
+    {
+     "position": "A1b",
+     "type_": "track",
+     "title": "Second Phase",
+     "duration": "1:43"
+    },
+    {
+     "position": "A1c",
+     "type_": "track",
+     "title": "Crescent Sun",
+     "duration": "2:40"
+    },
+    {
+     "position": "A1d",
+     "type_": "track",
+     "title": "Voyage",
+     "duration": "2:56"
+    },
+    {
+     "position": "A1e",
+     "type_": "track",
+     "title": "Solarization-Recapitulation",
+     "duration": "0:50"
+    }
+   ]
+  },
+  {
+   "position": "A2",
+   "type_": "track",
+   "title": "Lunarputians",
+   "duration": "2:32"
+  },
+  {
+   "position": "A3",
+   "type_": "track",
+   "title": "Total Eclipse",
+   "duration": "5:59"
+  },
+  {
+   "position": "A4",
+   "type_": "track",
+   "title": "Bandits",
+   "duration": "2:30"
+  },
+  {
+   "position": "B1",
+   "type_": "track",
+   "title": "Moon Germs",
+   "duration": "4:55",
+   "extraartists": [
+    {
+     "name": "David Earle Johnson",
+     "anv": "",
+     "join": "",
+     "id": 332999,
+     "role": "Congas",
+     "tracks": ""
+    },
+    {
+     "name": "Cornell Dupree",
+     "anv": "",
+     "join": "",
+     "id": 211619,
+     "role": "Soloist [First Solo], Guitar",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "B2",
+   "type_": "track",
+   "title": "The Moon Ain't Made Of Green Cheese",
+   "duration": "0:58",
+   "extraartists": [
+    {
+     "name": "Billy Cobham",
+     "anv": "",
+     "join": "",
+     "id": 35199,
+     "role": "Piano [Acoustic]",
+     "tracks": ""
+    }
+   ]
+  },
+  {
+   "position": "B3",
+   "type_": "track",
+   "title": "Sea Of Tranquility",
+   "duration": "10:44"
+  },
+  {
+   "position": "B4",
+   "type_": "track",
+   "title": "Last Frontier",
+   "duration": "5:22",
+   "extraartists": [
+    {
+     "name": "Billy Cobham",
+     "anv": "",
+     "join": "",
+     "id": 35199,
+     "role": "Piano [Acoustic]",
+     "tracks": ""
+    }
+   ]
+  }
+ ],
+ "images": [
+  {
+   "uri": "https://i.discogs.com/RIktux0SLlPre8n_NkmdGeHeCegkBnb930CfDL5KCis/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjA0/My0xMzc5MTgwMzY1/LTUzMjYuanBlZw.jpeg",
+   "type": "primary"
+  },
+  {
+   "uri": "https://i.discogs.com/dbvMQXMO0AQYtTrzMD-7TUn6pz65VoaqkN_edd9nfTQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjA0/My0xMzE1NDM2MTE1/LmpwZWc.jpeg",
+   "type": "secondary"
+  }
+ ]
+}

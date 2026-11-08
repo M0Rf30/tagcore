@@ -1,0 +1,65 @@
+{
+  "status": "ok",
+  "results": [
+    {
+      "id": "11111111-2222-4333-8444-555555555555",
+      "score": 0.41,
+      "recordings": []
+    },
+    {
+      "id": "9ff43b6a-4f16-427c-93c2-92307ca505e0",
+      "score": 0.97,
+      "recordings": [
+        {
+          "id": "cd2e7c47-16f5-46c6-a37c-a1eb7bf599ff",
+          "title": "Intro",
+          "duration": 215.5,
+          "sources": 25,
+          "artists": [
+            { "id": "a2f5a3a3-0000-4000-8000-0000000000a1", "name": "Ben Lee", "joinphrase": " feat. " },
+            { "id": "a2f5a3a3-0000-4000-8000-0000000000a2", "name": "Someone" }
+          ],
+          "releasegroups": [
+            {
+              "id": "1b1a1a1a-0000-4000-8000-000000000001",
+              "title": "Awake Is the New Sleep",
+              "type": "Album",
+              "secondarytypes": ["Live"],
+              "artists": [{ "id": "a2f5a3a3-0000-4000-8000-0000000000a1", "name": "Ben Lee" }],
+              "releases": [
+                {
+                  "id": "7e1c0000-0000-4000-8000-00000000a001",
+                  "title": "Awake Is the New Sleep",
+                  "country": "US",
+                  "date": { "year": 2005, "month": 4, "day": 12 },
+                  "medium_count": 2,
+                  "track_count": 24,
+                  "mediums": [
+                    { "position": 1, "format": "CD", "track_count": 12, "tracks": [] },
+                    {
+                      "position": 2,
+                      "format": "CD",
+                      "track_count": 12,
+                      "tracks": [{ "id": "t1", "position": 3, "title": "Intro" }]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "releases": [
+            {
+              "id": "7e1c0000-0000-4000-8000-00000000a001",
+              "title": "Awake Is the New Sleep"
+            },
+            {
+              "id": "7e1c0000-0000-4000-8000-00000000a002",
+              "title": "Awake Is the New Sleep (promo)",
+              "date": { "year": 2005 }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

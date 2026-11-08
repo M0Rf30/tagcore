@@ -1,0 +1,2832 @@
+{
+ "tags": [],
+ "title": "Now That’s What I Call Music",
+ "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+ "artist-credit": [
+  {
+   "artist": {
+    "genres": [],
+    "aliases": [
+     {
+      "name": "(Karaoke) Various Artists",
+      "type": null,
+      "ended": false,
+      "primary": false,
+      "end": null,
+      "begin": null,
+      "locale": "en",
+      "type-id": null,
+      "sort-name": "(Karaoke) Various Artists"
+     },
+     {
+      "name": "(V.A.)",
+      "type": "Search hint",
+      "primary": null,
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "begin": null,
+      "sort-name": "(V.A.)",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e"
+     },
+     {
+      "locale": "en",
+      "end": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "(various)",
+      "name": "(various)",
+      "type": null,
+      "primary": false,
+      "ended": false
+     },
+     {
+      "type-id": null,
+      "sort-name": "30 Vermont Artists",
+      "locale": null,
+      "begin": null,
+      "end": null,
+      "primary": null,
+      "ended": false,
+      "name": "30 Vermont Artists",
+      "type": null
+     }
+    ],
+    "tags": [
+     {
+      "count": 1,
+      "name": "9818784"
+     },
+     {
+      "name": "absolute",
+      "count": 1
+     },
+     {
+      "count": 1,
+      "name": "bogus artist"
+     },
+     {
+      "name": "compilation",
+      "count": 8
+     }
+    ],
+    "name": "Various Artists",
+    "type": "Other",
+    "type-id": "ac897045-5043-3294-969b-187360e45d86",
+    "country": null,
+    "sort-name": "Various Artists",
+    "disambiguation": "add compilations to this artist",
+    "id": "89ad4ac3-39f7-470e-963a-56509c546377"
+   },
+   "name": "Various Artists",
+   "joinphrase": ""
+  }
+ ],
+ "genres": [],
+ "cover-art-archive": {
+  "darkened": false,
+  "back": true,
+  "count": 8,
+  "front": true,
+  "artwork": true
+ },
+ "label-info": [
+  {
+   "label": {
+    "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+    "sort-name": "Universal Music on Demand",
+    "disambiguation": "",
+    "id": "3dd064d1-0dd8-4a34-b3b5-4858f767ed47",
+    "label-code": null,
+    "aliases": [
+     {
+      "type-id": "829662f2-a781-3ec8-8b46-fbcea6196f81",
+      "sort-name": "OD",
+      "end": null,
+      "begin": null,
+      "locale": null,
+      "ended": false,
+      "primary": null,
+      "type": "Search hint",
+      "name": "OD"
+     },
+     {
+      "type": "Label name",
+      "name": "UMOD",
+      "ended": false,
+      "primary": false,
+      "end": null,
+      "begin": null,
+      "locale": "en",
+      "sort-name": "UMOD",
+      "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675"
+     },
+     {
+      "begin": null,
+      "end": null,
+      "locale": "en",
+      "sort-name": "UMOD (Universal Music On Demand)",
+      "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+      "type": "Label name",
+      "name": "UMOD (Universal Music On Demand)",
+      "ended": false,
+      "primary": false
+     },
+     {
+      "sort-name": "Universal Music on Demand",
+      "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+      "locale": "en",
+      "end": null,
+      "begin": null,
+      "primary": false,
+      "ended": false,
+      "name": "Universal Music on Demand",
+      "type": "Label name"
+     }
+    ],
+    "genres": [],
+    "tags": [
+     {
+      "name": "5376747",
+      "count": 1
+     }
+    ],
+    "type": "Imprint",
+    "name": "Universal Music on Demand"
+   },
+   "catalog-number": "0190758608020"
+  },
+  {
+   "catalog-number": "CDNOW01",
+   "label": {
+    "disambiguation": "global brand, excluding JP, owned by Sony Music Entertainment",
+    "id": "9e6b4d7f-4958-4db7-8504-d89e315836af",
+    "label-code": 10746,
+    "sort-name": "Sony Music",
+    "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+    "type": "Imprint",
+    "name": "Sony Music",
+    "tags": [
+     {
+      "count": 1,
+      "name": "big four"
+     },
+     {
+      "name": "big three",
+      "count": 3
+     },
+     {
+      "name": "clean up",
+      "count": 3
+     },
+     {
+      "name": "distributor",
+      "count": 1
+     }
+    ],
+    "aliases": [
+     {
+      "primary": true,
+      "ended": false,
+      "name": "Sony Music",
+      "type": "Label name",
+      "type-id": "3a1a0c48-d885-3b89-87b2-9e8a483c5675",
+      "sort-name": "Sony Music",
+      "locale": "en",
+      "end": null,
+      "begin": null
+     },
+     {
+      "ended": false,
+      "primary": null,
+      "type": null,
+      "name": "Sony Music Singapore",
+      "sort-name": "Sony Music Singapore",
+      "type-id": null,
+      "end": null,
+      "begin": null,
+      "locale": null
+     }
+    ],
+    "genres": [
+     {
+      "name": "pop rock",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "disambiguation": "",
+      "count": 2
+     },
+     {
+      "name": "rock",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "disambiguation": "",
+      "count": 2
+     },
+     {
+      "id": "7d0c6a6b-5d56-4b1e-a8c7-e32194f246b9",
+      "disambiguation": "",
+      "name": "soft rock",
+      "count": 2
+     }
+    ]
+   }
+  }
+ ],
+ "media": [
+  {
+   "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+   "title": "",
+   "format": "CD",
+   "id": "dfbe08ff-cc64-3605-bcfd-618c9102cf70",
+   "position": 1,
+   "tracks": [
+    {
+     "position": 1,
+     "id": "b4a214e0-4da6-4787-a6b3-1fd340671d14",
+     "number": "1",
+     "artist-credit": [
+      {
+       "artist": {
+        "name": "Phil Collins",
+        "type": "Person",
+        "tags": [
+         {
+          "count": 3,
+          "name": "adult contemporary"
+         },
+         {
+          "name": "aor",
+          "count": 1
+         },
+         {
+          "count": 1,
+          "name": "art pop"
+         },
+         {
+          "name": "british",
+          "count": 1
+         }
+        ],
+        "aliases": [
+         {
+          "end": null,
+          "begin": null,
+          "locale": null,
+          "type-id": null,
+          "sort-name": "Collins, Phil",
+          "name": "Collins, Phil",
+          "type": null,
+          "ended": false,
+          "primary": null
+         },
+         {
+          "type": null,
+          "name": "P. Collins",
+          "ended": false,
+          "primary": null,
+          "begin": null,
+          "end": null,
+          "locale": null,
+          "sort-name": "P. Collins",
+          "type-id": null
+         },
+         {
+          "primary": null,
+          "ended": false,
+          "type": null,
+          "name": "Phil Colins",
+          "type-id": null,
+          "sort-name": "Phil Colins",
+          "locale": null,
+          "begin": null,
+          "end": null
+         },
+         {
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "sort-name": "Collins, Philip David Charles",
+          "end": null,
+          "begin": null,
+          "locale": null,
+          "ended": false,
+          "primary": null,
+          "type": "Legal name",
+          "name": "Philip David Charles Collins"
+         }
+        ],
+        "genres": [
+         {
+          "name": "aor",
+          "id": "aca1caab-09d1-44b5-ae84-590ff1d218fc",
+          "disambiguation": "",
+          "count": 1
+         },
+         {
+          "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+          "disambiguation": "",
+          "name": "art pop",
+          "count": 1
+         },
+         {
+          "name": "easy listening",
+          "disambiguation": "",
+          "id": "ca06817d-8622-4120-b49d-96921c8bb767",
+          "count": 1
+         },
+         {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "count": 5
+         }
+        ],
+        "disambiguation": "of Genesis",
+        "id": "401c3991-b76b-499d-8082-9f2df958ef78",
+        "sort-name": "Collins, Phil",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB"
+       },
+       "joinphrase": "",
+       "name": "Phil Collins"
+      }
+     ],
+     "title": "You Can’t Hurry Love",
+     "recording": {
+      "id": "4010de72-311f-4868-b955-2940f3da433c",
+      "disambiguation": "",
+      "artist-credit": [
+       {
+        "joinphrase": "",
+        "name": "Phil Collins",
+        "artist": {
+         "country": "GB",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "sort-name": "Collins, Phil",
+         "disambiguation": "of Genesis",
+         "id": "401c3991-b76b-499d-8082-9f2df958ef78",
+         "name": "Phil Collins",
+         "type": "Person"
+        }
+       }
+      ],
+      "title": "You Can’t Hurry Love",
+      "relations": [
+       {
+        "direction": "backward",
+        "begin": null,
+        "end": null,
+        "target-type": "artist",
+        "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+        "attribute-values": {},
+        "type": "engineer",
+        "ended": false,
+        "artist": {
+         "type": "Person",
+         "name": "Paul Gomersall",
+         "sort-name": "Gomersall, Paul",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "AU",
+         "disambiguation": "",
+         "id": "813ba3f9-e1bb-45b3-a074-7b3b781c7db5"
+        },
+        "attribute-ids": {},
+        "attributes": [],
+        "source-credit": "",
+        "target-credit": ""
+       },
+       {
+        "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+        "target-type": "artist",
+        "end": null,
+        "begin": null,
+        "direction": "backward",
+        "target-credit": "",
+        "attribute-credits": {
+         "drums (drum set)": "drums"
+        },
+        "source-credit": "",
+        "attributes": [
+         "drums (drum set)"
+        ],
+        "attribute-ids": {
+         "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+        },
+        "artist": {
+         "type": "Person",
+         "name": "Phil Collins",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "GB",
+         "sort-name": "Collins, Phil",
+         "id": "401c3991-b76b-499d-8082-9f2df958ef78",
+         "disambiguation": "of Genesis"
+        },
+        "ended": false,
+        "type": "instrument",
+        "attribute-values": {}
+       },
+       {
+        "begin": null,
+        "end": null,
+        "target-type": "artist",
+        "type-id": "4820daa1-98d6-4f8b-aa4b-6895c5b79b27",
+        "direction": "backward",
+        "attribute-ids": {
+         "strings": "32eca297-dde6-45d0-9305-ae479947c2a8"
+        },
+        "attributes": [
+         "strings"
+        ],
+        "source-credit": "",
+        "attribute-credits": {},
+        "target-credit": "Martyn (Norrie) Ford",
+        "attribute-values": {},
+        "type": "instrument arranger",
+        "ended": false,
+        "artist": {
+         "name": "Martyn Ford",
+         "type": "Person",
+         "sort-name": "Ford, Martyn",
+         "country": null,
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "id": "ed3b8ee7-7a92-4726-aa20-ab3738645fe4",
+         "disambiguation": "conductor"
+        }
+       },
+       {
+        "direction": "backward",
+        "end": null,
+        "begin": null,
+        "target-type": "artist",
+        "type-id": "3e3102e1-1896-4f50-b5b2-dd9824e46efe",
+        "attribute-values": {},
+        "type": "mix",
+        "ended": false,
+        "artist": {
+         "id": "e978bc71-237f-4455-8701-efaaa2308b1d",
+         "disambiguation": "live sound engineer & producer, notably for Phil Collins",
+         "sort-name": "Colby, Robert",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": null,
+         "type": "Person",
+         "name": "Robert Colby"
+        },
+        "attribute-ids": {},
+        "attributes": [],
+        "source-credit": "",
+        "target-credit": ""
+       },
+       {
+        "attributes": [],
+        "attribute-ids": {},
+        "source-credit": "",
+        "target-credit": "",
+        "attribute-values": {},
+        "type": "producer",
+        "ended": false,
+        "artist": {
+         "name": "Robert Colby",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": null,
+         "sort-name": "Colby, Robert",
+         "disambiguation": "live sound engineer & producer, notably for Phil Collins",
+         "id": "e978bc71-237f-4455-8701-efaaa2308b1d"
+        },
+        "target-type": "artist",
+        "end": null,
+        "begin": null,
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "direction": "backward"
+       },
+       {
+        "direction": "backward",
+        "target-type": "artist",
+        "end": null,
+        "begin": null,
+        "type-id": "0fdbe3c6-7700-4a31-ae54-b53f06ae1cfa",
+        "type": "vocal",
+        "attribute-values": {},
+        "artist": {
+         "sort-name": "Collins, Phil",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "GB",
+         "disambiguation": "of Genesis",
+         "id": "401c3991-b76b-499d-8082-9f2df958ef78",
+         "name": "Phil Collins",
+         "type": "Person"
+        },
+        "ended": false,
+        "source-credit": "",
+        "attributes": [
+         "lead vocals"
+        ],
+        "attribute-ids": {
+         "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+        },
+        "target-credit": "",
+        "attribute-credits": {}
+       },
+       {
+        "direction": "backward",
+        "label": {
+         "label-code": null,
+         "disambiguation": "not for release label use! copyrights holder, distributor for the world outside of the US",
+         "id": "0070482a-06f0-43a1-a81a-ef228a89fc37",
+         "type-id": "53ab8dcc-9946-3b62-966e-7634d78e5034",
+         "sort-name": "WEA International Inc.",
+         "type": "Distributor",
+         "name": "WEA International Inc."
+        },
+        "target-type": "label",
+        "begin": "1982",
+        "end": null,
+        "type-id": "fd841726-ba3c-47f7-af8e-6734ab6243ff",
+        "type": "phonographic copyright",
+        "attribute-values": {},
+        "ended": false,
+        "source-credit": "",
+        "attributes": [],
+        "attribute-ids": {},
+        "target-credit": ""
+       },
+       {
+        "target-type": "recording",
+        "end": null,
+        "begin": null,
+        "recording": {
+         "video": false,
+         "isrcs": [],
+         "length": 952000,
+         "title": "Walking on Mixed Tracks",
+         "artist-credit": [
+          {
+           "joinphrase": "",
+           "name": "Hahnstudios",
+           "artist": {
+            "disambiguation": "mash-up artist",
+            "id": "af5d87e4-60a2-427f-bf0a-4845b41a4b05",
+            "sort-name": "Hahnstudios",
+            "country": "DE",
+            "type-id": null,
+            "type": null,
+            "name": "Hahnstudios"
+           }
+          }
+         ],
+         "disambiguation": "",
+         "id": "87a11f94-2800-49f3-8b0c-7a0da60a2db6"
+        },
+        "type-id": "451076df-61cf-46ab-9921-555cab2f050d",
+        "direction": "backward",
+        "source-credit": "",
+        "attributes": [],
+        "attribute-ids": {},
+        "target-credit": "",
+        "type": "DJ-mix",
+        "attribute-values": {},
+        "ordering-key": 5,
+        "ended": false
+       }
+      ],
+      "length": 173400,
+      "tags": [
+       {
+        "count": 8,
+        "name": "adult contemporary"
+       },
+       {
+        "name": "ambient; electronic; jazz; pop; soft rock",
+        "count": 1
+       },
+       {
+        "count": 1,
+        "name": "ballad"
+       },
+       {
+        "name": "blue-eyed soul",
+        "count": 2
+       }
+      ],
+      "aliases": [
+       {
+        "ended": false,
+        "primary": null,
+        "type": null,
+        "name": "You Can't Hurry Love",
+        "type-id": null,
+        "sort-name": "You Can't Hurry Love",
+        "end": null,
+        "begin": null,
+        "locale": null
+       },
+       {
+        "begin": null,
+        "end": null,
+        "locale": null,
+        "sort-name": "You Can't Hurry Love (2016 Remaster)",
+        "type-id": null,
+        "type": null,
+        "name": "You Can't Hurry Love (2016 Remaster)",
+        "ended": false,
+        "primary": null
+       },
+       {
+        "name": "You Can’t Hurry Love (2016 Remaster)",
+        "type": null,
+        "primary": null,
+        "ended": false,
+        "locale": null,
+        "end": null,
+        "begin": null,
+        "type-id": null,
+        "sort-name": "You Can’t Hurry Love (2016 Remaster)"
+       },
+       {
+        "sort-name": "You Can’t Hurry Love (2016 Remastered)",
+        "type-id": null,
+        "locale": null,
+        "end": null,
+        "begin": null,
+        "primary": null,
+        "ended": false,
+        "name": "You Can’t Hurry Love (2016 Remastered)",
+        "type": null
+       }
+      ],
+      "video": false,
+      "isrcs": [
+       "GBAAA8200202",
+       "USRH11509315",
+       "USRH11600431",
+       "USWI19600249"
+      ],
+      "genres": [
+       {
+        "name": "ballad",
+        "id": "17b58d38-1110-4f5a-9412-b0314329622b",
+        "disambiguation": "",
+        "count": 1
+       },
+       {
+        "count": 2,
+        "name": "blue-eyed soul",
+        "id": "650bda08-20ca-4012-b873-3b68c5768bdf",
+        "disambiguation": ""
+       },
+       {
+        "count": 7,
+        "disambiguation": "",
+        "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+        "name": "pop"
+       },
+       {
+        "count": 1,
+        "disambiguation": "",
+        "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+        "name": "pop rock"
+       }
+      ],
+      "first-release-date": "1982-11-01"
+     },
+     "length": 171706
+    },
+    {
+     "number": "2",
+     "artist-credit": [
+      {
+       "name": "Duran Duran",
+       "joinphrase": "",
+       "artist": {
+        "tags": [
+         {
+          "count": 1,
+          "name": "alternative rock"
+         },
+         {
+          "name": "dance",
+          "count": 1
+         },
+         {
+          "count": 1,
+          "name": "dvd"
+         },
+         {
+          "name": "electro",
+          "count": 1
+         }
+        ],
+        "type": "Group",
+        "name": "Duran Duran",
+        "genres": [
+         {
+          "count": 1,
+          "name": "alternative rock",
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+          "disambiguation": ""
+         },
+         {
+          "disambiguation": "",
+          "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+          "name": "dance",
+          "count": 1
+         },
+         {
+          "count": 1,
+          "name": "electro",
+          "disambiguation": "",
+          "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4"
+         },
+         {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 1
+         }
+        ],
+        "aliases": [
+         {
+          "primary": null,
+          "ended": false,
+          "type": null,
+          "name": "デュラン・デュラン",
+          "sort-name": "デュラン・デュラン",
+          "type-id": null,
+          "locale": null,
+          "end": null,
+          "begin": null
+         }
+        ],
+        "id": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
+        "disambiguation": "English rock band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "sort-name": "Duran Duran"
+       }
+      }
+     ],
+     "id": "3a784afb-5ac9-495f-8a9a-9a4b915084d5",
+     "position": 2,
+     "length": 249253,
+     "recording": {
+      "length": 249853,
+      "title": "Is There Something I Should Know?",
+      "relations": [
+       {
+        "source-credit": "",
+        "attribute-ids": {},
+        "attributes": [],
+        "target-credit": "",
+        "type": "mix",
+        "attribute-values": {},
+        "artist": {
+         "name": "Ian Little",
+         "type": "Person",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": null,
+         "sort-name": "Little, Ian",
+         "disambiguation": "producer, engineer, songwriter",
+         "id": "4f2dd9cc-ef49-4abe-904c-e3e563f9ef46"
+        },
+        "ended": false,
+        "begin": null,
+        "end": null,
+        "target-type": "artist",
+        "type-id": "3e3102e1-1896-4f50-b5b2-dd9824e46efe",
+        "direction": "backward"
+       },
+       {
+        "type": "producer",
+        "attribute-values": {},
+        "artist": {
+         "name": "Duran Duran",
+         "type": "Group",
+         "id": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
+         "disambiguation": "English rock band",
+         "country": "GB",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "sort-name": "Duran Duran"
+        },
+        "ended": false,
+        "source-credit": "",
+        "attributes": [],
+        "attribute-ids": {},
+        "target-credit": "",
+        "direction": "backward",
+        "end": null,
+        "begin": null,
+        "target-type": "artist",
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0"
+       },
+       {
+        "target-credit": "",
+        "attribute-ids": {},
+        "attributes": [],
+        "source-credit": "",
+        "ended": true,
+        "attribute-values": {},
+        "type": "phonographic copyright",
+        "type-id": "fd841726-ba3c-47f7-af8e-6734ab6243ff",
+        "target-type": "label",
+        "begin": "1998",
+        "end": "1998",
+        "direction": "backward",
+        "label": {
+         "type-id": "43f31a62-97e4-36f6-9752-453c131b71ed",
+         "sort-name": "EMI Records Ltd.",
+         "label-code": null,
+         "id": "618a22b7-308f-49a5-bceb-3368e0d25768",
+         "disambiguation": "not for release label use! UK parent of EMI‐owned labels until Sept 2012",
+         "type": "Holding",
+         "name": "EMI Records Ltd."
+        }
+       },
+       {
+        "target-credit": "",
+        "source-credit": "",
+        "attribute-ids": {},
+        "attributes": [],
+        "ended": false,
+        "type": "mashes up",
+        "attribute-values": {},
+        "recording": {
+         "video": false,
+         "isrcs": [],
+         "title": "F8 (Ellie Goulding vs. 3LAU, Paris, & Simo feat. Bright Lights vs. Ciara vs. Batille vs. Martin Solveig vs. Duran Duran vs. Cutting Crew vs. Pitbull feat NeYo, Nayer & Afrojack vs. Destiny's Child vs. Owl City & Carly Rae Jepsen vs. Rihanna)",
+         "length": 234000,
+         "artist-credit": [
+          {
+           "joinphrase": "",
+           "name": "DJ Schmolli",
+           "artist": {
+            "type": null,
+            "name": "DJ Schmolli",
+            "id": "13d2e4d7-f439-4119-bc59-bb590fc6573a",
+            "disambiguation": "",
+            "country": "AT",
+            "type-id": null,
+            "sort-name": "Schmolli, DJ"
+           }
+          }
+         ],
+         "id": "42db5930-3fae-4192-a1ad-00f111e2cd01",
+         "disambiguation": ""
+        },
+        "type-id": "579d0b4c-bf77-479d-aa59-a8af1f518958",
+        "begin": null,
+        "end": null,
+        "target-type": "recording",
+        "direction": "backward"
+       },
+       {
+        "attribute-values": {},
+        "type": "performance",
+        "work": {
+         "disambiguation": "",
+         "id": "1bbad34c-714b-4c05-9421-526e0d5b2540",
+         "attributes": [],
+         "languages": [
+          "eng"
+         ],
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "language": "eng",
+         "title": "Is There Something I Should Know?",
+         "relations": [
+          {
+           "source-credit": "",
+           "attribute-ids": {},
+           "attributes": [],
+           "target-credit": "",
+           "type": "writer",
+           "attribute-values": {},
+           "artist": {
+            "type": "Person",
+            "name": "Simon Le Bon",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "GB",
+            "sort-name": "Le Bon, Simon",
+            "id": "c53f2749-4c19-48fa-b99b-5f4c11297b2c",
+            "disambiguation": "singer for Duran Duran"
+           },
+           "ended": false,
+           "target-type": "artist",
+           "begin": null,
+           "end": null,
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "direction": "backward"
+          },
+          {
+           "direction": "backward",
+           "end": null,
+           "begin": null,
+           "target-type": "artist",
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "attribute-values": {},
+           "type": "writer",
+           "ended": false,
+           "artist": {
+            "type": "Person",
+            "name": "Nick Rhodes",
+            "sort-name": "Rhodes, Nick",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "GB",
+            "disambiguation": "",
+            "id": "72935855-cfc9-4e02-a6cc-249fc9d09044"
+           },
+           "attributes": [],
+           "attribute-ids": {},
+           "source-credit": "",
+           "target-credit": ""
+          },
+          {
+           "source-credit": "",
+           "attribute-ids": {},
+           "attributes": [],
+           "target-credit": "",
+           "type": "writer",
+           "attribute-values": {},
+           "artist": {
+            "country": "GB",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Taylor, Andy",
+            "id": "bcdcfdc7-0b3c-4f95-9224-f4a8cd71bb61",
+            "disambiguation": "of Duran Duran",
+            "name": "Andy Taylor",
+            "type": "Person"
+           },
+           "ended": false,
+           "target-type": "artist",
+           "end": null,
+           "begin": null,
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "direction": "backward"
+          }
+         ],
+         "type": "Song",
+         "iswcs": [
+          "T-010.480.222-3"
+         ]
+        },
+        "ended": false,
+        "attributes": [],
+        "attribute-ids": {},
+        "source-credit": "",
+        "target-credit": "",
+        "direction": "forward",
+        "target-type": "work",
+        "begin": null,
+        "end": null,
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0"
+       }
+      ],
+      "artist-credit": [
+       {
+        "name": "Duran Duran",
+        "joinphrase": "",
+        "artist": {
+         "sort-name": "Duran Duran",
+         "country": "GB",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "id": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
+         "disambiguation": "English rock band",
+         "type": "Group",
+         "name": "Duran Duran"
+        }
+       }
+      ],
+      "id": "311eb9c2-6134-4ec0-afa0-f9da9cc2a3c6",
+      "disambiguation": "",
+      "first-release-date": "1983-03-26",
+      "genres": [
+       {
+        "name": "dance-pop",
+        "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+        "disambiguation": "",
+        "count": 1
+       },
+       {
+        "count": 1,
+        "name": "dance-rock",
+        "disambiguation": "",
+        "id": "2c473395-9cd5-465d-8d85-c308de067c04"
+       },
+       {
+        "name": "electronic",
+        "disambiguation": "",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "count": 1
+       },
+       {
+        "count": 4,
+        "id": "391a797d-50d7-46df-b380-39ccacd52a09",
+        "disambiguation": "",
+        "name": "new romantic"
+       }
+      ],
+      "aliases": [
+       {
+        "begin": null,
+        "end": null,
+        "locale": null,
+        "sort-name": "Is There Something I Should Know",
+        "type-id": null,
+        "name": "Is There Something I Should Know",
+        "type": null,
+        "ended": false,
+        "primary": null
+       },
+       {
+        "locale": null,
+        "end": null,
+        "begin": null,
+        "sort-name": "Is There Something I Should Know (2010 remastered version)",
+        "type-id": null,
+        "name": "Is There Something I Should Know (2010 remastered version)",
+        "type": null,
+        "primary": null,
+        "ended": false
+       },
+       {
+        "type-id": null,
+        "sort-name": "Is There Something I Should Know? (NOW 1, 1983)",
+        "begin": null,
+        "end": null,
+        "locale": null,
+        "ended": false,
+        "primary": null,
+        "name": "Is There Something I Should Know? (NOW 1, 1983)",
+        "type": null
+       },
+       {
+        "type": null,
+        "name": "Is There Something I Should Know? (short mix)",
+        "primary": null,
+        "ended": false,
+        "locale": null,
+        "end": null,
+        "begin": null,
+        "type-id": null,
+        "sort-name": "Is There Something I Should Know? (short mix)"
+       }
+      ],
+      "video": false,
+      "isrcs": [
+       "GBAYE1000055",
+       "GBAYE8300057"
+      ],
+      "tags": [
+       {
+        "count": 1,
+        "name": "adult alternative pop/rock"
+       },
+       {
+        "count": 3,
+        "name": "alternative"
+       },
+       {
+        "name": "alternative/indie rock",
+        "count": 1
+       },
+       {
+        "count": 1,
+        "name": "contemporary pop/rock"
+       }
+      ]
+     },
+     "title": "Is There Something I Should Know"
+    },
+    {
+     "position": 3,
+     "id": "359763b5-714b-4730-9460-9c082a5d0b6a",
+     "artist-credit": [
+      {
+       "name": "UB40",
+       "joinphrase": "",
+       "artist": {
+        "id": "7113aab7-628f-4050-ae49-dbecac110ca8",
+        "disambiguation": "",
+        "country": "GB",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "UB40",
+        "tags": [
+         {
+          "count": 3,
+          "name": "dub"
+         },
+         {
+          "count": 2,
+          "name": "pop"
+         },
+         {
+          "name": "pop reggae",
+          "count": 1
+         },
+         {
+          "name": "reggae",
+          "count": 9
+         }
+        ],
+        "type": "Group",
+        "name": "UB40",
+        "genres": [
+         {
+          "count": 3,
+          "name": "dub",
+          "disambiguation": "",
+          "id": "c72a5d45-75a8-4b35-9f48-67e49eb4b5e5"
+         },
+         {
+          "count": 2,
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop"
+         },
+         {
+          "id": "02b2f720-d06e-42ce-85c2-1ecd4191ffcb",
+          "disambiguation": "",
+          "name": "reggae",
+          "count": 9
+         },
+         {
+          "count": 1,
+          "disambiguation": "",
+          "id": "125f8214-a25d-4047-a96e-0fee46d30716",
+          "name": "reggae-pop"
+         }
+        ],
+        "aliases": [
+         {
+          "locale": null,
+          "begin": null,
+          "end": null,
+          "sort-name": "UB 40",
+          "type-id": null,
+          "type": null,
+          "name": "UB 40",
+          "primary": null,
+          "ended": false
+         }
+        ]
+       }
+      }
+     ],
+     "number": "3",
+     "recording": {
+      "aliases": [
+       {
+        "ended": false,
+        "primary": null,
+        "name": "Red Red Wine",
+        "type": null,
+        "type-id": null,
+        "sort-name": "Red Red Wine",
+        "end": null,
+        "begin": null,
+        "locale": null
+       },
+       {
+        "primary": null,
+        "ended": false,
+        "name": "Red Red Wine (2009 Digital Remaster)",
+        "type": null,
+        "type-id": null,
+        "sort-name": "Red Red Wine (2009 Digital Remaster)",
+        "locale": null,
+        "begin": null,
+        "end": null
+       },
+       {
+        "locale": null,
+        "begin": null,
+        "end": null,
+        "sort-name": "Red Red Wine (2009 Remaster)",
+        "type-id": null,
+        "type": null,
+        "name": "Red Red Wine (2009 Remaster)",
+        "primary": null,
+        "ended": false
+       },
+       {
+        "ended": false,
+        "primary": null,
+        "type": null,
+        "name": "Red Red Wine (2009 Remaster)",
+        "type-id": null,
+        "sort-name": "Red Red Wine (2009 Remaster)",
+        "end": null,
+        "begin": null,
+        "locale": null
+       }
+      ],
+      "video": false,
+      "isrcs": [
+       "GBAAA0300255",
+       "GBAAA0900868",
+       "GBDDH8300002",
+       "GBUM71306053"
+      ],
+      "genres": [
+       {
+        "name": "dub",
+        "id": "c72a5d45-75a8-4b35-9f48-67e49eb4b5e5",
+        "disambiguation": "",
+        "count": 3
+       },
+       {
+        "count": 2,
+        "name": "electronic",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "disambiguation": ""
+       },
+       {
+        "count": 2,
+        "name": "pop",
+        "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+        "disambiguation": ""
+       },
+       {
+        "name": "reggae",
+        "id": "02b2f720-d06e-42ce-85c2-1ecd4191ffcb",
+        "disambiguation": "",
+        "count": 10
+       }
+      ],
+      "first-release-date": "1983-08-08",
+      "tags": [
+       {
+        "count": 3,
+        "name": "dub"
+       },
+       {
+        "name": "electronic",
+        "count": 2
+       },
+       {
+        "count": 2,
+        "name": "pop"
+       },
+       {
+        "name": "reggae",
+        "count": 10
+       }
+      ],
+      "title": "Red Red Wine",
+      "relations": [
+       {
+        "direction": "backward",
+        "target-type": "artist",
+        "end": null,
+        "begin": null,
+        "type-id": "22661fb8-cdb7-4f67-8385-b2a8be6c9f0d",
+        "attribute-values": {},
+        "type": "arranger",
+        "ended": false,
+        "artist": {
+         "name": "UB40",
+         "type": "Group",
+         "disambiguation": "",
+         "id": "7113aab7-628f-4050-ae49-dbecac110ca8",
+         "sort-name": "UB40",
+         "country": "GB",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+        },
+        "attributes": [],
+        "attribute-ids": {},
+        "source-credit": "",
+        "target-credit": ""
+       },
+       {
+        "end": null,
+        "begin": null,
+        "target-type": "artist",
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "direction": "backward",
+        "attributes": [],
+        "attribute-ids": {},
+        "source-credit": "",
+        "target-credit": "",
+        "attribute-values": {},
+        "type": "producer",
+        "ended": false,
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "GB",
+         "sort-name": "Falconer, Ray “Pablo”",
+         "id": "d406f2db-0d3e-472a-9d71-799c329ca795",
+         "disambiguation": "",
+         "name": "Ray “Pablo” Falconer",
+         "type": "Person"
+        }
+       },
+       {
+        "attributes": [],
+        "attribute-ids": {},
+        "source-credit": "",
+        "target-credit": "",
+        "attribute-values": {},
+        "type": "phonographic copyright",
+        "ended": true,
+        "target-type": "label",
+        "begin": "1982",
+        "end": "1982",
+        "type-id": "fd841726-ba3c-47f7-af8e-6734ab6243ff",
+        "direction": "backward",
+        "label": {
+         "name": "Virgin Records Ltd.",
+         "type": "Holding",
+         "id": "cd3a9ac4-4408-4f72-b79f-d9a867c469ed",
+         "disambiguation": "not for release label use! for company relationships only",
+         "label-code": null,
+         "sort-name": "Virgin Records Ltd.",
+         "type-id": "43f31a62-97e4-36f6-9752-453c131b71ed"
+        }
+       },
+       {
+        "end": null,
+        "begin": null,
+        "target-type": "url",
+        "url": {
+         "id": "1ad35087-5a95-4430-bb94-dcd216b5c7bb",
+         "resource": "https://open.spotify.com/track/1vYew137WJ69SFp9oez3xm"
+        },
+        "type-id": "7e41ef12-a124-4324-afdb-fdbae687a89c",
+        "direction": "forward",
+        "source-credit": "",
+        "attribute-ids": {},
+        "attributes": [],
+        "target-credit": "",
+        "type": "free streaming",
+        "attribute-values": {},
+        "ended": false
+       },
+       {
+        "target-type": "work",
+        "end": null,
+        "begin": null,
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+        "direction": "forward",
+        "source-credit": "",
+        "attribute-ids": {
+         "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+        },
+        "attributes": [
+         "cover"
+        ],
+        "target-credit": "",
+        "work": {
+         "iswcs": [
+          "T-070.249.913-5"
+         ],
+         "type": "Song",
+         "id": "416b4214-ef27-3d84-8b2a-5d8eeed98e8e",
+         "attributes": [],
+         "disambiguation": "",
+         "relations": [
+          {
+           "target-credit": "",
+           "attributes": [],
+           "attribute-ids": {},
+           "source-credit": "",
+           "ended": true,
+           "artist": {
+            "name": "Neil Diamond",
+            "type": "Person",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Diamond, Neil",
+            "disambiguation": "",
+            "id": "a42d3fd5-55de-4206-86c3-4fbb5404018f"
+           },
+           "attribute-values": {},
+           "type": "composer",
+           "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+           "begin": "1967",
+           "end": "1967",
+           "target-type": "artist",
+           "direction": "backward"
+          },
+          {
+           "end": "1967",
+           "begin": "1967",
+           "target-type": "artist",
+           "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+           "direction": "backward",
+           "attribute-ids": {},
+           "attributes": [],
+           "source-credit": "",
+           "target-credit": "",
+           "attribute-values": {},
+           "type": "lyricist",
+           "ended": true,
+           "artist": {
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Diamond, Neil",
+            "id": "a42d3fd5-55de-4206-86c3-4fbb5404018f",
+            "disambiguation": "",
+            "name": "Neil Diamond",
+            "type": "Person"
+           }
+          },
+          {
+           "target-credit": "",
+           "attributes": [],
+           "attribute-ids": {},
+           "source-credit": "",
+           "ended": true,
+           "attribute-values": {},
+           "type": "publishing",
+           "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+           "target-type": "label",
+           "end": "1968",
+           "begin": "1968",
+           "direction": "backward",
+           "label": {
+            "sort-name": "Bang Records",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "id": "e4173dcc-2a32-48ac-89b3-13e83472f26a",
+            "disambiguation": "Bert Berns label",
+            "label-code": 125,
+            "name": "Bang Records",
+            "type": "Original Production"
+           }
+          }
+         ],
+         "title": "Red Red Wine",
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "languages": [
+          "eng"
+         ],
+         "language": "eng"
+        },
+        "type": "performance",
+        "attribute-values": {},
+        "ended": false
+       }
+      ],
+      "length": 182000,
+      "disambiguation": "7″ version",
+      "id": "fa7a5f63-2129-431e-8385-aa437d09bea2",
+      "artist-credit": [
+       {
+        "artist": {
+         "name": "UB40",
+         "type": "Group",
+         "disambiguation": "",
+         "id": "7113aab7-628f-4050-ae49-dbecac110ca8",
+         "country": "GB",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "sort-name": "UB40"
+        },
+        "joinphrase": "",
+        "name": "UB40"
+       }
+      ]
+     },
+     "length": 179000,
+     "title": "Red Red Wine"
+    }
+   ],
+   "track-count": 16,
+   "discs": [
+    {
+     "offsets": [
+      150,
+      13028,
+      31722,
+      45147,
+      62845,
+      76795,
+      95721,
+      113512,
+      133614,
+      150972,
+      163358,
+      180086,
+      196156,
+      212888,
+      229925,
+      251329
+     ],
+     "sectors": 270265,
+     "id": "Zfdw.HH2Dyfeo70_PnFoAzKtgEA-",
+     "offset-count": 16
+    }
+   ],
+   "track-offset": 0
+  },
+  {
+   "track-count": 14,
+   "discs": [
+    {
+     "offset-count": 14,
+     "id": "0jxZYvCBRZAfszZOf_kpFzV8rGM-",
+     "offsets": [
+      150,
+      18009,
+      36824,
+      53253,
+      69928,
+      89052,
+      104430,
+      120161,
+      133671,
+      151444,
+      171245,
+      187690,
+      209450,
+      225096
+     ],
+     "sectors": 247247
+    }
+   ],
+   "tracks": [
+    {
+     "number": "1",
+     "artist-credit": [
+      {
+       "name": "New Edition",
+       "joinphrase": "",
+       "artist": {
+        "type": "Group",
+        "name": "New Edition",
+        "tags": [
+         {
+          "count": 1,
+          "name": "2008 universal fire victim"
+         },
+         {
+          "count": 1,
+          "name": "boy band"
+         },
+         {
+          "count": 1,
+          "name": "contemporary r&b"
+         },
+         {
+          "count": 1,
+          "name": "new jack swing"
+         }
+        ],
+        "aliases": [],
+        "genres": [
+         {
+          "count": 1,
+          "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+          "disambiguation": "",
+          "name": "contemporary r&b"
+         },
+         {
+          "name": "new jack swing",
+          "disambiguation": "",
+          "id": "dd497eac-e915-49a9-b1e4-482792acf397",
+          "count": 1
+         },
+         {
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "count": 2
+         },
+         {
+          "count": 1,
+          "disambiguation": "",
+          "id": "64e0bd76-822f-4549-a6fe-9858561282d1",
+          "name": "pop soul"
+         }
+        ],
+        "id": "b4b94b15-1535-48a4-aa1e-d44e55d75bc5",
+        "disambiguation": "",
+        "sort-name": "New Edition",
+        "country": "US",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+       }
+      }
+     ],
+     "id": "0bdfcf84-1590-4b18-82b8-f6dfc3b94ba9",
+     "position": 1,
+     "length": 238120,
+     "recording": {
+      "tags": [
+       {
+        "name": "bubblegum pop",
+        "count": 1
+       },
+       {
+        "count": 1,
+        "name": "contemporary r&b"
+       },
+       {
+        "count": 1,
+        "name": "dance-pop"
+       },
+       {
+        "name": "pop",
+        "count": 3
+       }
+      ],
+      "isrcs": [
+       "GBAAP1200057",
+       "GBAAP8300280",
+       "USMC19136529",
+       "USWR39100014"
+      ],
+      "aliases": [],
+      "video": false,
+      "first-release-date": "1983-03-15",
+      "genres": [
+       {
+        "count": 1,
+        "disambiguation": "",
+        "id": "6fd83b83-9b63-47fa-a208-5f9e762f40ab",
+        "name": "bubblegum pop"
+       },
+       {
+        "count": 1,
+        "name": "contemporary r&b",
+        "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+        "disambiguation": ""
+       },
+       {
+        "count": 1,
+        "name": "dance-pop",
+        "disambiguation": "",
+        "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8"
+       },
+       {
+        "count": 3,
+        "name": "pop",
+        "disambiguation": "",
+        "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+       }
+      ],
+      "artist-credit": [
+       {
+        "artist": {
+         "sort-name": "New Edition",
+         "country": "US",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "id": "b4b94b15-1535-48a4-aa1e-d44e55d75bc5",
+         "disambiguation": "",
+         "name": "New Edition",
+         "type": "Group"
+        },
+        "joinphrase": "",
+        "name": "New Edition"
+       }
+      ],
+      "id": "ceda1798-b60e-43d8-9942-66da50d17b46",
+      "disambiguation": "",
+      "title": "Candy Girl",
+      "relations": [
+       {
+        "source-credit": "",
+        "attribute-ids": {
+         "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+        },
+        "attributes": [
+         "percussion"
+        ],
+        "attribute-credits": {},
+        "target-credit": "",
+        "type": "instrument",
+        "attribute-values": {},
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "US",
+         "sort-name": "Johnson, Bashiri",
+         "id": "9de5f7ef-057c-40f2-9215-3ee40b53cb69",
+         "disambiguation": "",
+         "type": "Person",
+         "name": "Bashiri Johnson"
+        },
+        "ended": false,
+        "end": null,
+        "begin": null,
+        "target-type": "artist",
+        "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+        "direction": "backward"
+       },
+       {
+        "direction": "backward",
+        "target-type": "artist",
+        "end": null,
+        "begin": null,
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "attribute-values": {},
+        "type": "producer",
+        "ended": false,
+        "artist": {
+         "disambiguation": "American record producer and DJ",
+         "id": "6b6c5ce7-7a49-463a-ac9f-ba97c953a77e",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "US",
+         "sort-name": "Baker, Arthur",
+         "type": "Person",
+         "name": "Arthur Baker"
+        },
+        "attributes": [
+         "co"
+        ],
+        "attribute-ids": {
+         "co": "ac6f6b4c-a4ec-4483-a04e-9f425a914573"
+        },
+        "source-credit": "",
+        "target-credit": ""
+       },
+       {
+        "begin": "1983",
+        "end": "1983",
+        "target-type": "label",
+        "type-id": "fd841726-ba3c-47f7-af8e-6734ab6243ff",
+        "label": {
+         "name": "London Records Ltd.",
+         "type": null,
+         "id": "7a70303c-d148-4860-9e6a-0b0259693bf5",
+         "disambiguation": "not release label",
+         "label-code": null,
+         "sort-name": "London Records Ltd.",
+         "type-id": null
+        },
+        "direction": "backward",
+        "attribute-ids": {},
+        "attributes": [],
+        "source-credit": "",
+        "target-credit": "",
+        "attribute-values": {},
+        "type": "phonographic copyright",
+        "ended": true
+       },
+       {
+        "source-credit": "",
+        "attributes": [
+         "number"
+        ],
+        "attribute-ids": {
+         "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+        },
+        "target-credit": "",
+        "ordering-key": 350,
+        "type": "part of",
+        "attribute-values": {
+         "number": "350"
+        },
+        "ended": false,
+        "begin": null,
+        "end": null,
+        "series": {
+         "type-id": "dd968243-7128-30a2-81f0-79843430a8e2",
+         "id": "dab4c8c7-6602-4c44-ac09-0ed4b6103e4d",
+         "disambiguation": "as of October 2023",
+         "type": "Recording series",
+         "name": "Billboard: The 500 Best Pop Songs"
+        },
+        "target-type": "series",
+        "type-id": "ea6f0698-6782-30d6-b16d-293081b66774",
+        "direction": "forward"
+       },
+       {
+        "ended": false,
+        "attribute-values": {},
+        "work": {
+         "type": "Song",
+         "iswcs": [
+          "T-070.887.235-8"
+         ],
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "languages": [
+          "eng"
+         ],
+         "language": "eng",
+         "relations": [
+          {
+           "attributes": [],
+           "attribute-ids": {},
+           "source-credit": "",
+           "target-credit": "",
+           "attribute-values": {},
+           "type": "composer",
+           "ended": false,
+           "artist": {
+            "sort-name": "Jonzun, Michael",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "id": "a3fd0fbb-34be-491b-8070-e9fe8ed91f15",
+            "disambiguation": "",
+            "name": "Michael Jonzun",
+            "type": "Person"
+           },
+           "end": null,
+           "begin": null,
+           "target-type": "artist",
+           "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+           "direction": "backward"
+          },
+          {
+           "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+           "target-type": "artist",
+           "begin": null,
+           "end": null,
+           "direction": "backward",
+           "target-credit": "",
+           "attributes": [],
+           "attribute-ids": {},
+           "source-credit": "",
+           "ended": false,
+           "artist": {
+            "type": "Person",
+            "name": "Maurice Starr",
+            "id": "77f1812a-b6ae-4935-b834-33c7016aabd8",
+            "disambiguation": "",
+            "sort-name": "Starr, Maurice",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US"
+           },
+           "attribute-values": {},
+           "type": "composer"
+          },
+          {
+           "end": null,
+           "begin": null,
+           "target-type": "label",
+           "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+           "label": {
+            "label-code": null,
+            "disambiguation": "do not use as a release label!",
+            "id": "45a4e6b3-2567-4e7d-b872-a412cdf2d0ae",
+            "sort-name": "EMI Music Publishing",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "type": "Publisher",
+            "name": "EMI Music Publishing"
+           },
+           "direction": "backward",
+           "attribute-ids": {},
+           "attributes": [],
+           "source-credit": "",
+           "target-credit": "",
+           "attribute-values": {},
+           "type": "publishing",
+           "ended": false
+          }
+         ],
+         "title": "Candy Girl",
+         "id": "9b8d43be-58ac-3d7d-915d-4222eb6e2493",
+         "attributes": [],
+         "disambiguation": ""
+        },
+        "type": "performance",
+        "target-credit": "",
+        "attributes": [],
+        "attribute-ids": {},
+        "source-credit": "",
+        "direction": "forward",
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+        "target-type": "work",
+        "end": null,
+        "begin": null
+       }
+      ],
+      "length": 235826
+     },
+     "title": "Candy Girl"
+    },
+    {
+     "artist-credit": [
+      {
+       "artist": {
+        "tags": [
+         {
+          "count": 1,
+          "name": "british"
+         },
+         {
+          "count": 2,
+          "name": "english"
+         },
+         {
+          "name": "new wave",
+          "count": 3
+         },
+         {
+          "name": "pop rock",
+          "count": 2
+         }
+        ],
+        "type": "Group",
+        "name": "Kajagoogoo",
+        "genres": [
+         {
+          "name": "new wave",
+          "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb",
+          "disambiguation": "",
+          "count": 3
+         },
+         {
+          "name": "pop rock",
+          "disambiguation": "",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "count": 2
+         },
+         {
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock"
+         }
+        ],
+        "aliases": [
+         {
+          "name": "Kaja",
+          "type": null,
+          "primary": null,
+          "ended": false,
+          "locale": null,
+          "begin": null,
+          "end": null,
+          "type-id": null,
+          "sort-name": "Kaja"
+         },
+         {
+          "locale": null,
+          "end": null,
+          "begin": null,
+          "type-id": null,
+          "sort-name": "Kanjagoogoo",
+          "type": null,
+          "name": "Kanjagoogoo",
+          "primary": null,
+          "ended": false
+         }
+        ],
+        "id": "7bc51021-6a84-4a04-ada3-0541615a97bc",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "sort-name": "Kajagoogoo"
+       },
+       "name": "Kajagoogoo",
+       "joinphrase": ""
+      }
+     ],
+     "number": "2",
+     "id": "63c52f33-2a6e-41d0-a89b-eca5b14e266c",
+     "position": 2,
+     "title": "Big Apple (Metro mix)",
+     "length": 250866,
+     "recording": {
+      "relations": [
+       {
+        "type": "mastering",
+        "attribute-values": {},
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "GB",
+         "sort-name": "Vicary, Gordon",
+         "id": "b08be17d-0d9a-4451-b4a0-de5ddbf035e9",
+         "disambiguation": "",
+         "name": "Gordon Vicary",
+         "type": "Person"
+        },
+        "ended": false,
+        "source-credit": "",
+        "attributes": [],
+        "attribute-ids": {},
+        "target-credit": "",
+        "direction": "backward",
+        "target-type": "artist",
+        "end": null,
+        "begin": null,
+        "type-id": "30adb2d7-dbcc-4393-9230-2098510ce3c1"
+       },
+       {
+        "target-type": "work",
+        "end": null,
+        "begin": null,
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+        "direction": "forward",
+        "attributes": [],
+        "attribute-ids": {},
+        "source-credit": "",
+        "target-credit": "",
+        "attribute-values": {},
+        "type": "performance",
+        "work": {
+         "attributes": [],
+         "id": "35fdd166-b947-4275-9bfb-657d2b055a00",
+         "disambiguation": "",
+         "relations": [
+          {
+           "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+           "end": null,
+           "begin": null,
+           "target-type": "artist",
+           "direction": "backward",
+           "target-credit": "",
+           "attribute-ids": {},
+           "attributes": [],
+           "source-credit": "",
+           "ended": false,
+           "artist": {
+            "name": "Steve Askew",
+            "type": "Person",
+            "disambiguation": "",
+            "id": "d89e6fa4-4448-460b-8f02-fd95123b3004",
+            "sort-name": "Askew, Steve",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "GB"
+           },
+           "attribute-values": {},
+           "type": "composer"
+          },
+          {
+           "attribute-values": {},
+           "type": "composer",
+           "ended": false,
+           "artist": {
+            "name": "Nick Beggs",
+            "type": "Person",
+            "id": "25110762-0ee7-45fd-b595-4fe9aab6b8de",
+            "disambiguation": "",
+            "sort-name": "Beggs, Nick",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "GB"
+           },
+           "attributes": [],
+           "attribute-ids": {},
+           "source-credit": "",
+           "target-credit": "",
+           "direction": "backward",
+           "target-type": "artist",
+           "end": null,
+           "begin": null,
+           "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f"
+          },
+          {
+           "direction": "backward",
+           "target-type": "artist",
+           "end": null,
+           "begin": null,
+           "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+           "attribute-values": {},
+           "type": "composer",
+           "ended": false,
+           "artist": {
+            "type": "Person",
+            "name": "Limahl",
+            "id": "ba147912-dc39-416f-9e4b-09765d671674",
+            "disambiguation": "",
+            "sort-name": "Limahl",
+            "country": "GB",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+           },
+           "attributes": [],
+           "attribute-ids": {},
+           "source-credit": "",
+           "target-credit": ""
+          }
+         ],
+         "title": "Big Apple",
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "language": "eng",
+         "languages": [
+          "eng"
+         ],
+         "iswcs": [
+          "T-011.291.159-7"
+         ],
+         "type": "Song"
+        },
+        "ended": false
+       }
+      ],
+      "title": "Big Apple",
+      "length": 250866,
+      "disambiguation": "",
+      "id": "08cb31bb-5ecd-4a53-b62b-c14e407db393",
+      "artist-credit": [
+       {
+        "joinphrase": "",
+        "name": "Kajagoogoo",
+        "artist": {
+         "id": "7bc51021-6a84-4a04-ada3-0541615a97bc",
+         "disambiguation": "",
+         "country": "GB",
+         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+         "sort-name": "Kajagoogoo",
+         "name": "Kajagoogoo",
+         "type": "Group"
+        }
+       }
+      ],
+      "aliases": [
+       {
+        "type-id": null,
+        "sort-name": "Big Apple (Metro mix)",
+        "locale": null,
+        "begin": null,
+        "end": null,
+        "primary": null,
+        "ended": false,
+        "name": "Big Apple (Metro mix)",
+        "type": null
+       }
+      ],
+      "video": false,
+      "isrcs": [
+       "GBAYE0901457",
+       "GBAYE8300089"
+      ],
+      "genres": [
+       {
+        "count": 2,
+        "name": "new wave",
+        "disambiguation": "",
+        "id": "56407f9d-3398-4bf3-bbbd-ea372fa5adeb"
+       },
+       {
+        "count": 3,
+        "name": "pop",
+        "disambiguation": "",
+        "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+       },
+       {
+        "name": "synth-pop",
+        "disambiguation": "",
+        "id": "988e91a3-3341-416d-b7f8-7dbef6848dac",
+        "count": 1
+       }
+      ],
+      "first-release-date": "1983-11-28",
+      "tags": [
+       {
+        "name": "new wave",
+        "count": 2
+       },
+       {
+        "name": "pop",
+        "count": 3
+       },
+       {
+        "count": 1,
+        "name": "synth-pop"
+       }
+      ]
+     }
+    },
+    {
+     "title": "Let’s Stay Together",
+     "recording": {
+      "aliases": [
+       {
+        "name": "Let's Stay Together",
+        "type": null,
+        "ended": false,
+        "primary": null,
+        "begin": null,
+        "end": null,
+        "locale": null,
+        "sort-name": "Let's Stay Together",
+        "type-id": null
+       },
+       {
+        "type": null,
+        "name": "Let’s Stay Together (single edit, 2023 remaster)",
+        "primary": null,
+        "ended": false,
+        "locale": null,
+        "begin": null,
+        "end": null,
+        "type-id": null,
+        "sort-name": "Let’s Stay Together (single edit, 2023 remaster)"
+       },
+       {
+        "primary": null,
+        "ended": false,
+        "type": null,
+        "name": "Let’s Stay Together (single version)",
+        "sort-name": "Let’s Stay Together (single version)",
+        "type-id": null,
+        "locale": null,
+        "end": null,
+        "begin": null
+       }
+      ],
+      "video": false,
+      "isrcs": [
+       "GBAYE2401252",
+       "USCA28400006",
+       "USCA29100247"
+      ],
+      "first-release-date": "1983-11-28",
+      "genres": [
+       {
+        "count": 1,
+        "name": "electronic",
+        "disambiguation": "",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+       },
+       {
+        "disambiguation": "",
+        "id": "fe4ba6a1-9873-4fd0-a12b-a70c81818514",
+        "name": "funk",
+        "count": 1
+       },
+       {
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "count": 1
+       },
+       {
+        "count": 1,
+        "disambiguation": "",
+        "id": "0c44a04f-f7ba-46a0-9dbe-1a21359cfa1e",
+        "name": "motown"
+       }
+      ],
+      "tags": [
+       {
+        "name": "adult contemporary",
+        "count": 1
+       },
+       {
+        "name": "contemporary pop/rock",
+        "count": 1
+       },
+       {
+        "count": 1,
+        "name": "electronic"
+       },
+       {
+        "count": 1,
+        "name": "funk"
+       }
+      ],
+      "title": "Let’s Stay Together",
+      "relations": [
+       {
+        "type-id": "5dcc52af-7064-4051-8d62-7d80f4c3c907",
+        "end": null,
+        "begin": null,
+        "target-type": "artist",
+        "direction": "backward",
+        "target-credit": "",
+        "attributes": [],
+        "attribute-ids": {},
+        "source-credit": "",
+        "ended": false,
+        "artist": {
+         "type": "Person",
+         "name": "Walter Samuel",
+         "id": "74d0a88c-5c22-4c9e-8a65-427483dadefc",
+         "disambiguation": "engineer",
+         "sort-name": "Samuel, Walter",
+         "country": "GB",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "attribute-values": {},
+        "type": "engineer"
+       },
+       {
+        "ended": false,
+        "artist": {
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "country": "GB",
+         "sort-name": "Walsh, Greg",
+         "id": "8fd595ba-89d6-4beb-a818-36ce5d2ff4cd",
+         "disambiguation": "producer and engineer",
+         "name": "Greg Walsh",
+         "type": "Person"
+        },
+        "attribute-values": {},
+        "type": "producer",
+        "target-credit": "",
+        "attributes": [],
+        "attribute-ids": {},
+        "source-credit": "",
+        "direction": "backward",
+        "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+        "begin": null,
+        "end": null,
+        "target-type": "artist"
+       },
+       {
+        "direction": "backward",
+        "label": {
+         "sort-name": "Capitol Records, Inc.",
+         "type-id": "43f31a62-97e4-36f6-9752-453c131b71ed",
+         "disambiguation": "not for release label use; US company behind the “Capitol Records” imprint",
+         "id": "e63fbdc9-1547-4ffa-96d1-c4e887b6af28",
+         "label-code": null,
+         "name": "Capitol Records, Inc.",
+         "type": "Holding"
+        },
+        "target-type": "label",
+        "begin": "1984",
+        "end": "1984",
+        "type-id": "fd841726-ba3c-47f7-af8e-6734ab6243ff",
+        "type": "phonographic copyright",
+        "attribute-values": {},
+        "ended": true,
+        "source-credit": "",
+        "attributes": [],
+        "attribute-ids": {},
+        "target-credit": ""
+       },
+       {
+        "attribute-values": {},
+        "type": "performance",
+        "work": {
+         "iswcs": [
+          "T-042.107.798-6",
+          "T-070.241.666-7"
+         ],
+         "type": "Song",
+         "title": "Let’s Stay Together",
+         "relations": [
+          {
+           "type": "writer",
+           "attribute-values": {},
+           "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Green, Al",
+            "id": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+            "disambiguation": "US soul singer, songwriter, pastor and record producer",
+            "name": "Al Green",
+            "type": "Person"
+           },
+           "ended": false,
+           "source-credit": "",
+           "attribute-ids": {},
+           "attributes": [],
+           "target-credit": "",
+           "direction": "backward",
+           "end": null,
+           "begin": null,
+           "target-type": "artist",
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68"
+          },
+          {
+           "direction": "backward",
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "target-type": "artist",
+           "begin": null,
+           "end": null,
+           "artist": {
+            "id": "1a3be88e-ace6-47e2-b092-66f9314b7e35",
+            "disambiguation": "Booker T & The MGs drummer",
+            "sort-name": "Jackson, Al, Jr.",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "type": "Person",
+            "name": "Al Jackson, Jr."
+           },
+           "ended": false,
+           "type": "writer",
+           "attribute-values": {},
+           "target-credit": "Al Jackson, Jr.",
+           "source-credit": "",
+           "attributes": [],
+           "attribute-ids": {}
+          },
+          {
+           "target-credit": "Willie Mitchell",
+           "source-credit": "",
+           "attribute-ids": {},
+           "attributes": [],
+           "artist": {
+            "name": "Willie Mitchell",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "sort-name": "Mitchell, Willie",
+            "id": "60d111b4-5541-4ac0-847c-4a81201695bc",
+            "disambiguation": "US soul/R&B & funk producer, trumpeter & singer"
+           },
+           "ended": false,
+           "type": "writer",
+           "attribute-values": {},
+           "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+           "begin": null,
+           "end": null,
+           "target-type": "artist",
+           "direction": "backward"
+          }
+         ],
+         "type-id": "f061270a-2fd6-32f1-a641-f0f8676d14e6",
+         "language": "eng",
+         "languages": [
+          "eng"
+         ],
+         "disambiguation": "",
+         "id": "cd7478c8-7352-33f3-8895-54ec9f4826c1",
+         "attributes": []
+        },
+        "ended": false,
+        "attribute-ids": {
+         "cover": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113"
+        },
+        "attributes": [
+         "cover"
+        ],
+        "source-credit": "",
+        "target-credit": "",
+        "direction": "forward",
+        "begin": null,
+        "end": null,
+        "target-type": "work",
+        "type-id": "a3005666-a872-32c3-ad06-98af558e99b0"
+       }
+      ],
+      "length": 219000,
+      "artist-credit": [
+       {
+        "artist": {
+         "name": "Tina Turner",
+         "type": "Person",
+         "country": "CH",
+         "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+         "sort-name": "Turner, Tina",
+         "id": "9072df14-b61e-42e2-b4f4-6bbb7fdb5586",
+         "disambiguation": ""
+        },
+        "name": "Tina Turner",
+        "joinphrase": ""
+       }
+      ],
+      "id": "4abdd671-d2f0-42cf-b350-6e7b72cf12a0",
+      "disambiguation": ""
+     },
+     "length": 219053,
+     "position": 3,
+     "id": "e2be1b3c-2d14-404b-8b0c-490dbe95c59c",
+     "artist-credit": [
+      {
+       "joinphrase": "",
+       "name": "Tina Turner",
+       "artist": {
+        "aliases": [
+         {
+          "sort-name": "Bullock, Anna Mae",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "begin": null,
+          "end": null,
+          "locale": "en",
+          "ended": false,
+          "primary": false,
+          "type": "Legal name",
+          "name": "Anna Mae Bullock"
+         },
+         {
+          "ended": false,
+          "primary": null,
+          "name": "Little Ann",
+          "type": null,
+          "sort-name": "Ann, Little",
+          "type-id": null,
+          "end": null,
+          "begin": null,
+          "locale": null
+         },
+         {
+          "primary": null,
+          "ended": false,
+          "type": null,
+          "name": "T.Turner",
+          "type-id": null,
+          "sort-name": "Turner, T.",
+          "locale": null,
+          "begin": null,
+          "end": null
+         },
+         {
+          "type": null,
+          "name": "Tina Tor",
+          "primary": null,
+          "ended": false,
+          "locale": null,
+          "begin": null,
+          "end": null,
+          "type-id": null,
+          "sort-name": "Tor, Tina"
+         }
+        ],
+        "genres": [
+         {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "name": "pop",
+          "count": 4
+         },
+         {
+          "name": "pop rock",
+          "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+          "disambiguation": "",
+          "count": 3
+         },
+         {
+          "count": 3,
+          "disambiguation": "",
+          "id": "64e0bd76-822f-4549-a6fe-9858561282d1",
+          "name": "pop soul"
+         },
+         {
+          "count": 3,
+          "name": "rock",
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+         }
+        ],
+        "type": "Person",
+        "name": "Tina Turner",
+        "tags": [
+         {
+          "name": "adult contemporary",
+          "count": 1
+         },
+         {
+          "name": "box set",
+          "count": 1
+         },
+         {
+          "name": "classic pop and rock",
+          "count": 1
+         },
+         {
+          "count": 1,
+          "name": "english"
+         }
+        ],
+        "sort-name": "Turner, Tina",
+        "country": "CH",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9072df14-b61e-42e2-b4f4-6bbb7fdb5586",
+        "disambiguation": ""
+       }
+      }
+     ],
+     "number": "3"
+    }
+   ],
+   "track-offset": 0,
+   "title": "",
+   "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+   "id": "975486b0-a6f4-3ee7-81f5-bb8898646c8a",
+   "position": 2,
+   "format": "CD"
+  }
+ ],
+ "aliases": [],
+ "quality": "normal",
+ "packaging": "Jewel Case",
+ "asin": null,
+ "country": "GB",
+ "text-representation": {
+  "script": "Latn",
+  "language": "eng"
+ },
+ "disambiguation": "",
+ "barcode": "190758608020",
+ "release-events": [
+  {
+   "area": {
+    "sort-name": "United Kingdom",
+    "type-id": null,
+    "disambiguation": "",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-codes": [
+     "GB"
+    ],
+    "type": null,
+    "name": "United Kingdom"
+   },
+   "date": "2018-07-20"
+  }
+ ],
+ "date": "2018-07-20",
+ "release-group": {
+  "first-release-date": "1983-11-28",
+  "genres": [
+   {
+    "count": 2,
+    "name": "arena rock",
+    "id": "26af3760-750a-4b5e-a699-78c87697585a",
+    "disambiguation": ""
+   },
+   {
+    "count": 2,
+    "id": "fe12b346-a10e-450f-bf81-fa20894b5ea2",
+    "disambiguation": "",
+    "name": "blues"
+   },
+   {
+    "count": 1,
+    "name": "classic rock",
+    "disambiguation": "",
+    "id": "93244085-20e5-4f16-9067-1d19143b3810"
+   },
+   {
+    "disambiguation": "",
+    "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+    "name": "electro",
+    "count": 2
+   }
+  ],
+  "relations": [
+   {
+    "end": null,
+    "begin": null,
+    "series": {
+     "name": "Now That’s What I Call Music!",
+     "type": "Release group series",
+     "id": "4b5f2897-9b05-4799-b895-6620e27143e7",
+     "disambiguation": "UK",
+     "type-id": "4c1c4949-7b6c-3a2d-9d54-a50a27e4fa77"
+    },
+    "target-type": "series",
+    "type-id": "01018437-91d8-36b9-bf89-3f885d53b5bd",
+    "direction": "forward",
+    "source-credit": "",
+    "attributes": [
+     "number"
+    ],
+    "attribute-ids": {
+     "number": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a"
+    },
+    "target-credit": "",
+    "ordering-key": 1,
+    "type": "part of",
+    "attribute-values": {
+     "number": "1"
+    },
+    "ended": false
+   },
+   {
+    "direction": "forward",
+    "target-type": "url",
+    "begin": null,
+    "end": null,
+    "type-id": "a50a1d20-2b20-4d2c-9a29-eb771dd78386",
+    "url": {
+     "id": "aa92d0f9-fe4b-42a6-a385-8d3d5927ed51",
+     "resource": "https://www.allmusic.com/album/mw0001007801"
+    },
+    "attribute-values": {},
+    "type": "allmusic",
+    "ended": false,
+    "attributes": [],
+    "attribute-ids": {},
+    "source-credit": "",
+    "target-credit": ""
+   },
+   {
+    "end": null,
+    "begin": null,
+    "target-type": "url",
+    "url": {
+     "id": "d0d400b3-af00-4577-8c9e-e75e2a985759",
+     "resource": "https://www.discogs.com/master/72065"
+    },
+    "type-id": "99e550f3-5ab4-3110-b5b9-fe01d970b126",
+    "direction": "forward",
+    "attributes": [],
+    "attribute-ids": {},
+    "source-credit": "",
+    "target-credit": "",
+    "attribute-values": {},
+    "type": "discogs",
+    "ended": false
+   },
+   {
+    "direction": "forward",
+    "begin": null,
+    "end": null,
+    "target-type": "url",
+    "url": {
+     "id": "72d09998-6143-4d3e-84a7-cd94628a8c22",
+     "resource": "https://www.nowmusic.com/albums/now-thats-what-i-call-music/"
+    },
+    "type-id": "87d97dfc-3206-42fd-89d5-99593d5f1297",
+    "attribute-values": {},
+    "type": "official homepage",
+    "ended": false,
+    "attribute-ids": {},
+    "attributes": [],
+    "source-credit": "",
+    "target-credit": ""
+   },
+   {
+    "attributes": [],
+    "attribute-ids": {},
+    "source-credit": "",
+    "target-credit": "",
+    "attribute-values": {},
+    "type": "wikidata",
+    "ended": false,
+    "begin": null,
+    "end": null,
+    "target-type": "url",
+    "url": {
+     "id": "7e017bfe-5fdf-46e2-8334-43e7bce574ee",
+     "resource": "https://www.wikidata.org/wiki/Q7065737"
+    },
+    "type-id": "b988d08c-5d86-4a57-9557-c83b399e3580",
+    "direction": "forward"
+   }
+  ],
+  "id": "bcd7ac33-7a46-346d-b2f2-72dcf51012af",
+  "aliases": [],
+  "secondary-type-ids": [
+   "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+  ],
+  "tags": [
+   {
+    "count": 2,
+    "name": "arena rock"
+   },
+   {
+    "count": 2,
+    "name": "blues"
+   },
+   {
+    "name": "classic rock",
+    "count": 1
+   },
+   {
+    "count": 2,
+    "name": "electro"
+   }
+  ],
+  "title": "Now That’s What I Call Music",
+  "artist-credit": [
+   {
+    "artist": {
+     "aliases": [
+      {
+       "sort-name": "(Karaoke) Various Artists",
+       "type-id": null,
+       "locale": "en",
+       "end": null,
+       "begin": null,
+       "primary": false,
+       "ended": false,
+       "name": "(Karaoke) Various Artists",
+       "type": null
+      },
+      {
+       "type": "Search hint",
+       "name": "(V.A.)",
+       "primary": null,
+       "ended": false,
+       "locale": null,
+       "end": null,
+       "begin": null,
+       "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+       "sort-name": "(V.A.)"
+      },
+      {
+       "type-id": null,
+       "sort-name": "(various)",
+       "end": null,
+       "begin": null,
+       "locale": "en",
+       "ended": false,
+       "primary": false,
+       "name": "(various)",
+       "type": null
+      },
+      {
+       "primary": null,
+       "ended": false,
+       "type": null,
+       "name": "30 Vermont Artists",
+       "sort-name": "30 Vermont Artists",
+       "type-id": null,
+       "locale": null,
+       "begin": null,
+       "end": null
+      }
+     ],
+     "name": "Various Artists",
+     "type": "Other",
+     "country": null,
+     "type-id": "ac897045-5043-3294-969b-187360e45d86",
+     "sort-name": "Various Artists",
+     "disambiguation": "add compilations to this artist",
+     "id": "89ad4ac3-39f7-470e-963a-56509c546377"
+    },
+    "name": "Various Artists",
+    "joinphrase": ""
+   }
+  ],
+  "disambiguation": "UK",
+  "secondary-types": [
+   "Compilation"
+  ],
+  "primary-type": "Album",
+  "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+ },
+ "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+ "relations": [],
+ "annotation": null,
+ "id": "3b7a8210-85f7-4413-98db-479bc7c0f0aa",
+ "status": "Official"
+}

@@ -1,0 +1,125 @@
+{
+ "id": 249504,
+ "title": "Never Gonna Give You Up",
+ "artists_sort": "Rick Astley",
+ "released": "1987-07-00",
+ "year": 1987,
+ "country": "UK",
+ "master_id": 96559,
+ "genres": [
+  "Electronic",
+  "Pop"
+ ],
+ "styles": [
+  "Euro-Disco"
+ ],
+ "artists": [
+  {
+   "name": "Rick Astley",
+   "anv": "",
+   "join": "",
+   "id": 72872,
+   "role": "",
+   "tracks": ""
+  }
+ ],
+ "labels": [
+  {
+   "name": "RCA",
+   "catno": "PB 41447",
+   "id": 895
+  }
+ ],
+ "formats": [
+  {
+   "name": "Vinyl",
+   "qty": "1",
+   "descriptions": [
+    "7\"",
+    "45 RPM",
+    "Single",
+    "Stereo"
+   ]
+  }
+ ],
+ "identifiers": [
+  {
+   "type": "Barcode",
+   "value": "5012394144777"
+  }
+ ],
+ "extraartists": [
+  {
+   "name": "Me Company",
+   "anv": "Me Co",
+   "join": "",
+   "id": 547352,
+   "role": "Design",
+   "tracks": ""
+  },
+  {
+   "name": "Mark McGuire",
+   "anv": "",
+   "join": "",
+   "id": 78275,
+   "role": "Engineer",
+   "tracks": ""
+  },
+  {
+   "name": "Mike Duffy",
+   "anv": "",
+   "join": "",
+   "id": 95941,
+   "role": "Engineer",
+   "tracks": ""
+  },
+  {
+   "name": "Miles Showell",
+   "anv": "MS",
+   "join": "",
+   "id": 383408,
+   "role": "Lacquer Cut By",
+   "tracks": ""
+  },
+  {
+   "name": "Pete Hammond",
+   "anv": "Mixmaster Pete Hammond",
+   "join": "",
+   "id": 34067,
+   "role": "Mixed By",
+   "tracks": ""
+  },
+  {
+   "name": "Stock, Aitken & Waterman",
+   "anv": "Stock / Aitken / Waterman",
+   "join": "",
+   "id": 20942,
+   "role": "Producer, Written-By",
+   "tracks": ""
+  }
+ ],
+ "tracklist": [
+  {
+   "position": "A",
+   "type_": "track",
+   "title": "Never Gonna Give You Up",
+   "duration": "3:32"
+  },
+  {
+   "position": "B",
+   "type_": "track",
+   "title": "Never Gonna Give You Up (Instrumental)",
+   "duration": "3:30"
+  }
+ ],
+ "images": [
+  {
+   "uri": "https://i.discogs.com/-DPFA5hKT8i91jnjn4rLB1zSiuUBFTrGWspu1TpLV30/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTUw/NC0xMzM0NTkyMjEy/LmpwZWc.jpeg",
+   "type": "primary"
+  },
+  {
+   "uri": "https://i.discogs.com/OWpTvsxMTH_LKyKfVm9VwnejWED-PDaweQLLpP85sw0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTUw/NC0xMzM0NTkyMjI4/LmpwZWc.jpeg",
+   "type": "secondary"
+  }
+ ]
+}
