@@ -46,7 +46,10 @@ fn front_cover_prefers_500_falls_back_and_validates() {
     http::set_transport(Arc::new(Mock));
 
     let thumb = caa::fetch_front_cover("bbbb").unwrap().unwrap();
-    assert_eq!((thumb.kind, thumb.mime.as_str()), (ImageType::Front, "image/png"));
+    assert_eq!(
+        (thumb.kind, thumb.mime.as_str()),
+        (ImageType::Front, "image/png")
+    );
     assert_eq!((thumb.width, thumb.height), (3, 2));
 
     let full = caa::fetch_front_cover("aaaa").unwrap().unwrap();
