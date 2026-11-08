@@ -53,9 +53,12 @@ pub struct LoadedFile {
 /// The highest rating (`~rating` runs from 0 to this).
 pub const MAX_RATING: u8 = 5;
 
-/// Containers Symphonia has no demuxer for; tags are read with `symphonia_tagging::read_tags`
-/// (AC-3/E-AC-3, TAK, OptimFROG, TTA). Not playable through `playcore`.
-pub const TAG_ONLY_EXTENSIONS: &[&str] = &["ac3", "eac3", "tak", "ofr", "ofs", "tta"];
+/// Extensions tagcore loads beyond `playcore`'s audio-only list: containers Symphonia has no
+/// demuxer for, read with `symphonia_tagging::read_tags` (AC-3/E-AC-3, TAK, OptimFROG, TTA),
+/// plus aliases (`m2a`, `oggflac`, `m4v` audio) that `playcore` does not list.
+pub const TAG_ONLY_EXTENSIONS: &[&str] = &[
+    "ac3", "eac3", "tak", "ofr", "ofs", "tta", "m2a", "oggflac", "m4v",
+];
 
 /// File extensions the loader accepts (lowercase, no dot, sorted): every audio-only format
 /// `playcore` can demux, plus [`TAG_ONLY_EXTENSIONS`].
