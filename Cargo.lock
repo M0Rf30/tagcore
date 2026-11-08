@@ -243,6 +243,7 @@ dependencies = [
 [[package]]
 name = "playcore"
 version = "0.1.0"
+source = "git+https://github.com/M0Rf30/playcore?tag=v0.1.0#0b344515e02927131a42f1e87d12459818e67765"
 dependencies = [
  "log",
  "symphonia",
