@@ -444,6 +444,11 @@ fn format_name(short_name: &str) -> String {
     .to_owned()
 }
 
+/// Identifies `path`'s container from its leading bytes (never from the extension).
+pub fn sniff(path: &Path) -> Result<Container> {
+    symphonia_tagging::sniff(path).map_err(|e| tagging_error(e, path, false))
+}
+
 /// Replaces the file's tags with the visible keys of `metadata` (and its `~rating` when
 /// `options.rating_email` is set) and its images, through `symphonia_tagging::write_file`.
 ///

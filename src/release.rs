@@ -28,6 +28,18 @@ pub struct ReleaseId {
     pub id: String,
 }
 
+/// Whether `t` is a canonical lowercase/uppercase hyphenated MBID (36 chars).
+pub fn is_mbid(t: &str) -> bool {
+    t.len() == 36
+        && t.chars().enumerate().all(|(i, c)| {
+            if matches!(i, 8 | 13 | 18 | 23) {
+                c == '-'
+            } else {
+                c.is_ascii_hexdigit()
+            }
+        })
+}
+
 impl ReleaseId {
     /// Web page of the release.
     pub fn url(&self) -> String {
@@ -40,16 +52,6 @@ impl ReleaseId {
     /// Parses a pasted MusicBrainz/Discogs release URL, a bare MBID, or `discogs:<id>`.
     pub fn parse(input: &str) -> Option<Self> {
         let s = input.trim().trim_end_matches('/');
-        let is_mbid = |t: &str| {
-            t.len() == 36
-                && t.chars().enumerate().all(|(i, c)| {
-                    if matches!(i, 8 | 13 | 18 | 23) {
-                        c == '-'
-                    } else {
-                        c.is_ascii_hexdigit()
-                    }
-                })
-        };
         if let Some(rest) = s.strip_prefix("discogs:") {
             return rest.parse::<u64>().ok().map(|n| Self {
                 source: Source::Discogs,

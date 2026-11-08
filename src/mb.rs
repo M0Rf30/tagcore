@@ -27,6 +27,7 @@ pub mod search;
 mod text;
 mod versions;
 
+pub use crate::release::is_mbid;
 pub use artist::VARIOUS_ARTISTS_ID;
 pub use text::asciipunct;
 pub use versions::{ReleaseVersion, parse_versions};
@@ -408,7 +409,7 @@ fn page_size(limit: u32) -> u32 {
 
 /// Backslash-escapes every character that is special in Lucene query syntax
 /// (`+ - & | ! ( ) { } [ ] ^ " ~ * ? : \ /`), the same set Picard escapes.
-fn escape_lucene(s: &str) -> String {
+pub fn escape_lucene(s: &str) -> String {
     let mut out = String::with_capacity(s.len());
     for c in s.chars() {
         if matches!(
