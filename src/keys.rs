@@ -1,5 +1,7 @@
 //! Picard tag names (lowercase) used as [`Metadata`](crate::Metadata) keys.
 
+use crate::Metadata;
+
 pub const TITLE: &str = "title";
 pub const ARTIST: &str = "artist";
 /// Multi-valued list of the individual track artists.
@@ -69,3 +71,107 @@ pub const REPLAYGAIN_TRACK_GAIN: &str = "replaygain_track_gain";
 pub const REPLAYGAIN_TRACK_PEAK: &str = "replaygain_track_peak";
 pub const REPLAYGAIN_ALBUM_GAIN: &str = "replaygain_album_gain";
 pub const REPLAYGAIN_ALBUM_PEAK: &str = "replaygain_album_peak";
+
+/// Display order of the well-known fields in the editor: the common block
+/// first, then credits, release details, sort names and identifiers.
+/// Fields not listed here are shown after these, alphabetically.
+pub const KNOWN_KEYS: &[&str] = &[
+    TITLE,
+    ARTIST,
+    ALBUM,
+    ALBUMARTIST,
+    DATE,
+    GENRE,
+    TRACKNUMBER,
+    TOTALTRACKS,
+    DISCNUMBER,
+    TOTALDISCS,
+    DISCSUBTITLE,
+    COMPILATION,
+    COMMENT,
+    LYRICS,
+    ARTISTS,
+    COMPOSER,
+    LYRICIST,
+    CONDUCTOR,
+    ARRANGER,
+    PRODUCER,
+    ENGINEER,
+    MIXER,
+    REMIXER,
+    ORIGINALDATE,
+    ORIGINALYEAR,
+    LABEL,
+    CATALOGNUMBER,
+    BARCODE,
+    ISRC,
+    ASIN,
+    MEDIA,
+    RELEASECOUNTRY,
+    RELEASESTATUS,
+    RELEASETYPE,
+    SCRIPT,
+    LANGUAGE,
+    BPM,
+    KEY,
+    MOOD,
+    GROUPING,
+    COPYRIGHT,
+    LICENSE,
+    ENCODEDBY,
+    ENCODERSETTINGS,
+    WEBSITE,
+    TITLESORT,
+    ARTISTSORT,
+    ALBUMSORT,
+    ALBUMARTISTSORT,
+    COMPOSERSORT,
+    MUSICBRAINZ_RECORDINGID,
+    MUSICBRAINZ_TRACKID,
+    MUSICBRAINZ_ALBUMID,
+    MUSICBRAINZ_ARTISTID,
+    MUSICBRAINZ_ALBUMARTISTID,
+    MUSICBRAINZ_RELEASEGROUPID,
+    MUSICBRAINZ_WORKID,
+    MUSICBRAINZ_DISCID,
+    MUSICBRAINZ_LABELID,
+    ACOUSTID_ID,
+    ACOUSTID_FINGERPRINT,
+    REPLAYGAIN_TRACK_GAIN,
+    REPLAYGAIN_TRACK_PEAK,
+    REPLAYGAIN_ALBUM_GAIN,
+    REPLAYGAIN_ALBUM_PEAK,
+];
+
+/// `(key, values)` of `metadata` in editor display order: [`KNOWN_KEYS`] first, then the
+/// remaining keys alphabetically. Hidden (`~`) keys are never listed.
+pub fn display_order(metadata: &Metadata) -> Vec<(&str, &[String])> {
+    let mut out: Vec<(&str, &[String])> = KNOWN_KEYS
+        .iter()
+        .filter(|k| metadata.contains(k))
+        .map(|k| (*k, metadata.get_all(k)))
+        .collect();
+    out.extend(
+        metadata
+            .iter()
+            .filter(|(k, _)| !k.starts_with('~') && !KNOWN_KEYS.contains(k)),
+    );
+    out
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn display_order_puts_known_keys_first_then_alphabetical() {
+        let mut m = Metadata::new();
+        m.set("zzz", "1");
+        m.set(ALBUM, "B");
+        m.set("aaa", "2");
+        m.set(TITLE, "A");
+        m.set(crate::metadata::LENGTH, "1000");
+        let order: Vec<&str> = display_order(&m).into_iter().map(|(k, _)| k).collect();
+        assert_eq!(order, ["title", "album", "aaa", "zzz"]);
+    }
+}

@@ -98,6 +98,31 @@ impl ImageType {
         }
     }
 
+    /// The type of an ID3v2 `APIC` / FLAC `PICTURE` picture type number, through Picard's
+    /// `__ID3_IMAGE_TYPE_MAP`: media (6) is `Medium`, the numbers with no archive type (file icon,
+    /// artist, ...) are `Other`.
+    pub fn from_id3_type(id3: u8) -> Self {
+        match id3 {
+            3 => Self::Front,
+            4 => Self::Back,
+            5 => Self::Booklet,
+            6 => Self::Medium,
+            _ => Self::Other,
+        }
+    }
+
+    /// The ID3v2 / FLAC picture type number written for this type; types ID3 has no number for
+    /// (obi, tray, spine, ...) are 0 ("Other"), `Track` is "Media" like `Medium`.
+    pub fn id3_type(self) -> u8 {
+        match self {
+            Self::Front => 3,
+            Self::Back => 4,
+            Self::Booklet => 5,
+            Self::Medium | Self::Track => 6,
+            _ => 0,
+        }
+    }
+
     /// The type named `name` (case-insensitive); `None` for names the archive does not define.
     pub fn from_name(name: &str) -> Option<Self> {
         let name = name.trim();
@@ -318,5 +343,50 @@ impl Metadata {
     /// Whether both hold the same tags (images are not compared).
     pub fn same_tags(&self, other: &Metadata) -> bool {
         self.tags == other.tags
+    }
+}
+
+/// Splits a `"3/12"` style position into `(number, total)`. Either half may be missing;
+/// non-numeric text yields `None` for that half.
+pub fn split_position(s: &str) -> (Option<u32>, Option<u32>) {
+    let mut parts = s.splitn(2, '/');
+    let n = parts.next().and_then(|p| p.trim().parse().ok());
+    let t = parts.next().and_then(|p| p.trim().parse().ok());
+    (n, t)
+}
+
+/// Joins `(number, total)` into `"3/12"`, `"3"`, `"/12"` or `""`; empty parts count as missing.
+pub fn join_position(number: Option<&str>, total: Option<&str>) -> String {
+    match (
+        number.filter(|s| !s.is_empty()),
+        total.filter(|s| !s.is_empty()),
+    ) {
+        (Some(n), Some(t)) => format!("{n}/{t}"),
+        (Some(n), None) => n.to_string(),
+        (None, Some(t)) => format!("/{t}"),
+        (None, None) => String::new(),
+    }
+}
+
+#[cfg(test)]
+mod position_tests {
+    use super::*;
+
+    #[test]
+    fn positions_round_trip() {
+        assert_eq!(split_position("3/12"), (Some(3), Some(12)));
+        assert_eq!(split_position(" 7 "), (Some(7), None));
+        assert_eq!(split_position("/9"), (None, Some(9)));
+        assert_eq!(join_position(Some("3"), Some("12")), "3/12");
+        assert_eq!(join_position(Some("3"), Some("")), "3");
+        assert_eq!(join_position(None, None), "");
+    }
+
+    #[test]
+    fn id3_picture_types() {
+        assert_eq!(ImageType::from_id3_type(3), ImageType::Front);
+        assert_eq!(ImageType::from_id3_type(8), ImageType::Other);
+        assert_eq!(ImageType::Track.id3_type(), 6);
+        assert_eq!(ImageType::Obi.id3_type(), 0);
     }
 }

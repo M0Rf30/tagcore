@@ -8,6 +8,7 @@
 //! [`http::Transport`] the host application installs with [`http::set_transport`].
 
 pub mod acoustid;
+pub mod caa;
 pub mod cluster;
 pub mod discogs;
 pub mod error;

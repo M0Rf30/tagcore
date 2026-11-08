@@ -110,12 +110,8 @@ pub fn identify(data: &[u8]) -> Result<ImageInfo> {
         .with_guessed_format()
         .map_err(Error::Io)?;
     let format = match reader.format() {
-        Some(image::ImageFormat::Jpeg) => ImageFormat::Jpeg,
-        Some(image::ImageFormat::Png) => ImageFormat::Png,
-        Some(image::ImageFormat::Gif) => ImageFormat::Gif,
-        Some(image::ImageFormat::WebP) => ImageFormat::WebP,
-        Some(image::ImageFormat::Tiff) => ImageFormat::Tiff,
-        Some(other) => return Err(Error::Decode(format!("unsupported image format {other:?}"))),
+        Some(other) => from_image_format(other)
+            .ok_or_else(|| Error::Decode(format!("unsupported image format {other:?}")))?,
         None => return Err(Error::Decode("not a recognised image".into())),
     };
     let (width, height) = reader
@@ -126,6 +122,17 @@ pub fn identify(data: &[u8]) -> Result<ImageInfo> {
         width,
         height,
     })
+}
+
+fn from_image_format(format: image::ImageFormat) -> Option<ImageFormat> {
+    match format {
+        image::ImageFormat::Jpeg => Some(ImageFormat::Jpeg),
+        image::ImageFormat::Png => Some(ImageFormat::Png),
+        image::ImageFormat::Gif => Some(ImageFormat::Gif),
+        image::ImageFormat::WebP => Some(ImageFormat::WebP),
+        image::ImageFormat::Tiff => Some(ImageFormat::Tiff),
+        _ => None,
+    }
 }
 
 /// Pixel size of a raster image; `None` for anything [`identify`] rejects or PDFs.
@@ -143,10 +150,14 @@ pub fn mime_of(content_type: &str, data: &[u8]) -> String {
     if declared.starts_with("image/") || declared == "application/pdf" {
         return declared;
     }
-    match identify(data) {
-        Ok(info) => info.format.mime().to_owned(),
-        Err(_) if declared.is_empty() => "application/octet-stream".to_owned(),
-        Err(_) => declared,
+    if let Ok(info) = identify(data) {
+        return info.format.mime().to_owned();
+    }
+    // A truncated image still has its magic bytes.
+    match image::guess_format(data).ok().and_then(from_image_format) {
+        Some(format) => format.mime().to_owned(),
+        None if declared.is_empty() => "application/octet-stream".to_owned(),
+        None => declared,
     }
 }
 
@@ -209,6 +220,7 @@ mod tests {
         assert_eq!(mime_of("application/octet-stream", &png), "image/png");
         assert_eq!(mime_of("", &png), "image/png");
         assert_eq!(mime_of("", b"<html>"), "application/octet-stream");
+        assert_eq!(mime_of("", b"\xFF\xD8\xFFtruncated"), "image/jpeg");
         assert_eq!(mime_of("text/html", b"<html>"), "text/html");
         assert_eq!(mime_of("application/pdf", b"%PDF-1.7"), "application/pdf");
         assert_eq!(extension_for_mime("image/jpeg"), "jpg");

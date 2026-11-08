@@ -5,6 +5,9 @@ use std::time::Duration;
 
 use crate::{Error, Result};
 
+/// PCM rate DSD streams are decimated to before fingerprinting.
+pub const DSD_PCM_RATE: u32 = 44_100;
+
 /// Seconds of audio fed to the fingerprinter (same as `fpcalc` default).
 pub const MAX_SECONDS: u32 = 120;
 
@@ -17,7 +20,8 @@ pub struct Fingerprint {
 }
 
 /// Decodes the first [`MAX_SECONDS`] of the default track to interleaved i16 and fingerprints
-/// it with the default algorithm. Bit-identical to `fpcalc -length 120` for the same PCM.
+/// it with the default algorithm. Bit-identical to `fpcalc -length 120` for the same PCM. DSD
+/// streams are decimated to [`DSD_PCM_RATE`] PCM first.
 pub fn compute(path: &Path) -> Result<Fingerprint> {
     use symphonia::core::codecs::audio::AudioDecoderOptions;
     use symphonia::core::errors::Error as SymError;
@@ -46,12 +50,16 @@ pub fn compute(path: &Path) -> Result<Fingerprint> {
         .default_track(TrackType::Audio)
         .ok_or_else(|| Error::Unsupported(path.to_path_buf()))?;
     let track_id = track.id;
-    let params = track
+    let mut params = track
         .codec_params
         .as_ref()
         .and_then(|p| p.audio())
         .ok_or_else(|| Error::Unsupported(path.to_path_buf()))?
         .clone();
+    if is_dsd(&params) {
+        // The fork's DSD decoder converts to PCM at the rate given in `extra_data`.
+        params.extra_data = Some(DSD_PCM_RATE.to_le_bytes().to_vec().into_boxed_slice());
+    }
     let declared_rate = params.sample_rate;
     let declared_frames = track.num_frames;
     let declared_time = match (track.time_base, track.duration) {
@@ -143,6 +151,11 @@ pub fn compute(path: &Path) -> Result<Fingerprint> {
         fingerprint: fp.encode(),
         duration,
     })
+}
+
+/// Whether `params` describe raw DSD (1-bit) audio.
+pub fn is_dsd(params: &symphonia::core::codecs::audio::AudioCodecParameters) -> bool {
+    params.codec == symphonia::default::formats::CODEC_TYPE_DSD
 }
 
 #[cfg(test)]

@@ -711,11 +711,11 @@ fn free_form(key: &str, value: &str, container: Container) -> Tag {
 pub(super) fn to_visual(image: &CoverImage) -> Visual {
     // Picard's `__ID3_IMAGE_TYPE_MAP`: track and medium are both "Media"; the types ID3's
     // picture types have no entry for (obi, tray, spine, sticker, ...) are "Other".
-    let usage = match image.kind {
-        ImageType::Front => StandardVisualKey::FrontCover,
-        ImageType::Back => StandardVisualKey::BackCover,
-        ImageType::Booklet => StandardVisualKey::Leaflet,
-        ImageType::Medium | ImageType::Track => StandardVisualKey::Media,
+    let usage = match image.kind.id3_type() {
+        3 => StandardVisualKey::FrontCover,
+        4 => StandardVisualKey::BackCover,
+        5 => StandardVisualKey::Leaflet,
+        6 => StandardVisualKey::Media,
         _ => StandardVisualKey::Other,
     };
 
