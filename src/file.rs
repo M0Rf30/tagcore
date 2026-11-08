@@ -3,6 +3,7 @@
 use std::collections::BTreeMap;
 use std::fs::File;
 use std::path::Path;
+use std::sync::LazyLock;
 use std::time::Duration;
 
 use symphonia_core::codecs::CodecParameters;
@@ -52,17 +53,29 @@ pub struct LoadedFile {
 /// The highest rating (`~rating` runs from 0 to this).
 pub const MAX_RATING: u8 = 5;
 
-/// File extensions the loader accepts to load (lowercase, no dot).
-pub const SUPPORTED_EXTENSIONS: &[&str] = &[
-    "mp3", "mp2", "m2a", "flac", "ogg", "oga", "oggflac", "opus", "spx", "m4a", "m4b", "m4p",
-    "m4v", "m4r", "mp4", "aac", "ac3", "eac3", "wav", "aif", "aiff", "aifc", "dsf", "ape", "wv",
-    "mpc", "mp+", "tak", "ofr", "ofs", "tta",
-];
+/// Containers Symphonia has no demuxer for; tags are read with `symphonia_tagging::read_tags`
+/// (AC-3/E-AC-3, TAK, OptimFROG, TTA). Not playable through `playcore`.
+pub const TAG_ONLY_EXTENSIONS: &[&str] = &["ac3", "eac3", "tak", "ofr", "ofs", "tta"];
+
+/// File extensions the loader accepts (lowercase, no dot, sorted): every audio-only format
+/// `playcore` can demux, plus [`TAG_ONLY_EXTENSIONS`].
+pub static SUPPORTED_EXTENSIONS: LazyLock<Vec<&'static str>> = LazyLock::new(|| {
+    let mut exts: Vec<&'static str> = playcore::format::SUPPORTED_EXTENSIONS
+        .iter()
+        .copied()
+        .filter(|e| playcore::format::is_audio_only_extension(e))
+        .chain(TAG_ONLY_EXTENSIONS.iter().copied())
+        .collect();
+    exts.sort_unstable();
+    exts.dedup();
+    exts
+});
 
 pub fn is_supported(path: &Path) -> bool {
-    path.extension()
-        .and_then(|e| e.to_str())
-        .is_some_and(|e| SUPPORTED_EXTENSIONS.contains(&e.to_ascii_lowercase().as_str()))
+    path.extension().and_then(|e| e.to_str()).is_some_and(|e| {
+        let e = e.to_ascii_lowercase();
+        playcore::format::is_audio_only_extension(&e) || TAG_ONLY_EXTENSIONS.contains(&e.as_str())
+    })
 }
 
 /// Probes `path`, reads every tag and embedded picture (all metadata revisions, latest wins) and

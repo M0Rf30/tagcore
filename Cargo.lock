@@ -241,6 +241,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "playcore"
+version = "0.1.0"
+dependencies = [
+ "log",
+ "symphonia",
+]
+
+[[package]]
 name = "png"
 version = "0.18.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1237,6 +1245,7 @@ dependencies = [
  "chromaprint-next",
  "image",
  "log",
+ "playcore",
  "regex",
  "serde",
  "serde_json",

@@ -19,120 +19,62 @@ pub struct Fingerprint {
     pub duration: Duration,
 }
 
-/// Decodes the first [`MAX_SECONDS`] of the default track to interleaved i16 and fingerprints
-/// it with the default algorithm. Bit-identical to `fpcalc -length 120` for the same PCM. DSD
-/// streams are decimated to [`DSD_PCM_RATE`] PCM first.
+/// Decodes the first [`MAX_SECONDS`] of the default track through [`playcore::SymphoniaDecoder`]
+/// to interleaved i16 and fingerprints it with the default algorithm. Bit-identical to
+/// `fpcalc -length 120` for the same PCM. DSD streams are decimated to [`DSD_PCM_RATE`] PCM.
 pub fn compute(path: &Path) -> Result<Fingerprint> {
-    use symphonia::core::codecs::audio::AudioDecoderOptions;
-    use symphonia::core::errors::Error as SymError;
-    use symphonia::core::formats::probe::Hint;
-    use symphonia::core::formats::{FormatOptions, TrackType};
-    use symphonia::core::io::MediaSourceStream;
-    use symphonia::core::meta::MetadataOptions;
-    use symphonia::core::units::Timestamp;
+    use playcore::{DecoderOptions, SymphoniaDecoder};
 
-    let file = std::fs::File::open(path)?;
-    let mss = MediaSourceStream::new(Box::new(file), Default::default());
-    let mut hint = Hint::new();
-    if let Some(ext) = path.extension().and_then(|e| e.to_str()) {
-        hint.with_extension(ext);
-    }
-    let mut format = symphonia::default::get_probe()
-        .probe(
-            &hint,
-            mss,
-            FormatOptions::default(),
-            MetadataOptions::default(),
-        )
+    // Surface a missing/unreadable file as an I/O error, anything else as unsupported.
+    std::fs::File::open(path)?;
+    let mut decoder = SymphoniaDecoder::open(path, DecoderOptions::default())
         .map_err(|_| Error::Unsupported(path.to_path_buf()))?;
-
-    let track = format
-        .default_track(TrackType::Audio)
-        .ok_or_else(|| Error::Unsupported(path.to_path_buf()))?;
-    let track_id = track.id;
-    let mut params = track
-        .codec_params
-        .as_ref()
-        .and_then(|p| p.audio())
-        .ok_or_else(|| Error::Unsupported(path.to_path_buf()))?
-        .clone();
-    if is_dsd(&params) {
-        // The fork's DSD decoder converts to PCM at the rate given in `extra_data`.
-        params.extra_data = Some(DSD_PCM_RATE.to_le_bytes().to_vec().into_boxed_slice());
+    if decoder.is_dsd() {
+        decoder
+            .enable_pcm_conversion(DSD_PCM_RATE)
+            .map_err(|e| Error::Decode(e.to_string()))?;
     }
-    let declared_rate = params.sample_rate;
-    let declared_frames = track.num_frames;
-    let declared_time = match (track.time_base, track.duration) {
-        (Some(tb), Some(d)) => i64::try_from(d.get())
-            .ok()
-            .and_then(|d| tb.calc_time(Timestamp::new(d)))
-            .map(|t| t.as_nanos()),
-        _ => None,
-    };
-    let mut decoder = symphonia::default::get_codecs()
-        .make_audio_decoder(&params, &AudioDecoderOptions::default())
-        .map_err(|e| Error::Decode(e.to_string()))?;
-
+    let declared = decoder.duration();
+    let rate = decoder.sample_rate();
+    let channels = usize::from(decoder.channels());
     let mut fp = chromaprint::Fingerprinter::new(chromaprint::Algorithm::default());
-    let mut started = false;
-    let mut rate = 0u32;
-    let mut channels = 0usize;
-    let mut limit_frames = 0u64;
-    let mut fed_frames = 0u64;
-    let mut total_frames = 0u64;
-    let mut pcm: Vec<i16> = Vec::new();
+    fp.start(rate, u16::from(decoder.channels()))
+        .map_err(|e| Error::Fingerprint(e.to_string()))?;
 
+    let limit_samples = u64::from(rate) * u64::from(MAX_SECONDS) * channels as u64;
+    let mut fed = 0u64;
+    let mut total = 0u64;
+    let mut buf = vec![0f32; channels.max(1) * 4096];
+    let mut pcm: Vec<i16> = Vec::new();
     loop {
-        let packet = match format.next_packet() {
-            Ok(Some(p)) => p,
-            Ok(None) => break,
-            Err(SymError::IoError(_)) | Err(SymError::DecodeError(_)) => continue,
-            Err(SymError::ResetRequired) => break,
-            Err(e) => {
-                if started {
-                    log::warn!("{}: stopping fingerprint decode: {e}", path.display());
-                    break;
-                }
-                return Err(Error::Decode(e.to_string()));
+        let n = match decoder.read(&mut buf) {
+            Ok(0) => break,
+            Ok(n) => n,
+            Err(e) if total > 0 => {
+                log::warn!("{}: stopping fingerprint decode: {e}", path.display());
+                break;
             }
-        };
-        if packet.track_id != track_id {
-            continue;
-        }
-        let decoded = match decoder.decode(&packet) {
-            Ok(d) => d,
-            Err(SymError::IoError(_)) | Err(SymError::DecodeError(_)) => continue,
             Err(e) => return Err(Error::Decode(e.to_string())),
         };
-        let frames = decoded.frames() as u64;
-        if frames == 0 {
-            continue;
-        }
-        total_frames += frames;
-        if !started {
-            rate = decoded.spec().rate();
-            channels = decoded.spec().channels().count();
-            let ch = u16::try_from(channels)
-                .map_err(|_| Error::Fingerprint(format!("too many channels: {channels}")))?;
-            fp.start(rate, ch)
-                .map_err(|e| Error::Fingerprint(e.to_string()))?;
-            started = true;
-            limit_frames = u64::from(rate) * u64::from(MAX_SECONDS);
-        }
-        if fed_frames < limit_frames {
-            let take = frames.min(limit_frames - fed_frames);
-            decoded.copy_to_vec_interleaved(&mut pcm);
-            pcm.truncate(take as usize * channels);
+        total += n as u64;
+        if fed < limit_samples {
+            let take = (n as u64).min(limit_samples - fed) as usize;
+            pcm.clear();
+            pcm.extend(
+                buf[..take]
+                    .iter()
+                    .map(|&s| (s * 32768.0).round().clamp(-32768.0, 32767.0) as i16),
+            );
             fp.feed(&pcm)
                 .map_err(|e| Error::Fingerprint(e.to_string()))?;
-            fed_frames += take;
+            fed += take as u64;
         }
         // Stop once enough audio is fed and the full duration is known without decoding on.
-        if fed_frames >= limit_frames && (declared_frames.is_some() || declared_time.is_some()) {
+        if fed >= limit_samples && declared.is_some() {
             break;
         }
     }
-    if !started {
+    if total == 0 {
         return Err(Error::Decode(format!(
             "{}: no decodable audio",
             path.display()
@@ -140,22 +82,16 @@ pub fn compute(path: &Path) -> Result<Fingerprint> {
     }
     fp.finish().map_err(|e| Error::Fingerprint(e.to_string()))?;
 
-    let duration = if let Some(n) = declared_frames {
-        Duration::from_secs_f64(n as f64 / f64::from(declared_rate.unwrap_or(rate).max(1)))
-    } else if let Some(ns) = declared_time {
-        Duration::from_nanos(u64::try_from(ns).unwrap_or(0))
-    } else {
-        Duration::from_secs_f64(total_frames as f64 / f64::from(rate.max(1)))
+    let duration = match declared {
+        Some(secs) => Duration::from_secs_f64(secs),
+        None => Duration::from_secs_f64(
+            (total / channels.max(1) as u64) as f64 / f64::from(rate.max(1)),
+        ),
     };
     Ok(Fingerprint {
         fingerprint: fp.encode(),
         duration,
     })
-}
-
-/// Whether `params` describe raw DSD (1-bit) audio.
-pub fn is_dsd(params: &symphonia::core::codecs::audio::AudioCodecParameters) -> bool {
-    params.codec == symphonia::default::formats::CODEC_TYPE_DSD
 }
 
 #[cfg(test)]

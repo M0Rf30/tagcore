@@ -10,6 +10,7 @@ repository = "https://github.com/M0Rf30/tagcore"
 chromaprint-next = { git = "https://github.com/M0Rf30/chromaprint-next", branch = "improvements/deps-and-review", version = "0.1.0" }
 image = { version = "0.25.10", default-features = false, features = ["jpeg", "png", "gif", "webp", "tiff"] }
 log = "0.4.35"
+playcore = { version = "0.1.0", path = "../playcore" }
 regex = "1.13.1"
 serde = { version = "1.0.229", features = ["derive"] }
 serde_json = "1.0.154"
