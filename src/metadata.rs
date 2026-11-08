@@ -51,10 +51,66 @@ pub enum ImageType {
     Unknown,
 }
 
+impl ImageType {
+    /// Every type, in the Cover Art Archive's own order, then the `unknown` pseudo type.
+    pub const ALL: [ImageType; 18] = [
+        Self::Front,
+        Self::Back,
+        Self::Booklet,
+        Self::Medium,
+        Self::Obi,
+        Self::Spine,
+        Self::Track,
+        Self::Other,
+        Self::Tray,
+        Self::Sticker,
+        Self::Poster,
+        Self::Liner,
+        Self::Watermark,
+        Self::RawUnedited,
+        Self::MatrixRunout,
+        Self::Top,
+        Self::Bottom,
+        Self::Unknown,
+    ];
+
+    /// The lowercase name the Cover Art Archive and Picard's settings use (`raw/unedited`).
+    pub fn name(self) -> &'static str {
+        match self {
+            Self::Front => "front",
+            Self::Back => "back",
+            Self::Booklet => "booklet",
+            Self::Medium => "medium",
+            Self::Tray => "tray",
+            Self::Liner => "liner",
+            Self::Spine => "spine",
+            Self::Track => "track",
+            Self::Other => "other",
+            Self::Obi => "obi",
+            Self::Sticker => "sticker",
+            Self::Poster => "poster",
+            Self::Watermark => "watermark",
+            Self::RawUnedited => "raw/unedited",
+            Self::MatrixRunout => "matrix/runout",
+            Self::Top => "top",
+            Self::Bottom => "bottom",
+            Self::Unknown => "unknown",
+        }
+    }
+
+    /// The type named `name` (case-insensitive); `None` for names the archive does not define.
+    pub fn from_name(name: &str) -> Option<Self> {
+        let name = name.trim();
+        Self::ALL
+            .into_iter()
+            .find(|t| t.name().eq_ignore_ascii_case(name))
+    }
+}
+
 /// One image of a release, a file's tags or the cover pane.
 ///
 /// `data` is what gets embedded in tags. Everything after `description` is bookkeeping added by
-/// the cover art pipeline ([`crate::coverart`]); build values with [`CoverImage::new`] and set
+/// the host's cover art pipeline; build values with [`CoverImage::new`] and set
 /// what differs. Two images are equal when their bytes and main type are (Picard's rule), so a
 /// downloaded image identical to the embedded one does not mark a file as changed.
 #[derive(Debug, Clone)]
@@ -115,6 +171,42 @@ impl CoverImage {
             file_variant: None,
             preview: None,
         }
+    }
+
+    /// Picard's `is_front_image`.
+    pub fn is_front_image(&self) -> bool {
+        self.is_front
+    }
+
+    /// Picard's `normalized_types`: the image's types with `front` first and the rest sorted,
+    /// the front type alone for a front image whose source reports no types, and nothing for
+    /// an untyped non-front image.
+    pub fn normalized_types(&self) -> Vec<ImageType> {
+        if !self.types.is_empty() {
+            let mut rest: Vec<ImageType> = self
+                .types
+                .iter()
+                .copied()
+                .filter(|t| *t != ImageType::Front)
+                .collect();
+            rest.sort_unstable_by_key(|t| t.name());
+            rest.dedup();
+            let mut types = Vec::with_capacity(rest.len() + 1);
+            if self.types.contains(&ImageType::Front) {
+                types.push(ImageType::Front);
+            }
+            types.extend(rest);
+            types
+        } else if self.is_front {
+            vec![ImageType::Front]
+        } else {
+            Vec::new()
+        }
+    }
+
+    /// What external files get: the file-specific version when processing made one.
+    pub fn for_file(&self) -> &CoverImage {
+        self.file_variant.as_deref().unwrap_or(self)
     }
 }
 

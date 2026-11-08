@@ -246,6 +246,12 @@ pub fn status_code(err: &Error) -> Option<u16> {
     let Error::Http(message) = err else {
         return None;
     };
+    status_of_message(message)
+}
+
+/// The status in the message of an `Error::Http` (see [`status_code`]), for hosts that carry the
+/// message in their own error type.
+pub fn status_of_message(message: &str) -> Option<u16> {
     message
         .strip_prefix(STATUS_PREFIX)?
         .split(' ')
